@@ -1,0 +1,7095 @@
+﻿# Database that maps pinyin readings to their closest Tshet'hyun (Qieyun) equivalents.
+# Pinyin readings tabulated from CEDict. Tshet'hyun (Qieyun) phonetic glosses from 廣韻(20170209).csv, courtesy of poem.
+# No tone: Standard Mandarin unpredictable (入); 
+# not to be confused with syllables with neutral tone ('Tone 5'), which are not included here.
+Character	Attested_reading	Expected_reading	QY_gloss
+不	bu4	fu	幫文入
+不	bu2	fu	幫文入
+人	ren2		日開眞平
+一	yi1		影開A眞入
+國	guo2		見合登入
+有	you3		云尤上
+是	shi4		常開支上
+大	da4	dai4	定開泰去
+大	dai4		定開泰去
+大	da1	dai4	定開泰去
+大	da2	dai4	定開泰去
+生	sheng1		生開三庚平
+發	fa1		幫元入
+們	men2		明魂平
+中	zhong1		知三東平
+中	zhong4		知三東去
+時	shi2		常之平
+為	wei2		云合支平
+為	wei4	wei2	云合支平
+以	yi3		以之上
+這	zhe4	zhe3	章開三麻上
+來	lai2		來咍平
+行	xing2	heng2	匣開二庚平
+行	hang2		匣開唐平
+行	heng2		匣開二庚平
+出	chu1		昌合眞入
+上	shang4		常開陽去
+上	shang3	shang4	常開陽去
+現	xian4		匣開先去
+業	ye4		疑嚴入
+會	hui4		匣合泰去
+會	kuai4	gui4	見合泰去
+自	zi4		從開脂去
+自	zi1	zi4	從開脂去
+要	yao4		影A宵去
+要	yao1		影A宵平
+經	jing1		見開青平
+成	cheng2		常開清平
+作	zuo4		精開唐入
+作	zuo1		精開唐入
+作	zuo2		精開唐入
+可	ke3		溪開一歌上
+可	ke4	ke3	溪開一歌上
+子	zi3		精之上
+家	jia1		見開二麻平
+家	gu1	jia1	見開二麻平
+能	neng2		泥開登平
+個	ge4		見開一歌去
+個	ge3	ge4	見開一歌去
+方	fang1		幫陽平
+到	dao4		端豪去
+動	dong4		定一東上
+學	xue2		匣江入
+開	kai1		溪咍平
+工	gong1		見一東平
+工	ei1	gong1	見一東平
+天	tian1		透開先平
+過	guo4		見合一歌去
+進	jin4		精開眞去
+公	gong1		見一東平
+分	fen1		幫文平
+分	fen4		並文去
+麼	mo2		明一歌平
+麼	ma2	mo2	明一歌平
+年	nian2		泥開先平
+地	di4		定開脂去
+理	li3		來之上
+心	xin1		心侵平
+實	shi2		船開眞入
+下	xia4		匣開二麻上
+得	de2		端開登入
+得	dei3	de	端開登入
+得	de4		端開登入
+我	wo3	e3	疑開一歌上
+市	shi4		常之上
+定	ding4		定開青去
+用	yong4		以鍾去
+然	ran2		日開仙平
+產	chan3	shan3	生開山上
+主	zhu3		章虞上
+面	mian4		明A仙去
+者	zhe3		章開三麻上
+力	li4		來開蒸入
+於	yu2	yu1	影魚平
+後	hou4		匣侯上
+同	tong2		定一東平
+同	tong4	tong2	定一東平
+全	quan2		從合仙平
+法	fa3		幫凡入
+法	fa2		幫凡入
+關	guan1		見合刪平
+在	zai4		從咍上
+部	bu4		並模上
+體	ti3		透開齊上
+體	ti1	ti3	透開齊上
+情	qing2		從開清平
+前	qian2		從開先平
+事	shi4	zhi4	崇之去
+重	zhong4		澄鍾上
+重	chong2		澄鍾平
+合	he2		匣覃入
+合	ge3		見覃入
+加	jia1		見開二麻平
+場	chang3	chang2	澄開陽平
+場	chang2		澄開陽平
+資	zi1		精開脂平
+高	gao1		見豪平
+民	min2		明A眞平
+道	dao4		定豪上
+明	ming2		明三庚平
+好	hao3		曉豪上
+好	hao4		曉豪去
+好	hao1	hao3	曉豪上
+間	jian1		見開山平
+間	jian4		見開山去
+間	gan1	jian1	見開山平
+對	dui4		端灰去
+樣	yang4		以開陽去
+本	ben3		幫魂上
+表	biao3		幫B宵上
+意	yi4		影之去
+機	ji1		見開微平
+如	ru2		日魚平
+如	ru4		日魚去
+些	xie1		心開三麻平
+己	ji3		見之上
+沒	mei2	mo4	明魂入
+沒	mo4		明魂入
+度	du4		定模去
+度	duo2		定開唐入
+目	mu4		明三東入
+起	qi3		溪之上
+新	xin1		心開眞平
+長	zhang3		知開陽上
+長	chang2		澄開陽平
+品	pin3		滂B侵上
+因	yin1		影開A眞平
+員	yuan2		云合仙平
+通	tong1		透一東平
+當	dang1		端開唐平
+當	dang4		端開唐去
+今	jin1		見B侵平
+記	ji4		見之去
+果	guo3		見合一歌上
+展	zhan3		知開仙上
+他	ta1	tuo1	透開一歌平
+電	dian4		定開先去
+美	mei3	mi3	明B脂上
+美	mai3	mi3	明B脂上
+化	hua4		曉合二麻去
+化	hua1	hua4	曉合二麻去
+就	jiu4		從尤去
+提	ti2		定開齊平
+提	di1	shi2	常開支平
+日	ri4		日開眞入
+外	wai4	wei4	疑合泰去
+其	qi2		羣之平
+相	xiang1		心開陽平
+相	xiang4		心開陽去
+政	zheng4		章開清去
+小	xiao3		心宵上
+所	suo3	shu3	生魚上
+建	jian4		見開元去
+之	zhi1		章之平
+手	shou3		書尤上
+正	zheng4		章開清去
+正	zheng1		章開清平
+活	huo2		匣合寒入
+性	xing4		心開清去
+了	liao3		來蕭上
+期	qi1	qi2	羣之平
+無	wu2		明虞平
+無	mo2	wu2	明虞平
+無	wu1	wu2	明虞平
+務	wu4		明虞去
+結	jie2		見開先入
+結	jie1		見開先入
+多	duo1		端開一歌平
+此	ci3		清開支上
+感	gan3		見覃上
+利	li4		來開脂去
+金	jin1		見B侵平
+比	bi3		幫A脂上
+比	bi4		並A脂去
+比	bi2		並A眞入
+比	bi1	pi2	並A脂平
+平	ping2		並三庚平
+應	ying4		影開蒸去
+應	ying1		影開蒸平
+司	si1		心之平
+計	ji4		見開齊去
+入	ru4	ri4	日侵入
+回	hui2		匣灰平
+還	hai2	xuan2	邪合仙平
+還	huan2		匣合刪平
+保	bao3		幫豪上
+什	shen2	shi2	常侵入
+什	shi2		常侵入
+最	zui4		精合泰去
+種	zhong3		章鍾上
+種	zhong4		章鍾去
+文	wen2		明文平
+那	na4	nuo4	泥開一歌去
+那	na3	nuo3	泥開一歌上
+設	she4		書開仙入
+量	liang4		來開陽去
+量	liang2		來開陽平
+安	an1		影開寒平
+制	zhi4		章開祭去
+報	bao4		幫豪去
+價	jia4		見開二麻去
+問	wen4		明文去
+女	nü3		孃魚上
+管	guan3		見合寒上
+社	she4		常開三麻上
+內	nei4		泥灰去
+解	jie3	jia3	見開佳上
+解	jie4	jia4	見開佳去
+解	xie4	xia4	匣開佳上;匣開佳去
+想	xiang3		心開陽上
+點	dian3		端添上
+題	ti2		定開齊平
+題	ti3	di4	定開齊去
+常	chang2		常開陽平
+水	shui3		書合脂上
+車	che1		昌開三麻平
+車	ju1		見魚平
+持	chi2		澄之平
+基	ji1		見之平
+身	shen1		書開眞平
+身	sheng1	shen1	書開眞平
+認	ren4		日開眞去
+看	kan4		溪開寒去
+看	kan1		溪開寒平
+知	zhi1		知開支平
+物	wu4		明文入
+門	men2		明魂平
+而	er2		日之平
+已	yi3		以之上
+代	dai4		定咍去
+去	qu4		溪魚去
+數	shu4		生虞去
+數	shu3		生虞上
+數	shuo4		生江入
+程	cheng2		澄開清平
+收	shou1		書尤平
+教	jiao4		見肴去
+教	jiao1		見肴平
+信	xin4		心開眞去
+氣	qi4		溪開微去
+企	qi3		溪開A支上
+企	qi4		溪開A支去
+原	yuan2		疑合元平
+區	qu1		溪虞平
+區	ou1		影侯平
+老	lao3		來豪上
+頭	tou2		定侯平
+東	dong1		端一東平
+規	gui1		見合A支平
+調	tiao2		定蕭平
+調	diao4		定蕭去
+示	shi4		船開脂去
+交	jiao1		見肴平
+接	jie1		精鹽入
+任	ren4		日侵去
+任	ren2		日侵平
+海	hai3		曉咍上
+立	li4		來侵入
+西	xi1		心開齊平
+世	shi4		書開祭去
+特	te4	de2	定開登入
+受	shou4		常尤上
+增	zeng1		精開登平
+覺	jue2		見江入
+覺	jiao4		見肴去
+格	ge2		見開二庚入;見開唐入
+位	wei4		云合脂去
+直	zhi2		澄開蒸入
+統	tong3	tong4	透冬去
+影	ying3		影開三庚上
+決	jue2		見合先入
+次	ci4		清開脂去
+變	bian4		幫B仙去
+強	qiang2		羣開陽平
+強	qiang3	qiang2	羣開陽平
+強	jiang4	qiang2	羣開陽平
+口	kou3		溪侯上
+口	luo2	kou3	溪侯上
+術	shu4	shu2	船合眞入
+術	zhu2	shu2	船合眞入
+投	tou2		定侯平
+總	zong3		精一東上
+運	yun4		云文去
+導	dao3	dao4	定豪去
+說	shuo1		書合仙入
+說	shui4		書合祭去
+少	shao3		書宵上
+少	shao4		書宵去
+名	ming2		明清平
+色	se4	she	生開蒸入
+色	shai3	she	生開蒸入
+賽	sai4		心咍去
+北	bei3	bo	幫登入
+式	shi4		書開蒸入
+裡	li3		來之上
+求	qiu2		羣尤平
+別	bie2		並B仙入
+別	bie4		幫B仙入
+標	biao1		幫A宵平
+戰	zhan4		章開仙去
+球	qiu2		羣尤平
+改	gai3		見咍上
+真	zhen1		章開眞平
+技	ji4		羣開B支上
+消	xiao1		心宵平
+只	zhi3		章開支上
+只	zhi1		章開支平
+商	shang1		書開陽平
+候	hou4		匣侯去
+處	chu3		昌魚上
+處	chu4		昌魚去
+告	gao4		見豪去
+完	wan2	huan2	匣合寒平
+取	qu3		清虞上
+濟	ji4		精開齊去
+濟	ji3		精開齊上
+話	hua4	huai4	匣合夬去
+放	fang4		幫陽去
+樂	le4	luo4	來開唐入
+樂	yue4		疑江入
+樂	lao4	luo4	來開唐入
+廣	guang3		見合唐上
+造	zao4		從豪上
+路	lu4		來模去
+界	jie4		見開皆去
+界	ga4	jie4	見開皆去
+組	zu3		精模上
+流	liu2		來尤平
+聯	lian2		來開仙平
+服	fu2		並三東入
+服	fu4	fu2	並三東入
+證	zheng4		章開蒸去
+形	xing2		匣開青平
+質	zhi4		知開脂去;章開眞入
+反	fan3		幫元上
+專	zhuan1		章合仙平
+整	zheng3		章開清上
+近	jin4		羣欣上
+領	ling3		來開清上
+論	lun4		來魂去
+論	lun2		來合眞平;來魂平
+議	yi4		疑開B支去
+及	ji2		羣B侵入
+件	jian4		羣開B仙上
+指	zhi3		章開脂上
+始	shi3		書之上
+選	xuan3		心合仙上
+打	da3	deng3	端開二庚上
+打	da2	deng3	端開二庚上
+哈	ha1	he	曉覃入
+哈	ha3	he	曉覃入
+哈	ha4	he	曉覃入
+費	fei4		滂微去
+達	da2		定開寒入
+望	wang4		明陽去
+參	can1		清覃平
+參	shen1		生侵平
+參	cen1	can4	清覃去
+視	shi4		常開脂去
+際	ji4		精開祭去
+科	ke1	kuo1	溪合一歌平
+單	dan1		端開寒平
+單	chan2		常開仙平
+單	shan4		常開仙上;常開仙去
+據	ju4		見魚去
+息	xi1		心開蒸入
+轉	zhuan3		知合仙上
+轉	zhuan4		知合仙去
+轉	zhuai3	zhuan3	知合仙上
+由	you2		以尤平
+隊	dui4		定灰去
+股	gu3		見模上
+觀	guan1		見合寒平
+觀	guan4		見合寒去
+傳	chuan2		澄合仙平
+傳	zhuan4		澄合仙去;知合仙去
+治	zhi4		澄之去;澄開脂去
+京	jing1		見開三庚平
+使	shi3		生之上
+續	xu4	su2	邪鍾入
+義	yi4		疑開B支去
+風	feng1		幫三東平
+需	xu1		心虞平
+確	que4		溪江入
+推	tui1		透灰平
+軍	jun1	jun1	見文平
+南	nan2		泥覃平
+南	na1	nan2	泥覃平
+見	jian4		見開先去
+見	xian4		匣開先去
+見	jian1	jian4	見開先去
+愛	ai4		影咍去
+步	bu4		並模去
+辦	ban4		並山去
+各	ge4		見開唐入
+各	ge3		見開唐入
+快	kuai4		溪合夬去
+顯	xian3		曉開先上
+節	jie2		精開先入
+節	jie1		精開先入
+先	xian1		心開先平
+查	cha2		崇開二麻平
+查	zha1		莊開二麻平
+兒	er2		日開支平
+必	bi4		幫A眞入
+歡	huan1		曉合寒平
+備	bei4	bi4	並B脂去
+神	shen2		船開眞平
+喜	xi3		曉之上
+城	cheng2		常開清平
+非	fei1		幫微平
+研	yan2		疑開先平
+房	fang2		並陽平
+況	kuang4	huang4	曉合陽去
+院	yuan4		云合仙去
+考	kao3		溪豪上
+支	zhi1		章開支平
+失	shi1		書開眞入
+效	xiao4		匣肴去
+容	rong2	yong2	以鍾平
+具	ju4		羣虞去
+空	kong1		溪一東平
+空	kong4		溪一東去
+病	bing4		並三庚去
+何	he2		匣開一歌平
+精	jing1		精開清平
+集	ji2		從侵入
+思	si1		心之平
+農	nong2		泥冬平
+難	nan2		泥開寒平
+難	nan4		泥開寒去
+育	yu4		以三東入
+功	gong1		見一東平
+光	guang1		見合唐平
+華	hua2		匣合二麻平
+華	hua4		匣合二麻去
+華	hua1		曉合二麻平
+網	wang3		明陽上
+怎	zen3		精侵上
+注	zhu4		章虞去
+準	zhun3		章合眞上
+級	ji2		見B侵入
+師	shi1		生開脂平
+線	xian4		心開仙去
+但	dan4		定開寒上
+系	xi4		匣開齊去
+營	ying2	yong2	以合清平
+至	zhi4		章開脂去
+白	bai2	bo2	並二庚入
+晚	wan3		明元上
+包	bao1		幫肴平
+權	quan2		羣合B仙平
+命	ming4		明三庚去
+眾	zhong4		章三東去
+每	mei3		明灰上
+究	jiu1	jiu4	見尤去
+共	gong4	jiong4	羣鍾去
+府	fu3		幫虞上
+眼	yan3		疑開山上
+孩	hai2		匣咍平
+友	you3		云尤上
+清	qing1		清開清平
+採	cai3		清咍上
+易	yi4		以開清入
+山	shan1		生開山平
+構	gou4		見侯去
+邊	bian1		幫先平
+爭	zheng1		莊開耕平
+終	zhong1		章三東平
+州	zhou1		章尤平
+勢	shi4		書開祭去
+男	nan2		泥覃平
+施	shi1		書開支平
+醫	yi1		影之平
+裝	zhuang1		莊開陽平
+識	shi2		書開蒸入
+識	zhi4		章之去
+識	shi4		書開蒸入
+客	ke4		溪開二庚入
+月	yue4		疑合元入
+引	yin3		以開眞上
+創	chuang4		初開陽去
+創	chuang1		初開陽平
+照	zhao4		章宵去
+供	gong1	jiong1	見鍾平
+供	gong4	jiong4	見鍾去
+斷	duan4		定合寒上
+馬	ma3		明二麻上
+速	su4		心一東入
+許	xu3		曉魚上
+驗	yan4		疑B鹽去
+深	shen1		書侵平
+責	ze2	zhe	莊開耕入
+首	shou3		書尤上
+存	cun2		從魂平
+元	yuan2		疑合元平
+著	zhu4		知魚去
+著	zhuo2		澄開陽入
+著	zhao2	zhuo	知開陽入
+著	zhao1	zhuo	知開陽入
+士	shi4	zhi4	崇之上
+案	an4		影開寒去
+環	huan2		匣合刪平
+演	yan3		以開仙上
+根	gen1		見痕平
+響	xiang3		曉開陽上
+較	jiao4		見肴去
+從	cong2		從鍾平
+值	zhi2		澄開蒸入
+越	yue4		云合元入
+象	xiang4		邪開陽上
+獲	huo4	huo2	匣合耕入
+料	liao4		來蕭去
+的	di4		端開青入
+的	di2		端開青入
+的	di1		端開青入
+銷	xiao1		心宵平
+態	tai4		透咍去
+優	you1		影尤平
+足	zu2		精鍾入
+舉	ju3		見魚上
+習	xi2		邪侵入
+遊	you2		以尤平
+委	wei3		影合B支上
+委	wei1		影合B支平
+書	shu1		書魚平
+切	qie4		清開先入
+切	qie1		清開先入
+預	yu4		以魚去
+積	ji1		精開清入
+且	qie3		清開三麻上
+等	deng3		端開登上
+聲	sheng1		書開清平
+親	qin1		清開眞平
+親	qing4	qin4	清開眞去
+親	qin2	qin4	清開眞去
+幾	ji3		見開微上
+幾	ji1		見開微平
+試	shi4		書之去
+源	yuan2		疑合元平
+革	ge2		見開耕入
+復	fu4	fou4	並尤去
+昨	zuo2		從開唐入
+劃	hua4	huo2	匣合耕入
+劃	hua2	huo2	匣合耕入
+職	zhi2		章開蒸入
+校	xiao4		匣肴去
+校	jiao4		見肴去
+離	li2		來開支平
+住	zhu4		澄虞去
+熱	re4		日開仙入
+突	tu1	du2	定魂入
+星	xing1		心開青平
+模	mo2	mu2	明模平
+模	mu2		明模平
+助	zhu4		崇魚去
+戶	hu4		匣模上
+算	suan4		心合寒去
+帶	dai4		端開泰去
+早	zao3		精豪上
+午	wu3		疑模上
+音	yin1		影B侵平
+向	xiang4		曉開陽去
+希	xi1		曉開微平
+歷	li4		來開青入
+片	pian4		滂先去
+片	pian1	pian4	滂先去
+滿	man3		明寒上
+織	zhi1		章開蒸入
+火	huo3		曉合一歌上
+極	ji2		羣開蒸入
+才	cai2		從咍平
+素	su4		心模去
+護	hu4		匣模去
+你	ni3		孃之上
+往	wang3		云合陽上
+境	jing4	jing3	見開三庚上
+即	ji2		精開蒸入
+除	chu2		澄魚平
+花	hua1		曉合二麻平
+項	xiang4		匣江上
+警	jing3		見開三庚上
+福	fu2		幫三東入
+益	yi4		影開清入
+型	xing2		匣開青平
+局	ju2		羣鍾入
+該	gai1		見咍平
+評	ping2		並三庚平
+細	xi4		心開齊去
+省	sheng3		生開三庚上
+省	xing3		心開清上
+斯	si1		心開支平
+斯	si4	si1	心開支平
+檢	jian3		見B鹽上
+輕	qing1		溪開清平
+江	jiang1		見江平
+嚴	yan2		疑嚴平
+嚴	yan3	yan2	疑嚴平
+半	ban4		幫寒去
+配	pei4		滂灰去
+份	fen4		並文去
+團	tuan2		定合寒平
+策	ce4	che	初開耕入
+英	ying1		影開三庚平
+謝	xie4		邪開三麻去
+擊	ji1		見開青入
+擊	ji2		見開青入
+率	lü4		來合眞入
+率	shuai4		生合脂去;生合眞入
+排	pai2		並皆平
+排	pai3	pai2	並皆平
+約	yue1		影開陽入
+約	yao1	yao4	影A宵去
+約	yue4		影開陽入
+防	fang2		並陽平
+傷	shang1		書開陽平
+油	you2		以尤平
+療	liao2	liao4	來宵去
+療	liao3	liao4	來宵去
+語	yu3		疑魚上
+食	shi2		船開蒸入
+夠	gou4		見侯去
+再	zai4		精咍去
+血	xue4		曉合先入
+血	xie3	xue	曉合先入
+血	xue3		曉合先入
+器	qi4		溪開B脂去
+落	luo4		來開唐入
+落	lao4	luo4	來開唐入
+落	la4	luo4	來開唐入
+和	he2	huo2	匣合一歌平
+和	he4	huo4	匣合一歌去
+和	huo4		匣合一歌去
+和	hu2	huo2	匣合一歌平
+和	huo2		匣合一歌平
+未	wei4		明微去
+遠	yuan3		云合元上
+遠	yuan4		云合元去
+亞	ya4		影開二麻去
+限	xian4		匣開山上
+連	lian2		來開仙平
+依	yi1		影開微平
+適	shi4		書開清入
+致	zhi4		知開脂去
+居	ju1		見魚平
+負	fu4	fou4	並尤上
+錯	cuo4		清開唐入
+協	xie2		匣添入
+訴	su4		心模去
+繼	ji4		見開齊去
+圍	wei2		云合微平
+票	piao4		滂A宵去
+超	chao1		徹宵平
+測	ce4	che	初開蒸入
+列	lie4		來開仙入
+條	tiao2		定蕭平
+念	nian4		泥添去
+雖	sui1		心合脂平
+言	yan2		疑開元平
+險	xian3		曉B鹽上
+待	dai4		定咍上
+待	dai1	dai4	定咍上
+售	shou4		常尤去
+便	bian4		並A仙去
+便	pian2		並A仙平
+狀	zhuang4		崇開陽去
+牌	pai2		並佳平;並皆平
+充	chong1		昌三東平
+溫	wen1		影魂平
+陽	yang2		以開陽平
+置	zhi4		知之去
+銀	yin2		疑開B眞平
+係	xi4	ji4	見開齊去
+控	kong4		溪一東去
+律	lü4		來合眞入
+並	bing4		並青上
+養	yang3		以開陽上
+堅	jian1		見開先平
+剛	gang1		見開唐平
+青	qing1		清開青平
+克	ke4		溪開登入
+降	jiang4		見江去
+降	xiang2		匣江平
+底	di3		端開齊上
+須	xu1		心虞平
+走	zou3		精侯上
+死	si3		心開脂上
+布	bu4		幫模去
+布	bu3	bu4	幫模去
+字	zi4		從之去
+臺	tai2		定咍平
+緊	jin3		見開A眞上
+絕	jue2		從合仙入
+購	gou4		見侯去
+類	lei4		來合脂去
+財	cai2		從咍平
+隨	sui2		邪合支平
+拉	la1	la4	來覃入
+拉	la3	la4	來覃入
+拉	la4		來覃入
+低	di1		端開齊平
+害	hai4		匣開泰去
+範	fan4		並凡上
+朋	peng2		並登平
+承	cheng2		常開蒸平
+介	jie4		見開皆去
+座	zuo4		從合一歌去
+群	qun2		羣文平
+否	fou3		幫尤上
+否	pi3	bi4	並B脂上
+激	ji1		見開青入
+監	jian1		見銜平
+監	jian4		見銜去
+德	de2		端開登入
+爾	r3	er3	日開支上
+製	zhi4		章開祭去
+願	yuan4		疑合元去
+圖	tu2		定模平
+壓	ya1		影銜入
+壓	ya4		影銜入
+都	du1		端模平
+都	dou1	du1	端模平
+紅	hong2		匣一東平
+紅	gong1	hong2	匣一東平
+故	gu4		見模去
+興	xing1		曉開蒸平
+興	xing4		曉開蒸去
+修	xiu1		心尤平
+聽	ting1		透開青平
+更	geng4		見開二庚去
+更	geng1		見開二庚平
+止	zhi3		章之上
+寶	bao3		幫豪上
+黨	dang3		端開唐上
+審	shen3		書侵上
+藥	yao4	yue4	以開陽入
+款	kuan3		溪合寒上
+三	san1		心談平
+三	san3	san4	心談去
+土	tu3		透模上
+席	xi2		邪開清入
+幸	xing4	heng4	匣開耕上
+或	huo4	huo2	匣合登入
+幹	gan4		見開寒去
+幹	gan1	gan4	見開寒去
+破	po4		滂一歌去
+雙	shuang1		生江平
+雙	huang1	shuang1	生江平
+例	li4		來開祭去
+善	shan4		常開仙上
+維	wei2		以合脂平
+免	mian3		明B仙上
+官	guan1		見合寒平
+乎	hu1	hu2	匣模平
+史	shi3		生之上
+村	cun1		清魂平
+臨	lin2		來侵平
+擇	ze2	zhe2	澄開二庚入
+擇	zhai2	zhe2	澄開二庚入
+紀	ji4	ji3	見之上
+角	jiao3	jue	見江入
+角	jue2		見江入
+武	wu3		明虞上
+屬	shu3	shu2	常鍾入
+屬	zhu3		章鍾入
+媽	ma1	ma2	明二麻平
+減	jian3		見咸上
+簡	jian3		見開山上
+察	cha2		初開山入
+宣	xuan1		心合仙平
+將	jiang1		精開陽平
+將	jiang4		精開陽去
+將	qiang1		清開陽平
+獎	jiang3		精開陽上
+石	shi2		常開清入
+石	dan4	shi2	常開清入
+石	shi1	shi2	常開清入
+衛	wei4		云合祭去
+巴	ba1		幫二麻平
+差	cha1		初開二麻平
+差	cha4	chai4	初開佳去
+差	chai1		初開佳平;初開皆平
+差	ci1	chi1	初開支平
+微	wei1	wei2	明微平
+獨	du2		定一東入
+景	jing3		見開三庚上
+普	pu3		滂模上
+密	mi4		明B眞入
+右	you4		云尤去
+班	ban1		幫刪平
+執	zhi2		章侵入
+香	xiang1		曉開陽平
+稱	cheng1		昌開蒸平
+稱	cheng4		昌開蒸去
+留	liu2		來尤平
+第	di4		定開齊去
+域	yu4		云合蒸入
+括	kuo4	guo	見合寒入
+太	tai4		透開泰去
+健	jian4		羣開元去
+則	ze2		精開登入
+藝	yi4		疑開A祭去
+號	hao4		匣豪去
+號	hao2		匣豪平
+十	shi2		常侵入
+享	xiang3		曉開陽上
+笑	xiao4		心宵去
+僅	jin3	jin4	羣開B眞去
+似	si4		邪之上
+似	shi4	si4	邪之上
+貨	huo4		曉合一歌去
+富	fu4	fou4	幫尤去
+張	zhang1		知開陽平
+像	xiang4		邪開陽上
+額	e2	e4	疑開二庚入
+額	e4		疑開二庚入
+夫	fu1		幫虞平
+米	mi3		明齊上
+佈	bu4		幫模去
+良	liang2		來開陽平
+味	wei4		明微去
+腦	nao3		泥豪上
+初	chu1		初魚平
+旅	lü3		來魚上
+與	yu4		以魚去
+與	yu3		以魚上
+訓	xun4		曉文去
+遇	yu4		疑虞去
+二	er4		日開脂去
+二	er2	er4	日開脂去
+析	xi1		心開青入
+段	duan4		定合寒去
+勞	lao2		來豪平
+聞	wen2		明文平
+左	zuo3		精開一歌上
+飛	fei1		幫微平
+苦	ku3		溪模上
+季	ji4	gui4	見合A脂去
+請	qing3		清開清上
+材	cai2		從咍平
+林	lin2		來侵平
+培	pei2		並灰平
+培	bei4	bou4	並侯上
+室	shi4		書開眞入
+核	he2		匣開耕入
+核	hu2	he2	匣開耕入
+核	he1	he2	匣開耕入
+略	lüe4		來開陽入
+露	lu4		來模去
+露	lou4	lu4	來模去
+訪	fang3	fang4	滂陽去
+異	yi4		以之去
+階	jie1		見開皆平
+港	gang3	jiang3	見江上
+毛	mao2		明豪平
+母	mu3	mou3	明侯上
+刻	ke4		溪開登入
+戲	xi4		曉開B支去
+討	tao3		透豪上
+紹	shao4		常宵上
+康	kang1		溪開唐平
+酒	jiu3		精尤上
+般	ban1		幫刪平
+般	bo1	ban1	幫刪平
+般	pan2		並寒平
+春	chun1		昌合眞平
+里	li3		來之上
+談	tan2		定談平
+歐	ou1		影侯平
+吸	xi1		曉B侵入
+洲	zhou1		章尤平
+幫	bang1		幫唐平
+停	ting2		定開青平
+周	zhou1		章尤平
+族	zu2		從一東入
+彩	cai3		清咍上
+絡	luo4		來開唐入
+批	pi1		滂齊平
+皮	pi2		並B支平
+劇	ju4	ji2	羣開三庚入
+練	lian4		來開先去
+央	yang1		影開陽平
+浪	lang4		來開唐去
+判	pan4		滂寒去
+按	an4		影開寒去
+週	zhou1		章尤平
+父	fu4		並虞上
+擔	dan1		端談平
+擔	dan4		端談去
+競	jing4		羣開三庚去
+婚	hun1		曉魂平
+融	rong2	yong2	以三東平
+疑	yi2		疑之平
+夜	ye4		以開三麻去
+錄	lu4		來鍾入
+缺	que1		溪合A仙入
+志	zhi4		章之去
+河	he2		匣開一歌平
+台	tai2	yi2	以之平
+台	tai1		透咍平
+假	jia3		見開二麻上
+假	jia4		見開二麻去
+假	gei1	ẋ	見開二麻上
+編	bian1		幫先平
+層	ceng2		從開登平
+鬥	dou4		端侯去
+媒	mei2		明灰平
+黃	huang2		匣合唐平
+久	jiu3		見尤上
+吃	chi1	ji	見欣入
+穩	wen3		影魂上
+汽	qi4		溪開微去
+印	yin4		影開A眞去
+烈	lie4		來開仙入
+礎	chu3		初魚上
+甚	shen4		常侵去
+射	she4		船開三麻去
+儘	jin3		精開眞上
+站	zhan4		知咸去
+招	zhao1		章宵平
+昇	sheng1		書開蒸平
+努	nu3		泥模上
+移	yi2		以開支平
+鐵	tie3		透開先入
+古	gu3		見模上
+促	cu4		清鍾入
+急	ji2		見B侵入
+園	yuan2		云合元平
+束	shu4		書鍾入
+驚	jing1		見開三庚平
+黑	hei1	he	曉開登入
+痛	tong4		透一東去
+頻	pin2		並A眞平
+庭	ting2		定開青平
+另	ling4		來開青去
+奇	qi2		羣開B支平
+奇	ji1		見開B支平
+互	hu4		匣模去
+互	hu1	hu4	匣模去
+章	zhang1		章開陽平
+哪	na3	nuo3	泥開一歌上
+哪	ne2	nuo3	泥開一歌上
+飯	fan4		並元上
+均	jun1	jun1	見合A眞平
+典	dian3		端開先上
+擁	yong1	yong3	影鍾上
+鐘	zhong1		章鍾平
+損	sun3		心魂上
+買	mai3		明佳上
+航	hang2		匣開唐平
+百	bai3	bo	幫二庚入
+百	bo4		幫二庚入
+姐	jie3		精開三麻上
+四	si4		心開脂去
+毒	du2		定冬入
+羅	luo2		來開一歌平
+羅	luo1	luo2	來開一歌平
+勝	sheng4		書開蒸去
+胞	bao1		幫肴平
+揮	hui1		曉合微平
+衣	yi1		影開微平
+衣	yi4		影開微去
+巨	ju4		羣魚上
+績	ji4		精開青入
+歌	ge1		見開一歌平
+幣	bi4		並A祭去
+困	kun4		溪魂去
+答	da2		端覃入
+答	da1		端覃入
+王	wang2		云合陽平
+永	yong3		云合三庚上
+趕	gan3		見開寒上
+透	tou4		透侯去
+兩	liang3		來開陽上
+龍	long2		來鍾平
+做	zuo4	zu4	精模去
+店	dian4		端添去
+逐	zhu2		澄三東入
+竟	jing4		見開三庚去
+慮	lü4		來魚去
+順	shun4		船合眞去
+補	bu3		幫模上
+救	jiu4		見尤去
+講	jiang3		見江上
+述	shu4	shu2	船合眞入
+顧	gu4		見模去
+錢	qian2		從開仙平
+兵	bing1		幫三庚平
+擴	kuo4		溪合唐入
+播	bo1	bo4	幫一歌去
+令	ling4		來開清去
+令	ling2		來開清平;來開青平
+染	ran3		日鹽上
+板	ban3		幫刪上
+背	bei4		並灰去
+背	bei1	bei4	並灰去
+登	deng1		端開登平
+冷	leng3		來開二庚上
+休	xiu1		曉尤平
+哥	ge1		見開一歌平
+雜	za2		從覃入
+縣	xian4	xuan4	匣合先去
+尼	ni2		孃開脂平
+亮	liang4		來開陽去
+呼	hu1		曉模平
+慢	man4		明刪去
+付	fu4		幫虞去
+怕	pa4		滂二麻去
+索	suo3		心開唐入
+悉	xi1		心開眞入
+鮮	xian1		心開仙平
+鮮	xian3		心開仙上
+威	wei1		影合微平
+障	zhang4		章開陽去
+犯	fan4		並凡上
+措	cuo4	cu4	清模去
+針	zhen1		章侵平
+患	huan4		匣合刪去
+抗	kang4		溪開唐去
+弟	di4		定開齊去
+弟	ti4	di4	定開齊去
+禮	li3		來開齊上
+靈	ling2		來開青平
+紛	fen1		滂文平
+納	na4		泥覃入
+蘭	lan2		來開寒平
+迷	mi2		明齊平
+課	ke4	kuo4	溪合一歌去
+漲	zhang3	zhang1	知開陽平
+漲	zhang4		知開陽去
+畢	bi4		幫A眞入
+也	ye3		以開三麻上
+尚	shang4		常開陽去
+副	fu4		滂三東入
+倒	dao3		端豪上
+倒	dao4		端豪去
+追	zhui1		知合脂平
+貴	gui4		見合微去
+漢	han4		曉開寒去
+熟	shu2		常三東入
+熟	shou2	shu2	常三東入
+冠	guan4		見合寒去
+冠	guan1		見合寒平
+址	zhi3		章之上
+徵	zheng1		知開蒸平
+徵	zhi3		知之上
+彈	dan4		定開寒去
+彈	tan2		定開寒平
+床	chuang2		崇開陽平
+附	fu4		並虞去
+軟	ruan3		日合仙上
+攻	gong1		見一東平
+草	cao3		清豪上
+睡	shui4		常合支去
+波	bo1		幫一歌平
+複	fu4		幫三東入
+慶	qing4		溪開三庚去
+敗	bai4		並夬去
+給	ji3		見B侵入
+給	gei3	ji	見B侵入
+攝	she4		書鹽入
+牛	niu2	you2	疑尤平
+讀	du2		定一東入
+讀	dou4		定侯去
+懷	huai2		匣合皆平
+廠	chang3		昌開陽上
+操	cao1		清豪平
+操	cao4		清豪去
+罪	zui4		從灰上
+碼	ma3		明二麻上
+退	tui4		透灰去
+朝	chao2		澄宵平
+朝	zhao1		知宵平
+蛋	dan4		定開寒上
+送	song4		心一東去
+序	xu4		邪魚上
+危	wei1	wei2	疑合B支平
+稅	shui4		書合祭去
+伊	yi1		影開A脂平
+予	yu3		以魚上
+予	yu2		以魚平
+殺	sha1		生開山入
+固	gu4		見模去
+靜	jing4		從開清上
+簽	qian1		清鹽平
+散	san4		心開寒去
+散	san3		心開寒上
+寧	ning2		泥開青平
+寧	ning4	ning2	泥開青平
+薦	jian4		精開先去
+遺	yi2	wei2	以合脂平
+豐	feng1		滂三東平
+曾	ceng2		從開登平
+曾	zeng1		精開登平
+券	quan4		溪合元去
+釋	shi4		書開清入
+玩	wan2	wan4	疑合寒去
+拍	pai1	po	滂二庚入
+它	ta1	tuo1	透開一歌平
+違	wei2		云合微平
+蘇	su1		心模平
+鄉	xiang1		曉開陽平
+湖	hu2		匣模平
+婦	fu4	fou4	並尤上
+阿	a1	e1	影開一歌平
+阿	e1		影開一歌平
+盤	pan2		並寒平
+畫	hua4		匣合佳去
+亡	wang2		明陽平
+亡	wang4	wang2	明陽平
+沉	chen2		澄侵平
+沉	chen1	chen2	澄侵平
+迎	ying2		疑開三庚平
+召	zhao4		澄宵去
+召	shao4		常宵去
+換	huan4		匣合寒去
+輸	shu1		書虞平
+守	shou3		書尤上
+貿	mao4	mou4	明侯去
+菜	cai4		清咍去
+沙	sha1		生開二麻平
+綜	zong1	zong4	精冬去
+麗	li4		來開齊去
+麗	li2		來開支平
+申	shen1		書開眞平
+灣	wan1		影合刪平
+探	tan4		透覃去
+衝	chong1		昌鍾平
+衝	chong4	chong1	昌鍾平
+雨	yu3		云虞上
+雨	yu4		云虞去
+漸	jian4		從鹽上
+漸	jian1		精鹽平
+誤	wu4		疑模去
+餐	can1		清開寒平
+秘	mi4	bi4	幫B脂去
+秘	bi4		幫B脂去
+繫	xi4		匣開齊去
+繫	ji4		見開齊去
+藏	cang2		從開唐平
+藏	zang4		從開唐去
+套	tao4		透豪去
+雲	yun2		云文平
+樓	lou2		來侯平
+樓	lou4	lou2	來侯平
+鍵	jian4		羣開B仙上;羣開元上
+醒	xing3		心開青上
+陸	lu4		來三東入
+派	pai4		滂佳去
+恐	kong3	qiong3	溪鍾上
+短	duan3		端合寒上
+避	bi4		並A支去
+督	du1		端冬入
+奶	nai3		孃開佳上
+舞	wu3		明虞上
+升	sheng1		書開蒸平
+壞	huai4		匣合皆去
+幕	mu4	mo4	明唐入
+骨	gu3		見魂入
+骨	gu1		見魂入
+勵	li4		來開祭去
+版	ban3		幫刪上
+含	han2		匣覃平
+估	gu1	gu3	見模上
+估	gu4	gu3	見模上
+筆	bi3		幫B眞入
+博	bo2		幫唐入
+麻	ma2		明二麻平
+麻	ma1	ma2	明二麻平
+曲	qu3		溪鍾入
+曲	qu1		溪鍾入
+概	gai4		見咍去
+築	zhu4		知三東入
+脫	tuo1		透合寒入
+爸	ba4	bo4	並一歌上
+爸	ba3	bo4	並一歌上
+惡	e4		影開唐入
+惡	wu4		影模去
+惡	e3		影開唐入
+禁	jin4		見B侵去
+禁	jin1		見B侵平
+默	mo4		明登入
+輯	ji2		從侵入
+棄	qi4		溪開A脂去
+陣	zhen4		澄開眞去
+映	ying4		影開三庚去
+智	zhi4		知開支去
+童	tong2		定一東平
+賣	mai4		明佳去
+肉	rou4	ru4	日三東入
+盟	meng2	meng4	明二庚去
+館	guan3	guan4	見合寒去
+呵	he1		曉開一歌平
+掌	zhang3		章開陽上
+街	jie1		見開皆平
+于	yu2		云虞平
+爆	bao4		幫肴去
+爆	zha4	bo	幫唐入;幫江入
+私	si1		心開脂平
+木	mu4		明一東入
+距	ju4		羣魚上
+貸	dai4	tai4	透咍去
+暴	bao4		並豪去
+暴	pu4	bu2	並一東入
+訂	ding4		端開青去
+幅	fu2		幫三東入
+授	shou4		常尤去
+握	wo4	yue	影江入
+迅	xun4		心合眞去
+徹	che4		徹開仙入
+謂	wei4		云合微去
+餘	yu2		以魚平
+獻	xian4		曉開元去
+暖	nuan3		泥合寒上
+奧	ao4		影豪去
+趣	qu4		清虞去
+乾	gan1		見開寒平
+乾	qian2		羣開B仙平
+乾	gan4	gan1	見開寒平
+潤	run4		日合眞去
+尤	you2		云尤平
+綠	lü4	lu4	來鍾入
+綠	lu4		來鍾入
+液	ye4	yi4	以開清入
+找	zhao3		莊肴上
+刺	ci4		清開支去
+刺	ci1	qi	清開清入
+延	yan2		以開仙平
+借	jie4		精開三麻去
+五	wu3		疑模上
+韓	han2		匣開寒平
+妹	mei4		明灰去
+冬	dong1		端冬平
+途	tu2		定模平
+洗	xi3		心開齊上
+洗	xian3		心開先上
+折	zhe2		章開仙入
+折	zhe1		章開仙入
+折	she2		常開仙入
+緩	huan3	huan4	匣合寒上
+尋	xun2	xin2	邪侵平
+某	mou3		明侯上
+夢	meng4		明三東去
+奮	fen4		幫文去
+萬	wan4		明元去
+鬆	song1		心冬平;心鍾平
+煙	yan1		影開先平
+訊	xun4	xin4	心開眞去
+摩	mo2		明一歌平
+摩	ma1	mo4	明一歌去
+晨	chen2		常開眞平
+髮	fa4		幫元入
+卡	ka3	qia3	溪開二麻上
+卡	qia3		溪開二麻上
+啟	qi3		溪開齊上
+戀	lian4	luan4	來合仙去
+聖	sheng4		書開清去
+植	zhi2	shi2	常開蒸入
+輪	lun2		來合眞平
+涉	she4	she2	常鹽入
+揚	yang2		以開陽平
+亂	luan4		來合寒去
+唱	chang4		昌開陽去
+鼓	gu3		見模上
+伙	huo3		曉合一歌上
+裁	cai2		從咍平
+污	wu1		影模平
+忘	wang4		明陽去
+聚	ju4		從虞上;從虞去
+祝	zhu4		章三東入
+淡	dan4		定談去
+慣	guan4		見合刪去
+忙	mang2		明唐平
+詢	xun2	xun1	心合眞平
+堂	tang2		定開唐平
+堂	tang3	tang2	定開唐平
+寫	xie3		心開三麻上
+寫	xie4	xie3	心開三麻上
+怪	guai4		見合皆去
+盡	jin4		從開眞上
+盡	jin3		精開眞上
+董	dong3		端一東上
+載	zai4		從咍去
+載	zai3		精咍上
+隱	yin3		影欣上
+症	zheng4		章開清去
+符	fu2		並虞平
+震	zhen4		章開眞去
+惜	xi1		心開清入
+洋	yang2		以開陽平
+洋	yang1	xiang2	邪開陽平
+診	zhen3		章開眞上
+拿	na2		孃開二麻平
+船	chuan2	shuan2	船合仙平
+旦	dan4		端開寒去
+誌	zhi4		章之去
+臉	lian3	lan3	來咸上
+被	bei4	bi4	並B支上
+仍	reng2		日開蒸平
+憶	yi4		影開蒸入
+樹	shu4		常虞上;常虞去
+牙	ya2		疑開二麻平
+縮	suo1	shu	生三東入
+災	zai1		精咍平
+援	yuan2		云合元平
+楚	chu3		初魚上
+盛	sheng4		常開清去
+盛	cheng2		常開清平
+礦	kuang4	gong3	見合二庚上
+靠	kao4		溪豪去
+宜	yi2		疑開B支平
+睛	jing1		精開清平
+阻	zu3	zhu3	莊魚上
+奪	duo2		定合寒入
+伴	ban4		並寒上;並寒去
+膚	fu1		幫虞平
+挑	tiao3	diao4	定蕭上
+挑	tiao1		透蕭平
+粉	fen3		幫文上
+田	tian2		定開先平
+豆	dou4		定侯去
+疫	yi4	yu4	以合清入
+娘	niang2		孃開陽平
+皇	huang2		匣合唐平
+誕	dan4		定開寒上
+貝	bei4		幫泰去
+佳	jia1		見開佳平
+魚	yu2		疑魚平
+端	duan1		端合寒平
+絲	si1		心之平
+婆	po2		並一歌平
+鎮	zhen4		知開眞去
+酸	suan1		心合寒平
+穿	chuan1		昌合仙平
+覆	fu4		滂三東入
+遭	zao1		精豪平
+詞	ci2	si2	邪之平
+頓	dun4		端魂去
+歸	gui1		見合微平
+潮	chao2		澄宵平
+架	jia4		見開二麻去
+帝	di4		端開齊去
+敵	di2		定開青入
+肥	fei2		並微平
+榮	rong2	yong2	云合三庚平
+虛	xu1		曉魚平
+趨	qu1		清虞平
+漫	man4		明寒去
+李	li3		來之上
+坦	tan3		透開寒上
+弱	ruo4		日開陽入
+俄	e2		疑開一歌平
+累	lei3		來合支上
+累	lei4		來合支去
+累	lei2	lei3 lei4	來合支上
+飲	yin3		影B侵上
+朗	lang3		來開唐上
+跡	ji4		精開清入
+抽	chou1		徹尤平
+圳	zhen4	zhun4	章合眞去
+硬	ying4	eng4	疑開耕去
+侵	qin1		清侵平
+忽	hu1		曉魂入
+恢	hui1	kui1	溪灰平
+惠	hui4		匣合齊去
+抓	zhua1	zhao1	莊肴平
+腳	jiao3	jue	見開陽入
+鏡	jing4		見開三庚去
+債	zhai4		莊開佳去
+齡	ling2		來開青平
+搶	qiang3		清開陽上
+搶	qiang1		清開陽平
+野	ye3		以開三麻上
+冰	bing1		幫蒸平
+秀	xiu4		心尤去
+觸	chu4		昌鍾入
+疾	ji2		從開眞入
+純	chun2		常合眞平
+舒	shu1		書魚平
+庫	ku4		溪模去
+妻	qi1		清開齊平
+准	zhun3		章合眞上
+匯	hui4		匣灰上
+償	chang2		常開陽平
+腫	zhong3		章鍾上
+腫	zhong1	zhong3	章鍾上
+衡	heng2		匣開二庚平
+雪	xue3		心合仙入
+混	hun4		匣魂上
+混	hun2	hun4	匣魂上
+暗	an4		影覃去
+貧	pin2		並B眞平
+潛	qian2		從鹽平
+刑	xing2		匣開青平
+廈	xia4		匣開二麻上
+廈	sha4	xia4	匣開二麻上
+諾	nuo4		泥開唐入
+珍	zhen1		知開眞平
+陰	yin1		影B侵平
+炸	zha4		知開二麻去
+炸	zha2	zha4	知開二麻去
+炸	dan4	zha4	知開二麻去
+夏	xia4		匣開二麻上;匣開二麻去
+既	ji4		見開微去
+島	dao3		端豪上
+乏	fa2		並凡入
+耳	er3		日之上
+抵	di3		端開齊上
+鋼	gang1		見開唐平
+雄	xiong2	yong2	云三東平
+爺	ye2		以開三麻平
+繁	fan2		並元平
+煩	fan2		並元平
+紙	zhi3		章開支上
+飾	shi4		書開蒸入
+租	zu1		精模平
+兄	xiong1		曉合三庚平
+兄	xing1	xiong1	曉合三庚平
+悲	bei1	bi1	幫B脂平
+狂	kuang2		羣合陽平
+遍	bian4		幫先去
+尊	zun1		精魂平
+忍	ren3		日開眞上
+迫	po4	bo	幫二庚入
+迫	pai3	bo	幫二庚入
+郵	you2		云尤平
+徑	jing4		見開青去
+寬	kuan1		溪合寒平
+註	zhu4		知虞去;章虞去
+暫	zan4		從談去
+把	ba3		幫二麻上
+把	ba4	ba3	幫二麻上
+姓	xing4		心開清去
+封	feng1		幫鍾平
+舊	jiu4		羣尤去
+吉	ji2		見開A眞入
+岸	an4		疑開寒去
+殘	can2		從開寒平
+毫	hao2		匣豪平
+跌	die1	die2	定開先入
+淚	lei4		來合脂去
+零	ling2		來開青平
+旁	pang2		並唐平
+漂	piao4		滂A宵去
+漂	piao1		滂A宵平
+漂	piao3	piao4	滂A宵去
+翻	fan1		滂元平
+罰	fa2		並元入
+踐	jian4		從開仙上
+輩	bei4		幫灰去
+蓋	gai4		見開泰去
+蓋	ge3		見談入
+檔	dang4	dang1	端開唐平
+檔	dang3	dang1	端開唐平
+川	chuan1		昌合仙平
+偉	wei3		云合微上
+劑	ji4		從開齊去
+儀	yi2		疑開B支平
+儀	yi4	yi2	疑開B支平
+乘	cheng2	sheng2	船開蒸平
+乘	sheng4		船開蒸去
+她	ta1	tuo1	透開一歌平
+巧	qiao3		溪肴上
+貫	guan4		見合寒去
+儲	chu3	chu2	澄魚平
+勇	yong3		以鍾上
+澤	ze2	zhe2	澄開二庚入
+壇	tan2		定開寒平
+聊	liao2		來蕭平
+厚	hou4		匣侯去
+截	jie2		從開先入
+淨	jing4		從開清去
+屋	wu1		影一東入
+辛	xin1		心開眞平
+圓	yuan2		云合仙平
+頂	ding3		端開青上
+伍	wu3		疑模上
+泛	fan4		滂凡去
+肌	ji1		見開B脂平
+廳	ting1		透開青平
+若	ruo4		日開陽入
+若	re3		日開三麻上
+燈	deng1		端開登平
+駕	jia4		見開二麻去
+糾	jiu1	jiu3	見幽上
+千	qian1		清開先平
+冒	mao4		明豪去
+賓	bin1		幫A眞平
+傾	qing1	qiong1	溪合清平
+津	jin1		精開眞平
+拜	bai4		幫皆去
+拜	bai2	bai4	幫皆去
+杭	hang2		匣開唐平
+冊	ce4	che	初開耕入
+逃	tao2		定豪平
+殊	shu1	shu2	常虞平
+偏	pian1		滂A仙平
+杯	bei1		幫灰平
+雅	ya3		疑開二麻上
+雅	ya1	ya3	疑開二麻上
+托	tuo1		透開唐入
+偶	ou3		疑侯上
+閉	bi4		幫齊去
+掉	diao4		定蕭上;定蕭去
+燃	ran2		日開仙平
+甲	jia3		見銜入
+滑	hua2		匣合山入
+宮	gong1	jiong1	見三東平
+澳	ao4		影豪去
+糖	tang2		定開唐平
+駛	shi3		生之上
+茶	cha2		澄開二麻平
+煤	mei2		明灰平
+脈	mai4	mo4	明耕入
+脈	mo4		明耕入
+貼	tie1		透添入
+干	gan1		見開寒平
+干	gan4	gan1	見開寒平
+搭	da1	ta	透談入
+緒	xu4		邪魚上
+嫌	xian2		匣添平
+跟	gen1		見痕平
+娛	yu2		疑虞平
+胡	hu2		匣模平
+誠	cheng2		常開清平
+叫	jiao4		見蕭去
+陷	xian4		匣咸去
+屆	jie4		見開皆去
+跳	tiao4	tiao2	定蕭平
+炎	yan2		云鹽平
+盾	dun4		定魂上
+貌	mao4		明肴去
+錦	jin3		見B侵上
+替	ti4		透開齊去
+祖	zu3		精模上
+雞	ji1		見開齊平
+託	tuo1		透開唐入
+緣	yuan2		以合仙平
+詳	xiang2		邪開陽平
+腐	fu3	fu4	並虞上
+佔	zhan4	dian1	端添平
+嘿	hei1	he	曉開登入
+槍	qiang1		清開陽平
+塊	kuai4		溪合皆去
+鋒	feng1		滂鍾平
+齊	qi2		從開齊平
+偷	tou1		透侯平
+膽	dan3		端談上
+裂	lie4		來開仙入
+矛	mao2	mou2	明尤平
+濃	nong2		孃鍾平
+晶	jing1		精開清平
+麵	mian4		明先去
+箱	xiang1		心開陽平
+恩	en1		影痕平
+闆	ban3		幫刪上
+賞	shang3		書開陽上
+陳	chen2		澄開眞平
+諧	xie2		匣開皆平
+廢	fei4		幫廢去
+敬	jing4		見開三庚去
+坐	zuo4		從合一歌上
+籌	chou2		澄尤平
+瞭	liao3		來蕭上
+瞭	liao4	liao2	來蕭平
+姑	gu1		見模平
+峰	feng1		滂鍾平
+倫	lun2		來合眞平
+籃	lan2		來談平
+浙	zhe4		章開仙入
+讓	rang4		日開陽去
+寒	han2		匣開寒平
+焦	jiao1		精宵平
+潔	jie2		見開先入
+署	shu3	shu4	常魚去
+滅	mie4		明A仙入
+抑	yi4		影開B蒸入
+拒	ju4		羣魚上
+伸	shen1		書開眞平
+豪	hao2		匣豪平
+珠	zhu1		章虞平
+閃	shan3		書鹽上
+謀	mou2		明尤平
+謀	mou4	mou2	明尤平
+勁	jing4		見開清去
+凌	ling2		來開蒸平
+厭	yan4		影A鹽去
+厭	yan1	yan3	影A鹽上
+燒	shao1		書宵平
+襲	xi2		邪侵入
+八	ba1		幫山入
+塞	se4		心開登入
+塞	sai1	se	心開登入
+塞	sai4		心咍去
+崗	gang3	gang1	見開唐平
+崗	gang1		見開唐平
+玉	yu4		疑鍾入
+遲	chi2		澄開脂平
+句	ju4		見虞去
+句	gou1		見侯平
+句	ju2	qu2	羣虞平
+顏	yan2		疑開刪平
+橋	qiao2		羣B宵平
+羊	yang2		以開陽平
+幼	you4		影幽去
+俱	ju4	ju1	見虞平
+徒	tu2		定模平
+糧	liang2		來開陽平
+宿	su4		心三東入
+宿	xiu4		心尤去
+宿	su1		心三東入
+閒	xian2		匣開山平
+瓜	gua1		見合二麻平
+旗	qi2		羣之平
+葉	ye4		以鹽入
+柔	rou2		日尤平
+貢	gong4		見一東去
+覽	lan3		來談上
+剩	sheng4		船開蒸去
+菌	jun1	jun4	羣合B眞上
+菌	jun4		羣合B眞上
+欣	xin1		曉欣平
+厲	li4		來開祭去
+併	bing4		並青上;幫清去
+敏	min3		明B眞上
+宗	zong1		精冬平
+輛	liang4		來開陽去
+隔	ge2		見開耕入
+鏈	lian4	lian2	來開仙平
+抱	bao4		並豪上
+側	ce4	zhe	莊開蒸入
+憂	you1		影尤平
+擾	rao3		日宵上
+躍	yue4		以開陽入
+邀	yao1		影A宵平
+臟	zang4		從開唐去
+奔	ben1		幫魂平
+奔	ben4		幫魂去
+秋	qiu1		清尤平
+賬	zhang4		知開陽去
+莫	mo4		明唐入
+艱	jian1		見開山平
+騙	pian4		滂A仙去
+懂	dong3		端一東上
+雷	lei2		來灰平
+返	fan3		幫元上
+瘤	liu2		來尤平
+誘	you4	you3	以尤上
+溝	gou1		見侯平
+溝	gou4	gou1	見侯平
+搖	yao2		以宵平
+刊	kan1		溪開寒平
+窗	chuang1		初江平
+凡	fan2		並凡平
+虎	hu3		曉模上
+虎	hu1	hu3	曉模上
+虎	hu4	hu3	曉模上
+腹	fu4		幫三東入
+瞬	shun4		書合眞去
+薩	sa4		心開寒入
+咨	zi1		精開脂平
+礙	ai4		疑咍去
+屏	ping2		並青平
+屏	bing3		幫清上
+屏	bing1		幫清平
+宅	zhai2	zhe2	澄開二庚入
+俗	su2		邪鍾入
+泉	quan2		從合仙平
+魔	mo2		明一歌平
+揭	jie1		見開B仙入
+泰	tai4		透開泰去
+閱	yue4		以合仙入
+丈	zhang4		澄開陽上
+蒙	meng3	meng2	明一東平
+蒙	meng2		明一東平
+蒙	meng1	meng2	明一東平
+仔	zi3		精之上
+仔	zai3	zi3	精之上
+仔	zi1		精之平
+猛	meng3		明二庚上
+殖	zhi2	shi2	常開蒸入
+磨	mo2		明一歌平
+磨	mo4		明一歌去
+胸	xiong1		曉鍾平
+帥	shuai4		生合脂去
+賠	pei2		並灰平
+宏	hong2		匣合耕平
+描	miao2		明B宵平
+勒	le4		來開登入
+勒	lei1	le4	來開登入
+勒	le1	le4	來開登入
+薄	bo2		並唐入
+薄	bo4	bo2	並唐入
+薄	bao2	bo2	並唐入
+麥	mai4	mo4	明耕入
+遷	qian1		清開仙平
+喝	he1		曉開寒入
+喝	he4		曉開寒入
+佛	fo2	fu2	並文入
+佛	fu2		並文入
+癌	ai2	yan2	疑咸平
+滋	zi1		精之平
+賴	lai4		來開泰去
+袋	dai4		定咍去
+循	xun2		邪合眞平
+妙	miao4		明A宵去
+拓	tuo4		透開唐入
+拓	ta4	tuo	透開唐入
+征	zheng1		章開清平
+游	you2		以尤平
+泥	ni2		泥開齊平
+泥	ni4		泥開齊去
+遞	di4		定開齊上;定開齊去
+氛	fen1		滂文平
+械	xie4		匣開皆去
+捕	bu3	bu4	並模去
+怒	nu4		泥模去
+箭	jian4		精開仙去
+虧	kui1		溪合B支平
+嘴	zui3		精合支上
+擺	bai3		幫佳上
+鎖	suo3		心合一歌上
+甜	tian2		定添平
+跑	pao3		滂肴上
+泡	pao4	pao1	滂肴平
+泡	pao1		滂肴平
+疼	teng2	tong2	定冬平
+乳	ru3		日虞上
+贏	ying2		以開清平
+膜	mo2	mu2	明模平
+獅	shi1		生開脂平
+刀	dao1		端豪平
+譽	yu4		以魚去
+鬧	nao4		孃肴去
+隆	long2		來三東平
+隆	long1	long2	來三東平
+慰	wei4		影合微去
+騰	teng2		定開登平
+怖	bu4	pu4	滂模去
+碰	peng4		滂耕去
+浮	fu2	fou2	並尤平
+烏	wu1		影模平
+蹤	zong1		精鍾平
+瑪	ma3		明二麻上
+甘	gan1		見談平
+盈	ying2		以開清平
+允	yun3		以合眞上
+繞	rao4		日宵去
+掛	gua4		見合佳去
+塑	su4		心模去
+勤	qin2		羣欣平
+惑	huo4	huo2	匣合登入
+瘋	feng1		幫三東平
+糊	hu2		匣模平
+糊	hu1	hu2	匣模平
+糊	hu4	hu2	匣模平
+丹	dan1		端開寒平
+諸	zhu1		章魚平
+坡	po1		滂一歌平
+森	sen1	shen1	生侵平
+耐	nai4		泥咍去
+搜	sou1	shou1	生尤平
+奈	nai4		泥開泰去
+脂	zhi1		章開脂平
+壯	zhuang4		莊開陽去
+咱	zan2	can2	從覃平
+咱	za2	can2	從覃平
+橫	heng2	hong2	匣合二庚平
+橫	heng4	hong4	匣合二庚去
+眠	mian2		明先平
+寸	cun4		清魂去
+幻	huan4		匣合山去
+藍	lan2		來談平
+軌	gui3		見合B脂上
+魯	lu3		來模上
+莊	zhuang1		莊開陽平
+捐	juan1	yuan2	以合仙平
+渠	qu2		羣魚平
+孔	kong3		溪一東上
+尾	wei3		明微上
+尾	yi3	wei3	明微上
+腸	chang2		澄開陽平
+鞋	xie2		匣開皆平
+脅	xie2		曉嚴入
+耗	hao4		曉豪去
+勛	xun1		曉文平
+紐	niu3		孃尤上
+歲	sui4		心合祭去
+壁	bi4		幫青入
+咖	ka1	qia1	溪開二麻平
+咖	ga1	qia1	溪開二麻平
+旋	xuan2		邪合仙平
+旋	xuan4		邪合仙去
+滾	gun3		見魂上
+撐	cheng1		徹開二庚平
+黎	li2		來開齊平
+黎	li4	li2	來開齊平
+盜	dao4		定豪去
+縱	zong4		精鍾去
+六	liu4	lu4	來三東入
+六	lu4		來三東入
+頒	ban1		幫刪平
+胎	tai1		透咍平
+恰	qia4		溪咸入
+池	chi2		澄開支平
+彼	bi3		幫B支上
+桃	tao2		定豪平
+劉	liu2		來尤平
+霸	ba4		幫二麻去
+膠	jiao1		見肴平
+孫	sun1		心魂平
+慕	mu4		明模去
+寂	ji4	ji2	從開青入
+拔	ba2		並山入
+猶	you2		以尤平
+掃	sao3		心豪上
+掃	sao4		心豪去
+垃	la1	la4	來覃入
+汗	han4		匣開寒去
+汗	han2		匣開寒平
+氧	yang3		以開陽上
+圾	ji1	sa	心覃入
+蘋	ping2	pin2	並A眞平
+啡	fei1	pei3	滂灰上
+扣	kou4		溪侯去
+贊	zan4		精開寒去
+凝	ning2	ying2	疑開蒸平
+斤	jin1		見欣平
+暢	chang4		徹開陽去
+蜜	mi4		明A眞入
+詩	shi1		書之平
+遵	zun1	jun1	精合眞平
+鼻	bi2	bi4	並A脂去
+洞	dong4		定一東去
+洞	tong2		定一東平
+欺	qi1		溪之平
+敢	gan3		見談上
+尿	niao4		泥蕭去
+尿	sui1	niao4	泥蕭去
+鑑	jian4		見銜去
+稀	xi1		曉開微平
+末	mo4		明寒入
+昌	chang1		昌開陽平
+鬼	gui3		見合微上
+扶	fu2		並虞平
+濱	bin1		幫A眞平
+肅	su4		心三東入
+糕	gao1		見豪平
+鬱	yu4		影文入
+舍	she4		書開三麻去
+舍	she3		書開三麻上
+呈	cheng2		澄開清平
+撤	che4		徹開仙入
+鄰	lin2		來開眞平
+憑	ping2		並蒸平
+嘗	chang2		常開陽平
+辭	ci2	si2	邪之平
+璃	li2		來開支平
+擬	ni3	yi3	疑之上
+叔	shu1		書三東入
+怨	yuan4		影合元去
+尖	jian1		精鹽平
+拼	pin1	ping1	滂青平
+籍	ji2		從開清入
+苗	miao2		明B宵平
+憤	fen4		並文上
+棉	mian2		明A仙平
+腺	xian4		心開仙去
+捷	jie2		從鹽入
+艦	jian4	xian4	匣銜上
+圈	quan1		溪合B仙平
+圈	juan4		羣合B仙上;羣合元上;羣合元去
+九	jiu3		見尤上
+毀	hui3		曉合B支上
+毀	hui4		曉合B支去
+扮	ban4		幫山去
+玻	bo1	po1	滂一歌平
+瑞	rui4	shui4	常合支去
+疆	jiang1		見開陽平
+塔	ta3		透談入
+疲	pi2		並B支平
+振	zhen4		章開眞去
+嘆	tan4		透開寒去
+灰	hui1		曉灰平
+褲	ku4		溪模去
+拖	tuo1		透開一歌平
+悄	qiao1	qiao3	清宵上
+悄	qiao3		清宵上
+姻	yin1		影開A眞平
+姆	mu3	mou3	明侯上
+嘉	jia1		見開二麻平
+荷	he2		匣開一歌平
+荷	he4		匣開一歌上
+奏	zou4		精侯去
+宇	yu3		云虞上
+纖	xian1		心鹽平
+梯	ti1		透開齊平
+譯	yi4		以開清入
+迪	di2		定開青入
+嘻	xi1		曉之平
+繳	jiao3		見蕭上
+拆	chai1	che	徹開二庚入
+嚮	xiang4		曉開陽去
+跨	kua4		溪合二麻去
+伯	bo2		幫二庚入
+伯	bai3	bo	幫二庚入
+伯	ba4	bo	幫二庚入
+肚	du4		定模上
+肚	du3		端模上
+撞	zhuang4		澄江去
+葡	pu2		並模平
+萄	tao2		定豪平
+披	pi1		滂B支平
+桌	zhuo1		知江入
+涼	liang2		來開陽平
+憐	lian2		來開先平
+巡	xun2		邪合眞平
+淋	lin2		來侵平
+淋	lin4	lin2	來侵平
+鍋	guo1		見合一歌平
+袖	xiu4		邪尤去
+牽	qian1		溪開先平
+捨	she3		書開三麻上
+捨	she4	she3	書開三麻上
+娃	wa2	ya1	影開佳平
+兼	jian1		見添平
+壽	shou4		常尤去
+漏	lou4		來侯去
+肝	gan1		見開寒平
+蟲	chong2		澄三東平
+戒	jie4		見開皆去
+憾	han4		匣覃去
+慘	can3		清覃上
+魂	hun2		匣魂平
+肩	jian1		見開先平
+聰	cong1		清一東平
+徽	hui1		曉合微平
+插	cha1		初咸入
+蕩	dang4		定開唐上
+狠	hen3	hen4	匣痕上
+卷	juan4		羣合元上
+卷	juan3		見合B仙上
+悔	hui3		曉灰上
+牢	lao2		來豪平
+眉	mei2	mi2	明B脂平
+棍	gun4	hun4	匣魂上
+慎	shen4		常開眞去
+晰	xi1		心開青入
+喪	sang4		心開唐去
+喪	sang1		心開唐平
+駐	zhu4		知虞去
+惱	nao3		泥豪上
+履	lü3	li3	來開脂上
+窮	qiong2		羣三東平
+尺	chi3		昌開清入
+尺	che3	chi	昌開清入
+瀋	shen3	chen3	昌侵上
+讚	zan4		精開寒去
+紫	zi3		精開支上
+悶	men4		明魂去
+悶	men1	men4	明魂去
+妝	zhuang1		莊開陽平
+轟	hong1		曉合耕平
+哲	zhe2		知開仙入
+恭	gong1	jiong1	見鍾平
+驅	qu1		溪虞平
+添	tian1		透添平
+忠	zhong1		知三東平
+櫃	gui4		羣合B脂去
+魅	mei4	mi4	明B脂去
+辯	bian4		並B仙上
+攜	xie2	hui2	匣合齊平
+崇	chong2		崇三東平
+胃	wei4		云合微去
+悟	wu4		疑模去
+賀	he4		匣開一歌去
+奉	feng4		並鍾上
+陪	pei2		並灰平
+丁	ding1		端開青平
+丁	zheng1		知開耕平
+涵	han2		匣覃平
+伏	fu2		並三東入
+罷	ba4	bai4	並佳上
+鑒	jian4		見銜去
+荒	huang1		曉合唐平
+遙	yao2		以宵平
+贈	zeng4		從開登去
+唐	tang2		定開唐平
+洪	hong2		匣一東平
+熊	xiong2	yong2	云三東平
+洛	luo4		來開唐入
+渡	du4		定模去
+墨	mo4		明登入
+羨	xian4		邪開仙去
+邦	bang1		幫江平
+懸	xuan2		匣合先平
+鼠	shu3		書魚上
+浦	pu3		滂模上
+赫	he4		曉開二庚入
+敦	dun1		端魂平
+吧	ba1		幫二麻平
+萊	lai2		來咍平
+倡	chang4		昌開陽去
+倡	chang1		昌開陽平
+塗	tu2		定模平
+劣	lie4	lüe4	來合仙入
+悠	you1	you2	以尤平
+腔	qiang1		溪江平
+劫	jie2		見嚴入
+寞	mo4		明唐入
+輝	hui1		曉合微平
+峽	xia2		匣咸入
+炮	pao4		滂肴去
+炮	pao2		並肴平
+腰	yao1		影A宵平
+秩	zhi4	zhi2	澄開眞入
+轎	jiao4		羣B宵去
+泳	yong3	yong4	云合三庚去
+脆	cui4		清合祭去
+凍	dong4		端一東去
+碎	sui4		心灰去
+粗	cu1	zu4	從模上
+慧	hui4		匣合齊去
+孤	gu1		見模平
+塵	chen2		澄開眞平
+仙	xian1		心開仙平
+蓄	xu4		曉三東入
+伐	fa2		並元入
+炭	tan4		透開寒去
+刷	shua1		生合刪入
+刷	shua4		生合刪入
+屍	shi1		書開脂平
+屍	shi3	shi4	書開脂去
+幽	you1		影幽平
+屈	qu1		溪文入
+瓦	wa3		疑合二麻上
+瓦	wa4		疑合二麻去
+蔬	shu1		生魚平
+姿	zi1		精開脂平
+遼	liao2		來蕭平
+鋪	pu4		滂模去
+鋪	pu1		滂模平
+闊	kuo4		溪合寒入
+牆	qiang2		從開陽平
+煉	lian4		來開先去
+彙	hui4	wei4	云合微去
+廉	lian2		來鹽平
+廷	ting2		定開青平
+穫	huo4	huo2	匣合唐入
+旬	xun2		邪合眞平
+巾	jin1		見開B眞平
+堡	bao3		幫豪上
+堡	bu3	bao3	幫豪上
+堡	pu4	bao3	幫豪上
+堡	pu3	bao3	幫豪上
+貓	mao1	miao2	明B宵平
+貓	mao2		明肴平
+衰	shuai1		生合脂平
+偽	wei3	wei4	疑合B支去
+曉	xiao3		曉蕭上
+彷	fang3		滂陽上
+彷	pang2		並唐平
+鄭	zheng4		澄開清去
+松	song1	song2	邪鍾平
+淘	tao2		定豪平
+貪	tan1		透覃平
+輔	fu3	fu4	並虞上
+役	yi4	yu4	以合清入
+肺	fei4		滂廢去
+肺	fei1	fei4	滂廢去
+丟	diu1		端幽平
+棋	qi2		羣之平
+薪	xin1		心開眞平
+誼	yi4		疑開B支去
+仰	yang3		疑開陽上
+慾	yu4		以鍾入
+飽	bao3		幫肴上
+緻	zhi4		澄開脂去
+爐	lu2		來模平
+謹	jin3		見欣上
+仁	ren2		日開眞平
+漠	mo4		明唐入
+嗚	wu1		影模平
+匆	cong1		清一東平
+戴	dai4		端咍去
+堆	dui1		端灰平
+堆	tui1	dui1	端灰平
+菲	fei1		滂微平
+菲	fei3		滂微上
+鍛	duan4		端合寒去
+飼	si4		邪之去
+乃	nai3		泥咍上
+邏	luo2	luo4	來開一歌去
+炒	chao3		初肴上
+押	ya1		影銜入
+扎	zha2		莊開山入
+扎	zha1		莊開山入
+扎	za1	zha	莊開山入
+谷	gu3		見一東入
+谷	yu4		以鍾入
+掩	yan3		影B鹽上
+羽	yu3		云虞上
+鑽	zuan1		精合寒平
+鑽	zuan4		精合寒去
+沖	chong1	chong2	澄三東平
+沖	chong4	chong2	澄三東平
+爽	shuang3		生開陽上
+逆	ni4	yi4	疑開三庚入
+割	ge1		見開寒入
+割	gua4	ge	見開寒入
+爛	lan4		來開寒去
+紋	wen2		明文平
+妥	tuo3		透合一歌上
+佩	pei4	bei4	並灰去
+抬	tai2	chi1	徹之平
+辨	bian4		並B仙上
+騎	qi2		羣開B支平
+獄	yu4		疑鍾入
+旨	zhi3		章開脂上
+鞏	gong3	jiong3	見鍾上
+欠	qian4		溪嚴去
+陌	mo4		明二庚入
+蒼	cang1		清開唐平
+囊	nang2		泥開唐平
+囊	nang1	nang2	泥開唐平
+鍊	lian4		來開先去
+艾	ai4		疑開泰去
+艾	yi4		疑開廢去
+梁	liang2		來開陽平
+嬰	ying1		影開清平
+仿	fang3		滂陽上
+慈	ci2		從之平
+彿	fu2		滂文入
+彿	fo2	fu	滂文入
+濕	shi1		書侵入
+稿	gao3		見豪上
+粒	li4		來侵入
+豬	zhu1		知魚平
+奢	she1		書開三麻平
+哀	ai1		影咍平
+傢	jia1		見開二麻平
+稍	shao1	shao4	生肴去
+稍	shao4		生肴去
+蜂	feng1		滂鍾平
+郎	lang2		來開唐平
+郎	lang4	lang2	來開唐平
+恨	hen4		匣痕去
+膀	bang3	pang2	並唐平
+膀	pang2		並唐平
+膀	bang4	pang2	並唐平
+沿	yan2	yuan2	以合仙平
+傲	ao4		疑豪去
+諒	liang4		來開陽去
+弄	nong4	long4	來一東去
+弄	long4		來一東去
+飄	piao1		滂A宵平
+晉	jin4		精開眞去
+迴	hui2		匣灰平
+疏	shu1		生魚平
+腿	tui3		透灰上
+辣	la4		來開寒入
+辣	la1	la4	來開寒入
+摸	mo1	mo4	明唐入
+醉	zui4		精合脂去
+擦	ca1		清開寒入
+脾	pi2		並A支平
+盲	mang2	meng2	明二庚平
+茫	mang2		明唐平
+瓶	ping2		並青平
+盪	dang4		定開唐上
+井	jing3		精開清上
+扭	niu3		孃尤上
+悅	yue4		以合仙入
+溶	rong2	yong2	以鍾平
+渴	ke3		溪開寒入
+胖	pang4		滂江去
+胖	pan2		並寒平
+欄	lan2		來開寒平
+拳	quan2		羣合B仙平
+耕	geng1		見開耕平
+耕	geng4	geng1	見開耕平
+哎	ai1	ai4	影開泰去;疑開泰去
+噴	pen1		滂魂平
+掘	jue2		羣合元入
+耀	yao4		以宵去
+鹽	yan2		以鹽平
+紡	fang3		滂陽上
+痕	hen2		匣痕平
+擠	ji3	ji1	精開齊平
+脹	zhang4		知開陽去
+訟	song4		邪鍾去
+堪	kan1		溪覃平
+嘛	ma2		明二麻平
+涯	ya2		疑開佳平
+狗	gou3		見侯上
+竊	qie4		清開先入
+喚	huan4		曉合寒去
+歉	qian4		溪咸去
+傑	jie2		羣開B仙入
+夕	xi1	xi2	邪開清入
+灌	guan4		見合寒去
+廚	chu2		澄虞平
+搞	gao3	jiao3	見肴上
+蟹	xie4	xia4	匣開佳上
+契	qi4		溪開齊去
+岩	yan2		疑銜平
+昏	hun1		曉魂平
+鄧	deng4		定開登去
+拋	pao1		滂肴平
+愈	yu4	yu3	以虞上
+愉	yu2		以虞平
+頸	jing3		見開清上
+頸	geng3	jing1	見開青平
+牲	sheng1		生開三庚平
+臥	wo4		疑合一歌去
+懶	lan3		來開寒上
+七	qi1		清開眞入
+填	tian2		定開先平
+蘿	luo2		來開一歌平
+漁	yu2		疑魚平
+憲	xian4		曉開元去
+竹	zhu2		知三東入
+芯	xin1		心侵平
+朵	duo3		端合一歌上
+朵	duo1	duo3	端合一歌上
+窩	wo1		影合一歌平
+侶	lü3		來魚上
+潰	kui4	hui4	匣灰去
+潰	hui4		匣灰去
+壟	long3		來鍾上
+彌	mi2		明A支平
+懲	cheng2		澄開蒸平
+翼	yi4		以開蒸入
+框	kuang4	kuang1	溪合陽平
+綿	mian2		明A仙平
+餅	bing3		幫清上
+撫	fu3		滂虞上
+汰	tai4		透開泰去
+撲	pu1		滂一東入
+猜	cai1		清咍平
+哭	ku1		溪一東入
+禍	huo4		匣合一歌上
+梅	mei2		明灰平
+喊	han3		曉談上
+姨	yi2		以開脂平
+赤	chi4		昌開清入
+滯	zhi4		澄開祭去
+踏	ta4		透覃入
+踏	ta1		透覃入
+轄	xia2		匣開刪入
+倉	cang1		清開唐平
+陝	shan3		書鹽上
+懼	ju4		羣虞去
+擋	dang3		端開唐上
+擋	dang4		端開唐去
+濤	tao1	tao2	定豪平
+陵	ling2		來開蒸平
+屁	pi4		滂A脂去
+賄	hui4	hui3	曉灰上
+賄	hui1	hui3	曉灰上
+乙	yi3		影開B眞入
+叛	pan4	ban4	並寒去
+琴	qin2		羣B侵平
+朱	zhu1		章虞平
+澱	dian4		定開先去
+榜	bang3		幫唐上
+榜	bang4	bang3	幫唐上
+馳	chi2		澄開支平
+賺	zhuan4	zhan4	澄咸去
+詐	zha4		莊開二麻去
+臣	chen2		常開眞平
+宴	yan4		影開先去
+繪	hui4		匣合泰去
+蹈	dao3	dao4	定豪去
+蹈	dao4		定豪去
+邁	mai4		明夬去
+椅	yi3		影開B支上
+酷	ku4		溪冬入
+賭	du3		端模上
+渾	hun2		匣魂平
+牧	mu4		明三東入
+誇	kua1		溪合二麻平
+柱	zhu4		澄虞上
+磁	ci2		從之平
+寄	ji4		見開B支去
+寨	zhai4		崇開夬去
+翔	xiang2		邪開陽平
+妨	fang2	fang1	滂陽平
+慌	huang1	huang3	曉合唐上
+蠍	xie1		曉開元入
+桿	gan3		見開寒上
+桿	gan1	gan3	見開寒上
+綱	gang1		見開唐平
+吵	chao3		初肴上
+吵	chao1	miao3	明A宵上
+仇	chou2	qiu2	羣尤平
+龐	pang2		並江平
+拘	ju1		見虞平
+漿	jiang1		精開陽平
+漿	jiang4	jiang1	精開陽平
+掙	zheng1		莊開耕平
+掙	zheng4		莊開耕去
+恆	heng2		匣開登平
+稻	dao4		定豪上
+夾	jia1		見咸入
+夾	ga1	jia	見咸入
+夾	jia2		見咸入
+羯	jie2		見開元入
+削	xue1		心開陽入
+削	xiao1	xue	心開陽入
+斥	chi4		昌開清入
+齒	chi3		昌之上
+寓	yu4		疑虞去
+宵	xiao1		心宵平
+縫	feng4		並鍾去
+縫	feng2		並鍾平
+陶	tao2		定豪平
+杜	du4		定模上
+販	fan4		幫元去
+肪	fang2		並陽平
+籲	yu4		以虞去
+歧	qi2		羣開A支平
+賦	fu4		幫虞去
+募	mu4		明模去
+埋	mai2		明皆平
+埋	man2	mai2	明皆平
+啤	pi2		並A支平
+噁	e3	wu4	影模去
+噁	e4	wu4	影模去
+禦	yu4	yu3	疑魚上
+獸	shou4		書尤去
+辱	ru3	ru4	日鍾入
+倍	bei4		並灰上
+雕	diao1		端蕭平
+綁	bang3		幫江上
+昂	ang2		疑開唐平
+昆	kun1	gun1	見魂平
+糟	zao1		精豪平
+閣	ge2		見開唐入
+逼	bi1		幫蒸入
+銳	rui4	dui4	定合泰去
+墅	shu4		常魚上
+番	fan1		滂元平
+番	pan1		滂寒平
+烤	kao3		溪豪上
+扁	bian3		幫先上
+扁	pian1		滂A仙平
+祥	xiang2		邪開陽平
+鳳	feng4		並三東去
+勾	gou1		見侯平
+勾	gou4	gou1	見侯平
+墓	mu4		明模去
+碩	shuo4	shi2	常開清入
+驕	jiao1		見B宵平
+垂	chui2	shui2	常合支平
+慨	kai3	kai4	溪咍去
+虹	hong2		匣一東平
+搬	ban1		幫寒平
+尬	ga4	jie4	見開皆去
+尷	gan1	jian1	見銜平
+煌	huang2		匣合唐平
+埃	ai1		影咍平
+忌	ji4		羣之去
+騷	sao1		心豪平
+暈	yun1	yun4	云文去
+暈	yun4		云文去
+躁	zao4		精豪去
+兇	xiong1		曉鍾平
+肢	zhi1		章開支平
+罵	ma4		明二麻去
+瑰	gui1		見灰平
+犧	xi1		曉開B支平
+衷	zhong1		知三東平
+傻	sha3	shua3	生合二麻上
+浴	yu4		以鍾入
+彎	wan1		影合刪平
+湧	yong3		以鍾上
+惟	wei2		以合脂平
+浸	jin4		精侵去
+芒	mang2		明唐平
+剪	jian3		精開仙上
+剝	bo1		幫江入
+剝	bao1	bo	幫江入
+滴	di1		端開青入
+摘	zhai1	zhe	知開耕入
+紗	sha1		生開二麻平
+豫	yu4		以魚去
+艇	ting3	ding4	定開青上
+逛	guang4	guang3	見合陽上
+羞	xiu1		心尤平
+寵	chong3		徹鍾上
+壤	rang3		日開陽上
+宋	song4		心冬去
+泌	mi4	bi4	幫B脂去
+泌	bi4		幫B脂去;幫B眞入
+挖	wa1		影合山入
+帽	mao4		明豪去
+呆	dai1		端咍平
+芝	zhi1		章之平
+驟	zhou4		崇尤去
+敲	qiao1		溪肴平
+癒	yu4	yu3	以虞上
+沫	mo4		明寒入
+愧	kui4	gui4	見合B脂去
+醇	chun2		常合眞平
+拾	shi2		常侵入
+拾	she4	shi2	常侵入
+拾	shi1	shi2	常侵入
+君	jun1		見文平
+籠	long2		來一東平;來鍾平
+籠	long3		來一東上
+欲	yu4		以鍾入
+吐	tu3		透模上
+吐	tu4		透模去
+狹	xia2		匣咸入
+叉	cha1		初開二麻平
+叉	cha4	chai1	初開佳平
+澡	zao3		精豪上
+嫩	nen4	nun4	泥魂去
+攤	tan1		透開寒平
+廁	ce4	chi4	初之去
+棒	bang4		並江上
+裕	yu4		以虞去
+恥	chi3		徹之上
+吻	wen3		明文上
+湯	tang1		透開唐平
+曝	bao4		並豪去
+曝	pu4	bu2	並一東入
+勃	bo2		並魂入
+攀	pan1		滂刪平
+滲	shen4		生侵去
+畜	chu4		徹三東入
+畜	xu4		曉三東入
+輿	yu2		以魚平
+筋	jin1		見欣平
+撒	sa1		心開寒入
+撒	sa3		心開寒入
+曆	li4		來開青入
+邪	xie2		邪開三麻平
+卑	bei1	bi1	幫A支平
+闢	pi4	bi2	並清入
+玫	mei2		明灰平
+椒	jiao1		精宵平
+徐	xu2		邪魚平
+襯	chen4		初臻去
+鳴	ming2		明三庚平
+秤	cheng4		昌開蒸去
+匹	pi3		滂A眞入
+匹	pi2		滂A眞入
+遜	xun4	sun4	心魂去
+撥	bo1		幫寒入
+灘	tan1		透開寒平
+斑	ban1		幫刪平
+勻	yun2		以合眞平
+燥	zao4	sao3	心豪上
+敘	xu4		邪魚上
+桑	sang1		心開唐平
+桑	sang3	sang1	心開唐平
+郊	jiao1		見肴平
+鳥	niao3	diao3	端蕭上
+鳥	diao3		端蕭上
+赴	fu4		滂虞去
+舟	zhou1		章尤平
+碑	bei1	bi1	幫B支平
+擅	shan4		常開仙去
+謊	huang3		曉合唐上;曉合陽上
+竭	jie2		羣開B仙入;羣開元入
+柴	chai2		崇開佳平
+誓	shi4		常開祭去
+旺	wang4		云合陽去
+吳	wu2		疑模平
+崩	beng1		幫登平
+舌	she2		船開仙入
+挽	wan3		明元上
+斜	xie2		邪開三麻平
+葬	zang4		精開唐去
+卓	zhuo2		知江入
+螺	luo2		來合一歌平
+譜	pu3	bu3	幫模上
+塌	ta1		透談入
+塌	ta4		透談入
+姚	yao2		以宵平
+暑	shu3		書魚上
+泊	bo2		並唐入
+泊	po1	bo2	並唐入
+盆	pen2		並魂平
+罕	han3		曉開寒上
+霍	huo4		曉合唐入
+劍	jian4		見嚴去
+殿	dian4		端開先去
+繹	yi4		以開清入
+鈴	ling2		來開青平
+灑	sa3	sha3	生開二麻上
+紮	zha2		莊開山入
+紮	zha1		莊開山入
+紮	za1	zha	莊開山入
+兌	dui4		定合泰去
+彰	zhang1		章開陽平
+瓷	ci2		從開脂平
+氏	shi4		常開支上
+氏	zhi1		章開支平
+后	hou4		匣侯去
+屢	lü3	lü4	來虞去
+蒸	zheng1		章開蒸平
+獵	lie4		來鹽入
+掀	xian1		曉開元平
+銅	tong2		定一東平
+樸	pu3	pu2	並模平
+枝	zhi1		章開支平
+搏	bo2		幫唐入
+饋	kui4	gui4	羣合B脂去
+髓	sui3		心合支上
+訝	ya4		疑開二麻去
+輻	fu2		幫三東入
+楊	yang2		以開陽平
+碌	lu4		來一東入
+碌	liu4	lu4	來一東入
+呀	ya1	ya2	疑開二麻平
+逝	shi4		常開祭去
+妖	yao1		影B宵平
+曼	man4	man2	明寒平
+卵	luan3		來合寒上
+旱	han4		匣開寒上
+攔	lan2		來開寒平
+勉	mian3		明B仙上
+蓮	lian2		來開先平
+吊	diao4		端蕭去
+淺	qian3		清開仙上
+媳	xi2		心開蒸入
+吞	tun1		透痕平
+勸	quan4		溪合元去
+宙	zhou4		澄尤去
+沸	fei4		幫微去
+桂	gui4		見合齊去
+絨	rong2		日三東平
+堵	du3		端模上
+抖	dou3		端侯上
+肆	si4		心開脂去
+趙	zhao4		澄宵上
+奠	dian4		定開先去
+傅	fu4		幫虞去
+纏	chan2		澄開仙平
+脖	bo2		並魂入
+毅	yi4		疑開微去
+籤	qian1		清鹽平
+弊	bi4		並A祭去
+吹	chui1		昌合支平
+霉	mei2		明灰平
+腎	shen4		常開眞上
+歹	dai3		端咍上
+濫	lan4		來談去
+廊	lang2		來開唐平
+頑	wan2		疑合刪平
+喬	qiao2		羣B宵平
+脊	ji3		精開清入
+脊	ji2		精開清入
+柏	bo2		幫二庚入
+柏	bai3	bo	幫二庚入
+柏	bo4		幫二庚入
+撼	han4		匣覃上
+殼	ke2	que	溪江入
+殼	qiao4	que	溪江入
+奴	nu2		泥模平
+裸	luo3		來合一歌上
+膏	gao1		見豪平
+膏	gao4		見豪去
+卸	xie4		心開三麻去
+秦	qin2		從開眞平
+粹	cui4	sui4	心合脂去
+酬	chou2	shou2	常尤平
+膩	ni4		孃開脂去
+妒	du4		端模去
+鎊	bang4	pang1	滂唐平
+唇	chun2	zhen1	章開眞平
+罩	zhao4		知肴去
+采	cai3		清咍上
+盧	lu2		來模平
+函	han2		匣覃平
+逢	feng2		並鍾平
+屠	tu2		定模平
+臘	la4		來談入
+勘	kan1	kan4	溪覃去
+隙	xi4	qi	溪開三庚入
+遣	qian3		溪開A仙上
+匙	chi2	shi2	常開支平
+催	cui1		清灰平
+艷	yan4		以鹽去
+臂	bi4		幫A支去
+篇	pian1		滂A仙平
+廂	xiang1		心開陽平
+醬	jiang4		精開陽去
+栽	zai1		精咍平
+哇	wa1		影合二麻平
+盼	pan4		滂山去
+媚	mei4	mi4	明B脂去
+錫	xi1		心開青入
+銜	xian2		匣銜平
+崛	jue2	ju2	羣文入
+霧	wu4		明虞去
+挪	nuo2		泥開一歌平
+匪	fei3		幫微上
+軸	zhou2	zhu2	澄三東入
+軸	zhou4	zhu2	澄三東入
+凱	kai3		溪咍上
+卻	que4		溪開陽入
+戚	qi1		清開青入
+睜	zheng1	jing4	從開清上
+闡	chan3		昌開仙上
+僑	qiao2		羣B宵平
+醜	chou3		昌尤上
+咳	ke2		溪開登入
+洩	xie4	yi4	以開祭去
+峻	jun4	xun4	心合眞去
+噪	zao4	sao4	心豪去
+嬌	jiao1		見B宵平
+矩	ju3		見虞上
+茄	qie2		羣開三歌平
+茄	jia1		見開二麻平
+衫	shan1		生銜平
+挫	cuo4	zuo4	精合一歌去
+剖	pou1	fu3	滂虞上
+皺	zhou4		莊尤去
+凰	huang2		匣合唐平
+泄	xie4		心開仙入
+茅	mao2		明肴平
+捲	juan3		見合B仙上
+捲	juan4		見合B仙去
+膨	peng2		並二庚平
+謠	yao2		以宵平
+釀	niang4		孃開陽去
+釀	niang2	niang4	孃開陽去
+撰	zhuan4		崇合仙上;崇合刪上
+坊	fang1		幫陽平
+坊	fang2		並陽平
+鄙	bi3		幫B脂上
+喉	hou2		匣侯平
+顫	chan4	zhan4	章開仙去
+顫	zhan4		章開仙去
+猴	hou2		匣侯平
+爵	jue2		精開陽入
+繩	sheng2		船開蒸平
+俠	xia2	xie2	匣添入
+嫉	ji2		從開眞入
+肇	zhao4		澄宵上
+鼎	ding3		端開青上
+叢	cong2		從一東平
+叢	cong1	cong2	從一東平
+丸	wan2	huan2	匣合寒平
+鞭	bian1		幫A仙平
+顛	dian1		端開先平
+禽	qin2		羣B侵平
+闖	chuang3		初開陽上
+穴	xue2		匣合先入
+兔	tu4		透模去
+浩	hao4		匣豪上
+雀	que4	jue	精開陽入
+雀	qiao3	jue	精開陽入
+雀	qiao1	jue	精開陽入
+庸	yong1	yong2	以鍾平
+辰	chen2		常開眞平
+鵝	e2		疑開一歌平
+濾	lü4		來魚去
+鴨	ya1		影銜入
+侈	chi3		昌開支上
+餃	jiao3		見肴上
+惕	ti4		透開青入
+蘊	yun4	yun3	影文上
+氨	an1		影開寒平
+臭	chou4		昌尤去
+臭	xiu4		曉尤去
+瑣	suo3		心合一歌上
+汁	zhi1		章侵入
+懈	xie4	jia4	見開佳去
+串	chuan4		昌合仙去
+駁	bo2		幫江入
+狼	lang2		來開唐平
+熬	ao2		疑豪平
+熬	ao1	ao2	疑豪平
+狐	hu2		匣模平
+娜	na4	nuo3	泥開一歌上
+娜	nuo2	nuo3	泥開一歌上
+蘆	lu2		來模平
+喻	yu4		以虞去
+瀏	liu2		來尤平
+擎	qing2		羣開三庚平
+蝶	die2		定添入
+妄	wang4		明陽去
+鑰	yao4	yue4	以開陽入
+鑰	yue4		以開陽入
+逸	yi4		以開眞入
+嘖	ze2	zhe	莊開二庚入;莊開耕入
+嗓	sang3		心開唐上
+嫁	jia4		見開二麻去
+蕉	jiao1		精宵平
+蕉	qiao2	jiao1	精宵平
+燦	can4		清開寒去
+沃	wo4	wu	影冬入
+捉	zhuo1		莊江入
+丘	qiu1		溪尤平
+穎	ying3	yong3	以合清上
+萎	wei3	wei4	影合B支去
+萎	wei1		影合B支平
+嚇	xia4		曉開二麻去
+嚇	he4		曉開二庚入
+囂	xiao1		曉B宵平
+瘦	shou4		生尤去
+締	di4		定開齊去
+橡	xiang4		邪開陽上
+蔽	bi4		幫A祭去
+挺	ting3	ting2	定開青平
+孝	xiao4		曉肴去
+辜	gu1		見模平
+愚	yu2		疑虞平
+菇	gu1		見模平
+遏	e4		影開寒入
+莞	guan3	guan4	見合寒去
+莞	wan3	huan4	匣合刪上
+梗	geng3		見開二庚上
+滬	hu4		匣模上
+爹	die1		端開三麻平
+咪	mi1	mi3 mi2	明齊平
+躲	duo3		端合一歌上
+遮	zhe1		章開三麻平
+埔	pu3		滂模上
+埔	bu4	pu3	滂模上
+曹	cao2		從豪平
+畏	wei4		影合微去
+衍	yan3		以開仙上
+嶺	ling3		來開清上
+蔥	cong1		清一東平
+雇	gu4		見模去
+喘	chuan3		昌合仙上
+盒	he2		匣覃入
+逮	dai4		定咍去
+逮	dai3	di4	定開齊去
+喲	yo1	yue	影開陽入
+賊	zei2	ze2	從開登入
+寺	si4		邪之去
+睹	du3		端模上
+迄	qi4	xi	曉欣入
+嘲	chao2	zhao1	知肴平
+嘲	zhao1		知肴平
+顆	ke1	kuo3	溪合一歌上
+剎	sha1	cha	初開刪入
+剎	cha4		初開刪入
+墊	dian4		端添去
+隧	sui4		邪合脂去
+丫	ya1		影開二麻平
+頁	ye4	xie2	匣開先入
+溪	xi1	qi1	溪開齊平
+稚	zhi4		澄開脂去
+宰	zai3		精咍上
+晃	huang4		匣合唐上
+晃	huang3	huang4	匣合唐上
+窄	zhai3	zhe	莊開二庚入
+燕	yan4		影開先去
+燕	yan1		影開先平
+昧	mei4		明灰去
+賃	lin4	nin4	孃侵去
+焰	yan4		以鹽去
+筒	tong3	tong2	定一東平
+乒	ping1		滂青平
+乓	pang1		滂唐平
+潑	po1		滂寒入
+穀	gu3		見一東入
+蝴	hu2		匣模平
+刪	shan1		生開刪平
+椎	zhui1	chui2	澄合脂平
+葛	ge3		見開寒入
+葛	ge2		見開寒入
+魄	po4		滂二庚入
+祈	qi2		羣開微平
+瓣	ban4		並山去
+幟	zhi4	chi4	昌之去
+痴	chi1		徹之平
+姦	jian1		見開刪平
+汕	shan4		生開刪去
+甸	dian4		定開先去
+愁	chou2		崇尤平
+裙	qun2		羣文平
+枯	ku1		溪模平
+翰	han4		匣開寒去
+莓	mei2		明灰平
+溜	liu1	liu4	來尤去
+溜	liu4		來尤去
+穆	mu4		明三東入
+悍	han4		匣開寒去
+碳	tan4		透開寒去
+嘯	xiao4		心蕭去
+仗	zhang4		澄開陽去
+摧	cui1	cui2	從灰平
+豈	qi3		溪開微上
+橙	cheng2		澄開耕平
+颱	tai2		定咍平
+湊	cou4		清侯去
+扯	che3		昌開三麻上
+僵	jiang1		見開陽平
+蝕	shi2		船開蒸入
+舅	jiu4		羣尤上
+睞	lai4		來咍去
+襪	wa4		明元入
+抹	mo3	mo4	明寒入
+抹	mo4		明寒入
+抹	ma1	mo4	明寒入
+冤	yuan1		影合元平
+淫	yin2		以侵平
+檯	tai2		定咍平
+寢	qin3		清侵上
+洽	qia4	xia2	匣咸入
+頗	po1		滂一歌平
+侍	shi4		常之去
+檻	kan3	xian4	匣銜上
+檻	jian4	xian4	匣銜上
+諷	feng3	feng4	幫三東去
+硫	liu2		來尤平
+賂	lu4		來模去
+賢	xian2		匣開先平
+蠢	chun3		昌合眞上
+頃	qing3	qiong3	溪合清上
+儒	ru2		日虞平
+湘	xiang1		心開陽平
+錶	biao3		幫B宵上
+韌	ren4		日開眞去
+篩	shai1		生開佳平
+桶	tong3		透一東上
+帆	fan1	fan4 fan2	並凡平
+晤	wu4		疑模去
+摔	shuai1		生合眞入
+摔	shuai3		生合眞入
+囑	zhu3		章鍾入
+玄	xuan2		匣合先平
+睫	jie2		精鹽入
+斗	dou3		端侯上
+斗	dou4	dou3	端侯上
+攪	jiao3		見肴上
+韻	yun4		云文去
+仲	zhong4		澄三東去
+晴	qing2		從開清平
+倦	juan4		羣合B仙去
+蔓	man4	wan4	明元去
+蔓	man2		明寒平
+謙	qian1		溪添平
+膝	xi1		心開眞入
+吟	yin2		疑B侵平
+瑜	yu2		以虞平
+祭	ji4		精開祭去
+抄	chao1		初肴平
+柳	liu3		來尤上
+拐	guai3	gua3	見合佳上
+寡	gua3		見合二麻上
+栓	shuan1		生合仙平
+傍	bang4		並唐去
+陀	tuo2		定開一歌平
+菊	ju2		見三東入
+熒	ying2	xiong2	匣合青平
+韋	wei2		云合微平
+敞	chang3		昌開陽上
+敞	chang2	chang3	昌開陽上
+禱	dao3		端豪上
+熙	xi1		曉之平
+凶	xiong1		曉鍾平
+嘩	hua1		曉合二麻平
+嘩	hua2		匣合二麻平
+帖	tie3		透添入
+帖	tie1		透添入
+帖	tie4		透添入
+芬	fen1		滂文平
+譴	qian3	qian4	溪開A仙去
+惹	re3		日開三麻上
+惹	ye3	ruo4	日開陽入
+薯	shu3	shu4	常魚去
+佑	you4		云尤去
+瀟	xiao1		心蕭平
+泣	qi4		溪B侵入
+塢	wu4	wu3	影模上
+滄	cang1		清開唐平
+拯	zheng3		章開蒸上
+氓	mang2	meng2	明耕平
+氓	meng2		明耕平
+毯	tan3		透談上
+翅	chi4	shi4	書開支去
+鹼	jian3		見咸上
+蔣	jiang3		精開陽上
+漆	qi1		清開眞入
+蓬	peng2		並一東平
+蓬	peng1	peng2	並一東平
+銘	ming2		明青平
+裏	li3		來之上
+鑄	zhu4		章虞去
+壘	lei3		來合脂上
+竣	jun4	qun1	清合眞平
+髒	zang1	zang3	精開唐上
+翁	weng1		影一東平
+詭	gui3		見合B支上
+腕	wan4		影合寒去
+棗	zao3		精豪上
+芳	fang1		滂陽平
+裹	guo3		見合一歌上
+癱	tan1		透開寒平
+蠟	la4		來談入
+冶	ye3		以開三麻上
+靖	jing4		從開清上
+憊	bei4	bai4	並皆去
+柬	jian3		見開山上
+澀	se4	she	生侵入
+檬	meng2		明一東平
+檸	ning2	neng3	孃開二庚上
+俊	jun4		精合眞去
+巢	chao2		崇肴平
+笨	ben4		並魂上
+淪	lun2		來合眞平
+拌	ban4		並寒上
+蛇	she2		船開三麻平
+蛇	yi2		以開支平
+咐	fu4		幫虞去
+扇	shan4		書開仙去
+扇	shan1		書開仙平
+矯	jiao3		見B宵上
+矯	jiao2	jiao3	見B宵上
+喃	nan2		孃咸平
+乞	qi3		溪欣入
+奸	jian1		見開刪平
+醋	cu4		清模去
+纜	lan3		來覃上
+淮	huai2		匣合皆平
+軀	qu1		溪虞平
+咽	yan1		影開先平
+咽	ye4		影開先入
+柿	shi4	zhi4	崇之上
+樞	shu1	chu1	昌虞平
+嘎	ga1	jia	見開山入
+嘎	ga2	jia	見開山入
+嘔	ou3		影侯上
+嘔	ou4	ou3	影侯上
+賤	jian4		從開仙去
+藉	jie4		從開三麻去
+藉	ji2		從開清入
+閑	xian2		匣開山平
+夷	yi2		以開脂平
+隸	li4		來開齊去
+隻	zhi1		章開清入
+杰	jie2		羣開B仙入
+釘	ding1		端開青平
+釘	ding4		端開青去
+砲	pao4	.	.
+疊	die2		定添入
+蠻	man2		明刪平
+胰	yi2		以開脂平
+畸	ji1		見開B支平
+坑	keng1		溪開二庚平
+屑	xie4		心開先入
+陋	lou4		來侯去
+岳	yue4		疑江入
+懇	ken3		溪痕上
+冕	mian3		明B仙上
+贖	shu2		船鍾入
+舶	bo2		並二庚入
+瀉	xie4		心開三麻去
+膊	bo2	po	滂唐入
+僧	seng1		心開登平
+緬	mian3		明A仙上
+摯	zhi4		章開脂去
+巷	xiang4		匣江去
+癢	yang3		以開陽上
+墜	zhui4		澄合脂去
+溢	yi4		以開眞入
+叮	ding1		端開青平
+槽	cao2		從豪平
+咒	zhou4		章尤去
+姥	lao3	mu3	明模上
+姥	mu3		明模上
+玲	ling2		來開青平
+淵	yuan1		影合先平
+胳	ge1		見開唐入
+胳	ga1	ge	見開唐入
+胳	ge2		見開唐入
+咬	yao3		疑肴上
+甦	su1		心模平
+癮	yin3		影欣上
+壩	ba4		幫二麻去
+榴	liu2		來尤平
+蝦	xia1	xia2	匣開二麻平
+蝦	ha2	xia2	匣開二麻平
+廟	miao4		明B宵去
+犀	xi1		心開齊平
+耶	ye1	ye2	以開三麻平
+耶	ye2		以開三麻平
+賈	jia3		見開二麻上
+賈	gu3		見模上
+嶄	zhan3		莊咸上
+枕	zhen3		章侵上
+攬	lan3		來談上
+歇	xie1		曉開元入
+怡	yi2		以之平
+疇	chou2		澄尤平
+澄	cheng2		澄開蒸平
+澄	deng4	cheng2	澄開蒸平
+杆	gan1	gan4	見開寒去
+杆	gan3	gan4	見開寒去
+彪	biao1		幫幽平
+灶	zao4		精豪去
+哮	xiao4		曉肴去
+鬍	hu2		匣模平
+菠	bo1		幫一歌平
+爬	pa2		並二麻平
+崑	kun1	gun1	見魂平
+綻	zhan4		澄開山去
+飢	ji1		見開B脂平
+瀾	lan2		來開寒平
+蚊	wen2		明文平
+耽	dan1		端覃平
+芽	ya2		疑開二麻平
+燭	zhu2		章鍾入
+喀	ka1	ke	溪開二庚入
+矚	zhu3		章鍾入
+嶼	yu3	xu4	邪魚上
+弘	hong2		匣合登平
+鴉	ya1		影開二麻平
+刃	ren4		日開眞去
+篷	peng2		並一東平
+瞞	man2		明寒平
+喇	la3	la4	來開寒入
+喇	la2	la4	來開寒入
+喇	la4		來開寒入
+喇	la1	la4	來開寒入
+挨	ai2	ai3	影咍上
+挨	ai1	ai3	影咍上
+磷	lin2		來開眞平
+稽	ji1		見開齊平
+稽	qi3		溪開齊上
+孟	meng4		明二庚去
+啞	ya3		影開二麻上
+陛	bi4		並齊上
+卦	gua4		見合佳去
+俘	fu2	fu1	滂虞平
+虐	nüe4	yue4	疑開陽入
+豁	huo4		曉合寒入
+豁	huo1		曉合寒入
+豁	hua2	huo	曉合寒入
+儉	jian3	jian4	羣B鹽上
+坎	kan3		溪覃上
+倖	xing4	heng4	匣開耕上
+櫻	ying1	eng1	影開耕平
+杉	shan1		生咸平
+鴻	hong2		匣一東平
+僕	pu2	bu2	並冬入
+僕	pu1	bu2	並冬入
+縛	fu4	fo2	並陽入
+戈	ge1	guo1	見合一歌平
+喧	xuan1		曉合元平
+恍	huang3	guang1	見合唐平
+悼	dao4		定豪去
+貶	bian3		幫B鹽上
+疹	zhen3		章開眞上
+賜	ci4	si4	心開支去
+划	hua2		匣合二麻平
+鹿	lu4		來一東入
+噩	e4		疑開唐入
+罐	guan4		見合寒去
+硝	xiao1		心宵平
+烯	xi1		曉開微平
+磚	zhuan1		章合仙平
+簾	lian2		來鹽平
+綢	chou2		澄尤平
+炬	ju4		羣魚上
+訣	jue2		見合先入
+艙	cang1		清開唐平
+痺	bi4		幫A脂去
+肖	xiao4		心宵去
+肖	xiao1	xiao4	心宵去
+瑟	se4	she	生臻入
+杏	xing4	heng4	匣開二庚上
+哨	shao4	xiao1	心宵平
+砂	sha1		生開二麻平
+醞	yun4		影文去
+匈	xiong1		曉鍾平
+俯	fu3		幫虞上
+曖	ai4		影咍去;影開泰去
+塘	tang2		定開唐平
+硅	gui1	huo	曉合二庚入
+荊	jing1		見開三庚平
+撈	lao1	lao2	來豪平
+瓊	qiong2		羣合清平
+掠	lüe4		來開陽入
+嚨	long2		來一東平
+剔	ti1		透開青入
+紊	wen3	wen4	明文去
+蓉	rong2	yong2	以鍾平
+郭	guo1		見合唐入
+叨	dao1	tao1	透豪平
+曬	shai4		生開佳去
+寥	liao2		來蕭平
+徊	huai2	hui2	匣灰平
+徘	pai2	pei2	並灰平
+攏	long3		來一東上
+耍	shua3		生合二麻上
+湛	zhan4		澄咸上
+禪	chan2		常開仙平
+禪	shan4		常開仙去
+兆	zhao4		澄宵上
+株	zhu1		知虞平
+歪	wai1		影合皆平
+酵	jiao4		見肴去
+僚	liao2		來蕭平
+盎	ang4		影開唐去
+跪	gui4		羣合B支上
+暇	xia2	xia4	匣開二麻去
+淹	yan1		影B鹽平
+蕭	xiao1		心蕭平
+葫	hu2		匣模平
+緝	ji1	qi	清侵入
+詮	quan2	quan1	清合仙平
+琢	zhuo2		知江入
+琢	zuo2	zhuo	知江入
+嫂	sao3		心豪上
+蛛	zhu1		知虞平
+猩	xing1		心開青平
+筷	kuai4		溪合夬去
+鈕	niu3		孃尤上
+妊	ren4		日侵去
+粘	zhan1	nian2	孃鹽平
+粘	nian2		孃鹽平
+狸	li2		來之平
+娠	shen1		書開眞平
+汪	wang1		影合唐平
+釣	diao4		端蕭去
+亨	heng1		曉開二庚平
+趁	chen4		徹開眞去
+毆	ou1	ou3	影侯上
+炫	xuan4		匣合先去
+逾	yu2		以虞平
+梳	shu1		生魚平
+唯	wei2		以合脂平
+唯	wei3		以合脂上
+癡	chi1		徹之平
+菩	pu2		並模平
+牡	mu3	mou3	明侯上
+牡	mu4	mou3	明侯上
+翠	cui4		清合脂去
+俏	qiao4		清宵去
+撕	si1	xi1	心開齊平
+皆	jie1		見開皆平
+莎	sha1	suo1	心合一歌平
+莎	suo1		心合一歌平
+丙	bing3		幫三庚上
+婉	wan3	yuan3	影合元上
+磯	ji1		見開微平
+匿	ni4		孃開蒸入
+弦	xian2		匣開先平
+欽	qin1		溪B侵平
+瞄	miao2		明B宵平
+瞄	miao4	miao2	明B宵平
+霜	shuang1		生開陽平
+郁	yu4		影三東入
+坪	ping2		並三庚平
+粵	yue4		云合元入
+阱	jing3	jing4	從開清上
+欖	lan3		來談上
+橄	gan3		見談上
+饅	man2		明寒平
+碉	diao1		端蕭平
+敷	fu1		滂虞平
+撾	wo1		影合一歌平
+芙	fu2		並虞平
+巫	wu1	wu2	明虞平
+蹄	ti2		定開齊平
+裔	yi4		以開祭去
+饒	rao2		日宵平
+漓	li2		來開支平
+贓	zang1		精開唐平
+逗	dou4		定侯去
+鍾	zhong1		章鍾平
+帷	wei2		云合脂平
+萌	meng2		明耕平
+靡	mi3		明B支上
+靡	mi2	mi3	明B支上
+鷹	ying1		影開蒸平
+潭	tan2		定覃平
+帳	zhang4		知開陽去
+斃	bi4		並A祭去
+宛	wan3	yuan3	影合元上
+宛	yuan1		影合元平
+猥	wei3		影灰上
+瘍	yang2		以開陽平
+匠	jiang4		從開陽去
+撓	nao2		孃肴平
+斂	lian3		來鹽上
+胚	pei1		滂灰平
+袍	pao2		並豪平
+妞	niu1	niu3	孃尤上
+絞	jiao3		見肴上
+棕	zong1		精一東平
+棕	zong4	zong1	精一東平
+鈔	chao1		初肴平
+弧	hu2		匣模平
+絢	xuan4		曉合先去
+鋁	lü3		來魚上
+諱	hui4		曉合微去
+糙	cao1	cao4	清豪去
+碗	wan3		影合寒上
+吩	fen1		幫文平
+妃	fei1		滂微平
+噹	dang1		端開唐平
+諜	die2		定添入
+燙	tang4		透開唐去
+槓	gang4	jiang4	見江去
+眷	juan4		見合B仙去
+痊	quan2	quan1	清合仙平
+侮	wu3		明虞上
+弗	fu2		幫文入
+傭	yong1	yong2	以鍾平
+龜	gui1		見合B脂平
+龜	jun1	jiu1	見尤平
+龜	qiu1		溪尤平
+拇	mu3	mou3	明侯上
+魏	wei4		疑合微去
+爍	shuo4		書開陽入
+侯	hou2		匣侯平
+摺	zhe2		章鹽入
+鞍	an1		影開寒平
+瞻	zhan1		章鹽平
+雌	ci2	ci1	清開支平
+煎	jian1		精開仙平
+袱	fu2		並三東入
+茂	mao4	mou4	明侯去
+蘑	mo2		明一歌平
+誦	song4		邪鍾去
+呂	lü3		來魚上
+溉	gai4		見咍去
+傘	san3		心開寒上
+繡	xiu4		心尤去
+蛙	wa1		影合二麻平;影合佳平
+苛	ke1	he2	匣開一歌平
+蒂	di4		端開齊去
+矮	ai3	ya3	影開佳上
+擱	ge1		見開唐入
+疚	jiu4		見尤去
+尉	wei4		影合微去
+尉	yu4		影文入
+枉	wang3		影合陽上
+醛	quan2		從合仙平
+卿	qing1		溪開三庚平
+卉	hui4		曉合微去
+烘	hong1		曉一東平
+淑	shu1	shu2	常三東入
+滌	di2		定開青入
+岡	gang1		見開唐平
+梨	li2		來開脂平
+囚	qiu2	xiu2	邪尤平
+腥	xing1		心開青平
+鵬	peng2		並登平
+凳	deng4		端開登去
+缸	gang1		見開唐平
+祕	mi4	bi4	幫B脂去
+啦	la1	la4	來覃入
+漳	zhang1		章開陽平
+綴	zhui4		知合祭去
+綴	chuo4	zhuo	知合仙入
+墮	duo4		定合一歌上
+崙	lun2		來魂平
+焚	fen2		並文平
+嗎	ma2		明二麻平
+嗎	ma3	ma2	明二麻平
+噓	xu1		曉魚平
+氫	qing1		溪開清平
+淒	qi1		清開齊平
+絮	xu4		心魚去
+兜	dou1		端侯平
+渺	miao3		明A宵上
+丐	gai4		見開泰去
+搗	dao3		端豪上
+倘	tang3		透開唐上
+倘	chang2	tang3	透開唐上
+曠	kuang4		溪合唐去
+瘡	chuang1		初開陽平
+桐	tong2		定一東平
+殷	yin1		影欣平
+殷	yan1		影開山平
+氯	lü4	lu4	來鍾入
+抒	shu1	shu4	船魚上
+蒲	pu2		並模平
+窒	zhi4		知開眞入
+櫥	chu2		澄虞平;澄魚平
+豎	shu4		常虞上
+瞎	xia1		曉開刪入
+頹	tui2		定灰平
+愜	qie4		溪添入
+鉛	qian1	yuan2	以合仙平
+鉛	yan2	yuan2	以合仙平
+弓	gong1	jiong1	見三東平
+茲	zi1		精之平
+茲	ci2		從之平
+嚷	rang3		日開陽上
+嚷	rang1	rang3	日開陽上
+霞	xia2		匣開二麻平
+侃	kan3		溪開寒上
+伺	ci4	si1	心之平
+伺	si4		心之去
+詫	cha4		徹開二麻去
+瘓	huan4	tuan3	透合寒上
+剋	ke4		溪開登入
+剋	kei1	ke	溪開登入
+柯	ke1	ge1	見開一歌平
+涕	ti4		透開齊去
+卒	zu2		精魂入
+卒	cu4		清魂入
+聳	song3		心鍾上
+奕	yi4		以開清入
+拱	gong3	jiong3	見鍾上
+拱	gong1	jiong3	見鍾上
+扔	reng1	reng4 reng2	日開蒸平
+孵	fu1		滂虞平
+崖	ya2		疑開佳平
+蒜	suan4		心合寒去
+鶴	he4	he2	匣開唐入
+眶	kuang4	kuang1	溪合陽平
+僻	pi4		滂清入;滂青入
+弈	yi4		以開清入
+爪	zhao3		莊肴上
+爪	zhua3	zhao3	莊肴上
+踴	yong3		以鍾上
+蟻	yi3		疑開B支上
+烹	peng1		滂二庚平
+澆	jiao1		見蕭平
+餓	e4		疑開一歌去
+淇	qi2		羣之平
+倆	lia3	lie3	來開三歌上
+倆	liang3		來開陽上
+沾	zhan1		知鹽平
+棲	qi1	xi1	心開齊平
+棲	xi1		心開齊平
+釁	xin4		曉開B眞去
+靴	xue1		曉合三歌平
+砍	kan3		溪覃上
+滔	tao1		透豪平
+澈	che4	zhe2	澄開仙入
+叭	ba1	pa	滂山入
+碧	bi4		幫三庚入
+鏢	biao1	piao1	滂A宵平
+蕾	lei3		來灰上
+晝	zhou4		知尤去
+頌	song4		邪鍾去
+癲	dian1		端開先平
+瀰	mi2		明A支平
+亢	kang4		溪開唐去
+駝	tuo2		定開一歌平
+斬	zhan3		莊咸上
+殭	jiang1		見開陽平
+箏	zheng1		莊開耕平
+狡	jiao3		見肴上
+繽	bin1	pin1	滂A眞平
+躬	gong1	jiong1	見三東平
+秉	bing3		幫三庚上
+颶	ju4		羣虞去
+吾	wu2		疑模平
+墳	fen2		並文平
+廓	kuo4		溪合唐入
+髦	mao2		明豪平
+碟	die2		定添入
+煥	huan4		曉合寒去
+逍	xiao1		心宵平
+姪	zhi2		澄開眞入
+彭	peng2		並二庚平
+霆	ting2		定開青平
+孽	nie4	ye4	疑開B仙入
+朽	xiu3		曉尤上
+捧	peng3	feng3	滂鍾上
+睦	mu4		明三東入
+廬	lu2	lü2	來魚平
+沮	ju3	ju4	從魚上;精魚去
+哄	hong1	hong4	匣一東去
+哄	hong3	hong4	匣一東去
+黯	an4	yan3	影咸上
+耿	geng3		見開耕上
+侷	ju2		羣鍾入
+閥	fa2		並元入
+蠶	can2		從覃平
+冥	ming2		明青平
+捍	han4		匣開寒去
+亦	yi4		以開清入
+梭	suo1		心合一歌平
+栗	li4		來開眞入
+薇	wei1	wei2	明微平
+煽	shan1		書開仙平
+凸	tu1	du2	定魂入
+胱	guang1		見合唐平
+熄	xi1		心開蒸入
+鴿	ge1		見覃入
+竅	qiao4		溪蕭去
+聆	ling2		來開青平
+餵	wei4		影合微去
+眨	zha3		莊咸入
+撮	cuo1		清合寒入
+魁	kui2	kui1	溪灰平
+溺	ni4		泥開青入
+溺	niao4	ruo4	日開陽入
+鏽	xiu4		心尤去
+皂	zao4		從豪上
+肋	lei4	le4	來開登入
+惶	huang2		匣合唐平
+翩	pian1		滂A仙平
+閩	min3	min2	明B眞平
+黏	nian2		孃鹽平
+蜘	zhi1		知開支平
+豚	tun2		定魂平
+棘	ji2		見開蒸入
+佐	zuo3	zuo4	精開一歌去
+拭	shi4		書開蒸入
+厥	jue2		見合元入
+吼	hou3		曉侯上
+緋	fei1		幫微平
+燬	hui3		曉合B支上
+兢	jing1		見開蒸平
+疤	ba1		幫二麻平
+瀑	pu4	bao4	並豪去
+襟	jin1		見B侵平
+螞	ma3		明二麻上
+螞	ma4	ma3	明二麻上
+螞	ma1	ma3	明二麻上
+焊	han4	han3	曉開寒上
+洶	xiong1		曉鍾平
+伽	jia1	qie2	羣開三歌平
+伽	qie2		羣開三歌平
+伽	ga1	qie2	羣開三歌平
+沛	pei4		滂泰去
+柚	you4		以尤去
+渦	wo1		影合一歌平
+渦	guo1		見合一歌平
+珊	shan1	san1	心開寒平
+烽	feng1		滂鍾平
+酪	lao4	luo4	來開唐入
+酪	luo4		來開唐入
+沐	mu4		明一東入
+陡	dou3		端侯上
+閘	zha2	ya	影銜入
+靚	liang4	jing4	從開清去
+靚	jing4		從開清去
+窟	ku1		溪魂入
+誡	jie4		見開皆去
+閨	gui1		見合齊平
+濁	zhuo2		澄江入
+糞	fen4		幫文去
+潘	pan1		滂寒平
+荔	li4		來開齊去
+薑	jiang1		見開陽平
+棚	peng2		並二庚平;並登平;並耕平
+哺	bu3	bu4	並模去
+昭	zhao1		章宵平
+謬	miu4	miao4	明幽去
+嗡	weng1		影一東平
+犬	quan3		溪合先上
+窺	kui1		溪合A支平
+詛	zu3	zhu4	莊魚去
+盔	kui1		溪灰平
+頰	jia2	jie	見添入
+瀕	bin1		幫A眞平
+綽	chuo4		昌開陽入
+妓	ji4		羣開B支上
+螃	pang2		並唐平
+苯	ben3		幫魂上
+蟬	chan2		常開仙平
+蔗	zhe4		章開三麻去
+畔	pan4	ban4	並寒去
+僱	gu4		見模去
+菱	ling2		來開蒸平
+筍	sun3	xun3	心合眞上
+悸	ji4	gui4	羣合A脂去
+占	zhan4		章鹽去
+占	zhan1		章鹽平
+猖	chang1		昌開陽平
+酶	mei2		明灰平
+兮	xi1	xi2	匣開齊平
+娩	mian3		明B仙上
+惰	duo4		定合一歌上;定合一歌去
+懦	nuo4		泥合一歌去
+剿	jiao3		精宵上
+剿	chao1	jiao3	精宵上
+譬	pi4		滂A支去
+蔡	cai4		清開泰去
+馭	yu4		疑魚去
+牟	mou2		明尤平
+牟	mu4	mou2	明尤平
+跋	ba2	bo2	並寒入
+婿	xu4	xi4	心開齊去
+嵌	qian4	qian1	溪銜平
+嵌	kan3	zan4	從談上
+朔	shuo4		生江入
+駭	hai4	xie4	匣開皆上
+辟	bi4		幫清入
+辟	pi4		滂清入
+餚	yao2	xiao2	匣肴平
+吶	na4		泥覃入
+沼	zhao3		章宵上
+嫵	wu3		明虞上
+噬	shi4		常開祭去
+溯	su4		心模去
+臀	tun2		定魂平
+絆	ban4		幫寒去
+芹	qin2		羣欣平
+唾	tuo4		透合一歌去
+慚	can2		從談平
+瞧	qiao2		從宵平
+葵	kui2		羣合A脂平
+蠅	ying2		以開蒸平
+渣	zha1		莊開二麻平
+渣	zha4	zha1	莊開二麻平
+蕪	wu2		明虞平
+輾	zhan3		知開仙上
+褐	he4	he2	匣開寒入
+悚	song3		心鍾上
+灸	jiu3		見尤上
+眩	xuan4		匣合先去
+阜	fu4	fou4	並尤上
+貯	zhu4	zhu3	知魚上
+咕	gu1		見模平
+覓	mi4		明青入
+茨	ci2		從開脂平
+怠	dai4		定咍上
+捆	kun3		溪魂上
+祿	lu4		來一東入
+憬	jing3	jiong3	見合三庚上
+憧	chong1		昌鍾平
+慷	kang1	kang3	溪開唐上
+亭	ting2		定開青平
+云	yun2		云文平
+驀	mo4		明二庚入
+膳	shan4		常開仙去
+顱	lu2		來模平
+翡	fei3	fei4	並微去
+朦	meng2		明一東平
+朧	long2		來一東平
+朧	long1	long2	來一東平
+熔	rong2	yong2	以鍾平
+瀝	li4		來開青入
+厄	e4		影開耕入
+袁	yuan2		云合元平
+坷	ke3		溪開一歌上
+坷	ke1	ke4	溪開一歌去
+窘	jiong3	jun4	羣合B眞上
+煞	sha4		生開山入
+煞	sha1		生開山入
+刮	gua1		見合刪入
+渲	xuan4		心合仙去
+杞	qi3		溪之上
+逞	cheng3		徹開清上
+墟	xu1	qu1	溪魚平
+秧	yang1		影開陽平
+迭	die2		定開先入
+羈	ji1		見開B支平
+骼	ge2		見開二庚入
+軒	xuan1	xian1	曉開元平
+獼	mi2		明A支平
+酋	qiu2		從尤平
+遂	sui4		邪合脂去
+糯	nuo4		泥合一歌去
+豹	bao4		幫肴去
+晌	shang3		書開陽上
+巔	dian1		端開先平
+謎	mi2	mi4	明齊去
+謎	mei4	mi4	明齊去
+狽	bei4		幫泰去
+聾	long2		來一東平
+扼	e4		影開耕入
+棧	zhan4		崇開刪去
+虜	lu3		來模上
+煮	zhu3		章魚上
+懾	she4	zhe	章鹽入
+忐	tan3		透談上
+忑	te4		透開登入
+渝	yu2		以虞平
+孜	zi1		精之平
+蝙	bian1		幫先平
+蝠	fu2		幫三東入
+芭	ba1		幫二麻平
+僥	jiao3	yao2	疑蕭平
+僥	yao2		疑蕭平
+弛	chi2	shi3	書開支上
+怯	qie4		溪嚴入
+亥	hai4		匣咍上
+狙	ju1	qu1	清魚平
+婪	lan2		來覃平
+萃	cui4	zui4	從合脂去
+唧	ji1		精開眞入;精開蒸入
+淤	yu1		影魚平
+韶	shao2		常宵平
+棺	guan1		見合寒平
+黴	mei2	mi2	明B脂平
+鱷	e4		疑開唐入
+瞪	deng4	zheng4	澄開蒸去
+蝸	wo1	gua1	見合二麻平;見合佳平
+枸	gou3		見侯上
+枸	ju3		見虞上
+枸	gou1		見侯平
+酌	zhuo2		章開陽入
+柄	bing3	bing4	幫三庚去
+廝	si1		心開支平
+砸	za2		從覃入
+咧	lie1	lie4	來開仙入
+咧	lie3	lie4	來開仙入
+殲	jian1		精鹽平
+吏	li4		來之去
+軋	zha2	ya	影開山入
+軋	ya4		影開山入
+殯	bin4		幫A眞去
+倔	jue2	ju2	羣文入
+帕	pa4		滂二麻去
+擲	zhi4	zhi2	澄開清入
+曙	shu3	shu4	常魚去
+襄	xiang1		心開陽平
+嘮	lao2	chao1	徹肴平
+嘮	lao4	chao1	徹肴平
+拷	kao3		溪豪上
+淄	zi1	zhi1	莊之平
+詹	zhan1		章鹽平
+愕	e4		疑開唐入
+御	yu4		疑魚去
+暮	mu4		明模去
+丑	chou3		徹尤上
+甫	fu3		幫虞上
+眯	mi1	mi3	明齊上
+嚼	jue2		從開陽入
+嚼	jiao2	jue2	從開陽入
+洱	er3		日之上
+鬚	xu1		心虞平
+笛	di2		定開青入
+穢	hui4	wei4	影合廢去
+巍	wei1	wei2	疑合微平
+斧	fu3		幫虞上
+鮑	bao4		並肴上
+躺	tang3		透開唐上
+梧	wu2		疑模平
+麟	lin2		來開眞平
+惦	dian4		端添去
+緯	wei3	wei4	云合微去
+壺	hu2		匣模平
+躋	ji1		精開齊平
+抉	jue2		見合先入
+扳	ban1		幫刪平
+佼	jiao3		見肴上
+崎	qi2		羣開微平
+馴	xun4	xun2	邪合眞平
+瑚	hu2		匣模平
+竄	cuan4		清合寒去
+瑕	xia2		匣開二麻平
+禺	yu2		疑虞平
+吝	lin4		來開眞去
+轍	zhe2		澄開仙入
+紳	shen1		書開眞平
+篡	cuan4	chuan4	初合刪去
+淆	xiao2		匣肴平
+范	fan4		並凡上
+甩	shuai3		生合眞入
+禿	tu1		透一東入
+雛	chu2		崇虞平
+芋	yu4		云虞去
+瀆	du2		定一東入
+俐	li4		來開脂去
+唉	ai1		影咍平
+淌	tang3		透開唐上
+詔	zhao4		章宵去
+淳	chun2		常合眞平
+衙	ya2		疑開二麻平
+傚	xiao4		匣肴去
+鱗	lin2		來開眞平
+耘	yun2		云文平
+蠕	ru2		日虞平
+瓏	long2		來一東平
+嘀	di2		端開青入
+嘀	di1		端開青入
+匕	bi3		幫A脂上
+葩	pa1		滂二麻平
+悴	cui4	zui4	從合脂去
+憔	qiao2		從宵平
+澎	peng2		並二庚平
+飪	ren4	ren3	日侵上
+薈	hui4	wei4	影合泰去
+昔	xi1		心開清入
+疙	ge1	yi4	疑欣入
+庇	bi4		幫A脂去
+戛	jia2		見開山入
+沌	dun4		定魂上
+繚	liao2		來蕭平
+睾	gao1		見豪平
+咄	duo1		端合寒入
+餡	xian4		匣咸上;匣咸去
+妮	ni1	ni2	孃開脂平
+妮	ni2		孃開脂平
+坍	tan1		透談平
+莖	jing1	heng2	匣開耕平
+誣	wu1	wu2	明虞平
+咸	xian2		匣咸平
+匱	kui4	gui4	羣合B脂去
+匱	gui4		羣合B脂去
+嫖	piao2	piao4 piao1	滂A宵平
+粥	zhou1	zhu	章三東入
+粥	yu4		以三東入
+憚	dan4		定開寒去
+坤	kun1		溪魂平
+雍	yong1		影鍾平
+猝	cu4		清魂入
+逅	hou4		匣侯去
+邂	xie4	xia4	匣開佳去
+嚥	yan4		影開先去
+簿	bu4		並模上
+俸	feng4		並鍾去
+駱	luo4		來開唐入
+鯊	sha1		生開二麻平
+膛	tang2		定開唐平
+檳	bin1		幫A眞平
+檳	bing1	bin1	幫A眞平
+攣	luan2		來合仙平
+痙	jing4		羣開清上
+榨	zha4		莊開二麻去
+繃	beng1		幫耕平
+繃	beng3	beng1	幫耕平
+繃	beng4	beng1	幫耕平
+趾	zhi3		章之上
+忡	chong1		徹三東平
+苟	gou3		見侯上
+杖	zhang4		澄開陽上
+簧	huang2		匣合唐平
+凹	ao1	ya	影咸入
+凹	wa1	ya	影咸入
+腑	fu3		幫虞上
+粽	zong4		精一東去
+懊	ao4		影豪去
+臍	qi2		從開齊平
+藻	zao3		精豪上
+勺	shao2	shuo2	常開陽入
+嚏	ti4	di4	端開齊去
+咯	ge1		見開唐入
+咯	luo4	ge	見開唐入
+骷	ku1		溪模平
+髏	lou2		來侯平
+窪	wa1		影合二麻平
+猾	hua2		匣合山入
+蔑	mie4		明先入
+漱	shu4	shou4	生尤去
+贛	gan4		見覃去
+琳	lin2		來侵平
+圭	gui1		見合齊平
+拙	zhuo1		章合仙入
+拙	zhuo2		章合仙入
+夭	yao1		影B宵平
+鑲	xiang1		心開陽平
+擒	qin2		羣B侵平
+儼	yan3		疑嚴上
+屜	ti4		透開齊去
+屜	ti2	ti4	透開齊去
+咆	pao2		並肴平
+堰	yan4		影開A仙去;影開元去
+璀	cui3		清灰上
+璨	can4		清開寒去
+憎	zeng1		精開登平
+啥	sha2	she4	常開三麻上
+訕	shan4		生開刪去
+扒	pa2	ba	幫山入
+扒	ba1		幫山入
+輒	zhe2		知鹽入
+琉	liu2		來尤平
+呻	shen1		書開眞平
+嬉	xi1		曉之平
+蔭	yin4		影B侵去
+峙	zhi4		澄之上
+峙	shi4	zhi4	澄之上
+踝	huai2	hua4	匣合二麻上
+鹹	xian2		匣咸平
+瞌	ke1		溪談入;溪開寒入
+悵	chang4		徹開陽去
+栩	xu3		曉虞上
+泵	beng4		幫登去
+屎	shi3		書開脂上
+澇	lao4		來豪去
+釜	fu3	fu4	並虞上
+眸	mou2		明尤平
+祀	si4		邪之上
+腮	sai1		心咍平
+嗜	shi4		常開脂去
+鈍	dun4		定魂去
+咎	jiu4		羣尤上
+骯	ang1	hang4	匣開唐上
+矢	shi3		書開脂上
+甥	sheng1		生開三庚平
+揣	chuai3		初合支上
+揣	chuai4	duo3	端合一歌上
+揣	chuai1	duo3	端合一歌上
+荼	tu2		定模平
+瀘	lu2		來模平
+炊	chui1		昌合支平
+鄲	dan1		端開寒平
+蛻	tui4		透合泰去
+喱	li2		來之平
+惋	wan3	wan4	影合寒去
+晦	hui4		曉灰去
+沂	yi2		疑開微平
+墾	ken3		溪痕上
+茸	rong1	rong2	日鍾平
+茸	rong2		日鍾平
+瞼	jian3		見B鹽上
+灼	zhuo2		章開陽入
+擂	lei4		來灰去
+擂	lei2		來灰平
+垢	gou4	gou3	見侯上
+椰	ye1	ye2	以開三麻平
+椰	ye2		以開三麻平
+穌	su1		心模平
+隘	ai4	ya4	影開佳去
+旭	xu4		曉鍾入
+瞳	tong2		定一東平
+酯	zhi3		章開脂上
+渤	bo2		並魂入
+鎬	hao4		匣豪上
+鎬	gao3	hao4	匣豪上
+虔	qian2		羣開B仙平
+藤	teng2		定開登平
+抨	peng1		滂耕平
+恬	tian2		定添平
+螂	lang2		來開唐平
+稼	jia4		見開二麻去
+邯	han2		匣開寒平
+搐	chu4		徹三東入
+鄂	e4		疑開唐入
+錘	chui2		澄合支平
+挾	xie2		匣添入
+禧	xi3	xi1	曉之平
+莽	mang3		明唐上
+亟	ji2		見開蒸入
+堤	di1		端開齊平
+堤	di2	di3	端開齊上
+羔	gao1		見豪平
+黔	qian2		羣B鹽平
+榆	yu2		以虞平
+潢	huang2		匣合唐平
+岔	cha4		初開二麻去
+吁	xu1		曉虞平
+鉤	gou1		見侯平
+鉤	gou4	gou1	見侯平
+橢	tuo3		透合一歌上
+鋸	ju4		見魚去
+稜	leng2		來開登平
+稜	ling2	leng2	來開登平
+稜	leng1	leng2	來開登平
+霹	pi1		滂青入
+鞠	ju1		見三東入
+悽	qi1		清開齊平
+癖	pi3		滂清入;滂青入
+衊	mie4		明先入
+鈣	gai4		見咍去;見開泰去
+楷	kai3	qie3	溪開皆上
+骸	hai2	xie2	匣開皆平
+疵	ci1	ci2	從開支平
+貂	diao1		端蕭平
+惚	hu1		曉魂入
+憫	min3		明B眞上
+餾	liu2		來尤平
+楂	zha1		莊開二麻平
+褶	zhe3	shi2	常侵入
+姊	zi3		精開脂上
+乖	guai1		見合皆平
+靂	li4		來開青入
+姍	shan1	san1	心開寒平
+嘶	si1	xi1	心開齊平
+卜	bu3		幫一東入
+鴛	yuan1		影合元平
+鴦	yang1		影開陽平
+峨	e2		疑開一歌平
+莉	li4	li2	來開齊平
+恕	shu4		書魚去
+咀	ju3		精魚上
+咀	zui3	ju4	從魚上
+蜀	shu3	shu2	常鍾入
+薰	xun1		曉文平
+膿	nong2		泥冬平
+佣	yong4	yong2	以鍾平
+癇	xian2		匣開山平
+扉	fei1		幫微平
+鍍	du4		定模去
+嶽	yue4		疑江入
+侖	lun2		來合眞平
+摒	bing4		幫清去
+嚕	lu1	lu2	來模平
+睿	rui4	wei4	以合祭去
+毗	pi2		並A脂平
+媲	pi4		滂齊去
+阪	ban3	fan3	幫元上
+嗇	se4	she	生開蒸入
+暱	ni4		孃開眞入
+凜	lin3		來侵上
+倏	shu1		書三東入
+遐	xia2		匣開二麻平
+襖	ao3		影豪上
+稟	bing3	bin3	幫B侵上
+撇	pie1		滂先入
+撇	pie3		滂先入
+咫	zhi3		章開支上
+脯	pu2	fu3	幫虞上
+脯	fu3		幫虞上
+湃	pai4		滂皆去
+舵	duo4		定開一歌上
+汲	ji2		見B侵入
+峭	qiao4		清宵去
+捏	nie1	nie4	泥開先入
+萍	ping2		並青平
+邃	sui4		心合脂去
+戮	lu4		來三東入
+榻	ta4		透談入
+褻	xie4		心開仙入
+瑤	yao2		以宵平
+蹊	qi1	xi2	匣開齊平
+蹊	xi1	xi2	匣開齊平
+坯	pi1	pei1	滂灰平
+籟	lai4		來開泰去
+眺	tiao4		透蕭去
+娶	qu3	qu4	清虞去
+闌	lan2		來開寒平
+諦	di4		端開齊去
+楠	nan2		泥覃平
+徙	xi3	si3	心開支上
+惆	chou2	chou1	徹尤平
+閻	yan2		以鹽平
+娼	chang1		昌開陽平
+繕	shan4		常開仙去
+嫣	yan1		影開B仙平
+渭	wei4		云合微去
+茉	mo4		明寒入
+瑩	ying2	yong2	云合三庚平
+瑩	ying1	yong2	云合三庚平
+秒	miao3		明A宵上
+礁	jiao1		精宵平
+簸	bo3		幫一歌上
+簸	bo4		幫一歌去
+庚	geng1		見開二庚平
+辮	bian4		並先上
+獗	jue2		見合元入
+攙	chan1		初銜平
+迂	yu1		影虞平
+蹺	qiao1		溪A宵平
+蹺	qiao4	qiao1	溪A宵平
+惺	xing1		心開青平
+赦	she4		書開三麻去
+譏	ji1		見開微平
+崔	cui1		清灰平
+幌	huang3	huang4	匣合唐上
+跤	jiao1	qiao1	溪肴平
+汛	xun4	xin4	心開眞去
+兀	wu4		疑魂入
+磕	ke1		溪談入;溪開寒入
+磕	ke4		溪談入;溪開寒入
+霾	mai2		明皆平
+綏	sui2	sui1	心合脂平
+覷	qu4		清魚去
+雁	yan4		疑開刪去
+羚	ling2		來開青平
+偕	xie2		匣開皆平
+沽	gu1		見模平
+轅	yuan2		云合元平
+滸	hu3		曉模上
+譚	tan2		定覃平
+刁	diao1		端蕭平
+肘	zhou3		知尤上
+蹦	beng4		並登去
+頤	yi2		以之平
+咚	dong1		端冬平
+餛	hun2		匣魂平
+韭	jiu3		見尤上
+胺	an4		影開寒去
+哽	geng3		見開二庚上
+惘	wang3		明陽上
+琵	pi2		並A脂平
+琶	pa2		並二麻平
+粟	su4		心鍾入
+几	ji1	ji3	見開B脂上
+啼	ti2		定開齊平
+哆	duo1	duo3	端開一歌上
+屯	tun2		定魂平
+屯	zhun1		知合眞平
+輟	chuo4	zhuo	知合仙入
+吆	yao1		影蕭平
+鑿	zao2	zuo2	從開唐入
+鑿	zuo4		精開唐入
+摀	wu3		影模上
+鑼	luo2		來開一歌平
+汾	fen2		並文平
+祟	sui4		心合脂去
+奄	yan3		影B鹽上
+撩	liao2		來蕭平
+撩	liao1	liao3	來蕭上
+麒	qi2		羣之平
+芪	qi2		羣開A支平
+恙	yang4		以開陽去
+獰	ning2	neng2	孃開二庚平
+矇	meng1	meng2	明一東平
+矇	meng2		明一東平
+秸	jie1	jia	見開山入
+迥	jiong3	xiong4	匣合青上
+謗	bang4		幫唐去
+囤	tun2	dun4	定魂上
+苷	gan1		見談平
+烷	wan2	huan2	匣合寒平
+凋	diao1		端蕭平
+鈉	na4		泥覃入
+橘	ju2		見合A眞入
+腋	ye4	yi4	以開清入
+齦	yin2		疑欣平
+肛	gang1	jiang1	見江平
+魷	you2		云尤平
+芥	jie4		見開皆去
+芥	gai4	jie4	見開皆去
+簇	cu4		清一東入
+雹	bao2	bo2	並江入
+瞥	pie1		滂A仙入;滂先入
+眈	dan1		端覃平
+彬	bin1		幫B眞平
+嬤	mo2	mo3	明一歌上
+嬤	ma1	mo3	明一歌上
+飆	biao1		幫A宵平
+彗	hui4	sui4	邪合祭去;邪合脂去
+隕	yun3		云合眞上
+憋	bie1		幫A仙入
+頜	he2	ge	見覃入
+嘟	du1		端模平
+俑	yong3		以鍾上
+喳	zha1		莊開二麻平
+喳	cha1	zha1	莊開二麻平
+跆	tai2		定咍平
+梢	shao1		生肴平
+寐	mei4	mi4	明A脂去
+翹	qiao2		羣A宵平
+翹	qiao4	jiao4	羣A宵去
+痰	tan2		定談平
+嫻	xian2		匣開山平
+郴	chen1		徹侵平
+炙	zhi4		章開清入
+呢	ni2		孃開脂平
+鐲	zhuo2		澄江入
+攘	rang3		日開陽上
+霄	xiao1		心宵平
+狩	shou4		書尤去
+吭	keng1	hang4	匣開唐上;匣開唐去
+吭	hang2		匣開唐平
+酮	tong2		定一東平
+懺	chan4		初銜去
+恤	xu4		心合眞入
+裊	niao3		泥蕭上
+蔚	wei4		影合微去
+蔚	yu4		影文入
+黛	dai4		定咍去
+怔	zheng4	zheng1	章開清平
+怔	zheng1		章開清平
+皰	pao4		滂肴去
+濰	wei2		以合脂平
+珀	po4		滂二庚入
+丞	cheng2		常開蒸平
+殃	yang1		影開陽平
+櫚	lü2		來魚平
+烙	lao4	luo4	來開唐入
+漾	yang4		以開陽去
+徨	huang2		匣合唐平
+藩	fan1		幫元平
+誹	fei3	fei4 fei1	幫微去
+蟑	zhang1		章開陽平
+伎	ji4		羣開B支上
+挎	kua4	ku1	溪模平
+漩	xuan2		邪合仙平
+剷	chan3		初開山上
+倚	yi3		影開B支上
+霎	sha4		生咸入
+褥	ru4		日鍾入
+鉉	xuan4		匣合先上
+鯉	li3		來之上
+錐	zhui1		章合脂平
+鵡	wu3		明虞上
+鸚	ying1	eng1	影開耕平
+傀	kui3		溪灰上
+儡	lei3		來灰上
+穹	qiong2	qiong1	溪三東平
+驢	lü2		來魚平
+靶	ba3	ba4	幫二麻去
+睬	cai3		清咍上
+稈	gan3		見開寒上
+蹟	ji4		精開清入
+拂	fu2		滂文入
+拂	bi4	fu	滂文入
+霓	ni2	yi2	疑開齊平
+釦	kou4	kou3	溪侯上
+酣	han1	han2	匣談平
+迢	tiao2		定蕭平
+曰	yue1	yue4	云合元入
+鵑	juan1		見合先平
+糜	mi2		明B支平
+邵	shao4		常宵去
+喋	die2		端添入
+埠	bu4		並模去
+盯	ding1	zheng3	知開二庚上
+劈	pi1		滂青入
+劈	pi3		滂青入
+憨	han1		曉談平
+姜	jiang1		見開陽平
+剃	ti4		透開齊去
+騁	cheng3		徹開清上
+藹	ai3	ai4	影開泰去
+詠	yong3	yong4	云合三庚去
+冗	rong3		日鍾上
+紉	ren4	nin2	孃開眞平
+鋰	li3		來之上
+郝	hao3	he	曉開唐入
+懵	meng3		明一東上
+伶	ling2		來開青平
+囪	cong1		清一東平
+脛	jing4	xing4	匣開青上;匣開青去
+怦	peng1		滂耕平
+殉	xun4		邪合眞去
+曳	ye4	yi4	以開祭去
+贅	zhui4		章合祭去
+瑯	lang2		來開唐平
+袂	mei4	mi4	明A祭去
+豌	wan1		影合寒平
+饞	chan2		崇咸平
+麾	hui1		曉合B支平
+哼	heng1		曉開二庚平
+皙	xi1		心開青入
+漉	lu4		來一東入
+邸	di3		端開齊上
+倪	ni2	yi2	疑開齊平
+斐	fei3		滂微上
+銬	kao4		溪豪去
+蛤	ha2	ge	見覃入
+蛤	ge2		見覃入
+迸	beng4		幫耕去
+蹋	ta4	da2	定談入
+揪	jiu1		精尤平
+戳	chuo1		徹江入
+璋	zhang1		章開陽平
+圃	pu3	bu3	幫模上
+沓	ta4	da2	定覃入
+璧	bi4		幫清入
+茹	ru2		日魚平
+嗅	xiu4		曉尤去
+腆	tian3		透開先上
+靦	mian3	tian3	透開先上
+靦	tian3		透開先上
+詣	yi4		疑開齊去
+磋	cuo1		清開一歌平
+鏤	lou4		來侯去
+莆	pu2	fu3	幫虞上
+濡	ru2		日虞平
+忱	chen2		常侵平
+宦	huan4		匣合刪去
+裳	chang2		常開陽平
+嘈	cao2		從豪平
+漣	lian2		來開仙平
+悖	bei4		並灰去
+嬈	rao2	rao3	日宵上
+銹	xiu4		心尤去
+鉗	qian2		羣B鹽平
+臃	yong1		影鍾平
+贍	shan4		常鹽去
+搓	cuo1		清開一歌平
+垮	kua3		溪合二麻上
+柵	zha4	che	初開耕入
+柵	shan1	shan4	生開刪去
+壬	ren2		日侵平
+腌	yan1		影嚴平
+腌	a1	ye	影B鹽入;影嚴入
+戊	wu4	mou4	明侯去
+唏	xi1	xi3 xi4	曉開微去
+腱	jian4		羣開元去
+恃	shi4		常之上
+瘢	ban1	pan2	並寒平
+彞	yi2		以開脂平
+胭	yan1		影開先平
+唬	hu3	guo	見合二庚入
+偌	ruo4	re4	日開三麻去
+屹	yi4		疑欣入
+緞	duan4		定合寒上
+汶	wen4		明文去
+踞	ju4		見魚去
+匾	bian3		幫先上
+袒	tan3	dan4	定開寒上
+慵	yong1	chong2	常鍾平
+蜷	quan2		羣合B仙平
+乍	zha4		崇開二麻去
+掏	tao1		透豪平
+樊	fan2		並元平
+啊	a1	e1	影開一歌平
+矗	chu4		初三東入;徹三東入
+蜒	yan2		以開仙平
+犁	li2		來開齊平
+嬸	shen3		書侵上
+蜿	wan1		影合寒平
+痘	dou4		定侯去
+謐	mi4		明A眞入
+躇	chu2		澄魚平
+躊	chou2		澄尤平
+叱	chi4		昌開眞入
+慄	li4		來開眞入
+娥	e2		疑開一歌平
+仕	shi4	zhi4	崇之上
+呱	gua1	gu1	見模平
+竿	gan1		見開寒平
+磊	lei3		來灰上
+疸	dan3		端開寒上
+炯	jiong3		見合青上
+酗	xu4		曉虞去
+厘	li2		來之平
+岌	ji2	yi4	疑B侵入
+噱	xue2	jue2	羣開陽入
+鋤	chu2		崇魚平
+斌	bin1		幫B眞平
+豔	yan4		以鹽去
+暨	ji4		羣開B脂去
+漬	zi4		從開支去
+瞰	kan4		溪談去
+蹂	rou2		日尤平
+躪	lin4		來開眞去
+楓	feng1		幫三東平
+鎔	rong2	yong2	以鍾平
+卯	mao3		明肴上
+礫	li4		來開青入
+沁	qin4		清侵去
+焉	yan1		影開B仙平;影開元平
+蹲	dun1	cun2	從魂平
+蹲	dun4	cun2	從魂平
+寇	kou4		溪侯去
+砰	peng1		滂耕平
+睏	kun4		溪魂去
+榷	que4	jue	見江入
+磺	huang2		匣合唐平
+婊	biao3		幫B宵上
+嘰	ji1		見開微平
+濺	jian4		精開仙去
+鏟	chan3		初開山上
+嚓	cha1		初開山入
+嚓	ca1	cha	初開山入
+鵲	que4		清開陽入
+琥	hu3		曉模上
+猙	zheng1		莊開耕平
+柑	gan1		見談平
+餌	er3	er4	日之去
+檀	tan2		定開寒平
+嗖	sou1	shu	生三東入
+齋	zhai1		莊開皆平
+賑	zhen4		章開眞去
+潺	chan2		崇開仙平;崇開山平
+鯨	jing1	qing2	羣開三庚平
+叩	kou4	kou3	溪侯上
+穗	sui4		邪合脂去
+璇	xuan2		邪合仙平
+癥	zheng1		知開蒸平
+褒	bao1		幫豪平
+猿	yuan2		云合元平
+瘀	yu1	yu4	影魚去
+詆	di3		端開齊上
+蚣	gong1		見一東平
+蜈	wu2		疑模平
+錮	gu4		見模去
+攢	zan3		精開寒上
+攢	cuan2		從合寒平
+縈	ying2	yong1	影合清平
+酰	xian1		心開先平
+樟	zhang1		章開陽平
+瘟	wen1		影魂平
+嫦	chang2		常開陽平
+葦	wei3		云合微上
+簷	yan2		以鹽平
+噸	dun1		端魂平
+寅	yin2		以開眞平
+酥	su1		心模平
+睽	kui2	kui1	溪合齊平
+瘙	sao4		心豪去
+鹵	lu3		來模上
+戌	xu1		心合眞入
+祁	qi2		羣開A脂平
+隴	long3		來鍾上
+酉	you3		以尤上
+苔	tai2		定咍平
+哉	zai1		精咍平
+湄	mei2	mi2	明B脂平
+憩	qi4		溪開B祭去
+潼	tong2		定一東平
+詼	hui1	kui1	溪灰平
+蹭	ceng4		清開登去
+砌	qi4		清開齊去
+砌	qie4	qi4	清開齊去
+匣	xia2		匣銜入
+遛	liu4	liu2	來尤平
+遛	liu2		來尤平
+誅	zhu1		知虞平
+曦	xi1		曉開B支平
+涎	xian2		邪開仙平
+螢	ying2	xiong2	匣合青平
+窿	long2		來三東平
+禹	yu3		云虞上
+閡	he2	ai4	疑咍去
+邢	xing2		匣開青平
+冽	lie4		來開仙入
+謾	man4		明刪去;明寒去
+祠	ci2	si2	邪之平
+縝	zhen3		章開眞上
+瞠	cheng1		徹開二庚平
+恪	ke4		溪開唐入
+榔	lang2		來開唐平
+桓	huan2		匣合寒平
+暄	xuan1		曉合元平
+悻	xing4		匣開青上
+禾	he2	huo2	匣合一歌平
+籬	li2		來開支平
+弩	nu3		泥模上
+摹	mo2	mu2	明模平
+綸	lun2		來合眞平
+痞	pi3	bi3	幫B脂上
+瀚	han4		匣開寒去
+甄	zhen1		章開眞平
+邋	la1	la4	來談入
+餑	bo1	bo2	並魂入
+梵	fan4		並凡去
+婢	bi4		並A支上
+媛	yuan2		云合元平
+蕃	bo1	fan2 fan1	幫元平
+蕃	fan2		並元平
+蕃	fan1		幫元平
+苓	ling2		來開青平
+漪	yi1		影開B支平
+繆	mou2		明尤平
+繆	miu4	miao4	明幽去
+鉀	jia3		見銜入
+瑙	nao3		泥豪上
+藕	ou3		疑侯上
+竇	dou4		定侯去
+墩	dun1		端魂平
+羲	xi1		曉開B支平
+劾	he2		匣開登入
+粳	jing1	geng1	見開二庚平
+偎	wei1		影灰平
+忿	fen4		滂文去
+蚌	beng4	bang4	並江上
+蚌	bang4		並江上
+鬨	hong4		匣一東去
+虞	yu2		疑虞平
+沈	shen3		書侵上
+沈	chen2		澄侵平
+釐	li2		來之平
+彤	tong1	tong2	定冬平
+彤	tong2		定冬平
+邑	yi4		影B侵入
+鷺	lu4		來模去
+踵	zhong3		章鍾上
+獷	guang3		見合陽上
+涸	he2		匣開唐入
+捺	na4		泥開寒入
+撬	qiao4		溪蕭去
+唁	yan4		疑開B仙去
+囡	nan1	nan2	泥覃平
+礪	li4		來開祭去
+冀	ji4		見開B脂去
+濘	ning4		泥開青去
+褪	tui4		透灰去
+褪	tun4		透魂去
+斟	zhen1		章侵平
+誨	hui4		曉灰去
+搪	tang2		定開唐平
+朴	piao2	po	滂江入
+朴	pu3	po	滂江入
+朴	po4		滂江入
+朴	pu2	po	滂江入
+槐	huai2		匣合皆平
+癸	gui3		見合A脂上
+篤	du3		端冬入
+嚎	hao2		匣豪平
+榕	rong2	yong2	以鍾平
+蟈	guo1		見合耕入
+熠	yi4		云侵入;以侵入
+粱	liang2		來開陽平
+鞘	qiao4	xiao4	心宵去
+痢	li4		來開脂去
+瘧	nüe4	yue4	疑開陽入
+瘧	yao4	yue4	疑開陽入
+梟	xiao1	jiao1	見蕭平
+剽	piao1	piao2 piao4	並A宵平
+啶	ding4		定開青去
+億	yi4		影開蒸入
+鷗	ou1		影侯平
+媧	wa1	gua1	見合二麻平;見合佳平
+蟆	ma2		明二麻平
+揉	rou2		日尤平
+曇	tan2		定覃平
+臆	yi4		影開蒸入
+驛	yi4		以開清入
+繭	jian3		見開先上
+獒	ao2		疑豪平
+鼾	han1		曉開寒平
+擻	sou3		心侯上
+嶇	qu1		溪虞平
+恒	heng2		匣開登平
+皚	ai2		疑咍平
+罹	li2		來開支平
+纂	zuan3		精合寒上
+焙	bei4		並灰去
+啪	pa1	po	滂二庚入
+嵩	song1		心三東平
+寰	huan2		匣合刪平
+諺	yan4		疑開B仙去
+茯	fu2		並三東入
+枷	jia1		見開二麻平
+翌	yi4		以開蒸入
+踩	cai3		清咍上
+恿	yong3		以鍾上
+慫	song3		心鍾上
+迦	jia1		見開二麻平
+畝	mu3	mou3	明侯上
+咤	zha4		知開二麻去
+耦	ou3		疑侯上
+壕	hao2		匣豪平
+餒	nei3		泥灰上
+貽	yi2		以之平
+踢	ti1		透開青入
+馮	feng2		並三東平
+馮	ping2		並蒸平
+薔	qiang2		從開陽平
+苞	bao1		幫肴平
+痔	zhi4		澄之上
+庶	shu4		書魚去
+諉	wei3	nei4	孃合支去
+齪	chuo4		初江入
+齷	wo4	yue	影江入
+黝	you3		影幽上
+罌	ying1	eng1	影開耕平
+肽	tai4		透開泰去
+燎	liao2		來宵平
+燎	liao3		來宵上
+斡	wo4		影合寒入
+帚	zhou3		章尤上
+篆	zhuan4		澄合仙上
+嗔	chen1		昌開眞平
+犒	kao4		溪豪去
+藐	miao3		明A宵上
+巒	luan2		來合寒平
+匝	za1		精覃入
+鐮	lian2		來鹽平
+熾	chi4		昌之去
+羥	qiang3		溪開陽上
+琪	qi2		羣之平
+佬	lao3		來豪上
+又	you4		云尤去
+訥	ne4	nu4	泥魂入
+彥	yan4		疑開B仙去
+盂	yu2		云虞平
+濮	pu2	bu	幫一東入
+芎	xiong1	qiong1	溪三東平
+芎	qiong1		溪三東平
+匡	kuang1		溪合陽平
+窖	jiao4		見肴去
+愫	su4		心模去
+鞦	qiu1		清尤平
+韆	qian1		清開仙平
+孢	bao1	bao4	並肴上
+砝	fa3	ẋ	.
+訛	e2	wo2	疑合一歌平
+倩	qian4		清開先去
+麓	lu4		來一東入
+蜓	ting2		定開青平
+蜻	qing1		清開青平
+鴕	tuo2		定開一歌平
+縷	lü3		來虞上
+髖	kuan1		溪合寒平
+泗	si4		心開脂去
+囉	luo1	luo2	來開一歌平
+囉	luo2		來開一歌平
+踉	liang4		來開陽去
+蹌	qiang4	qiang1	清開陽平
+鉚	mao3		明肴上
+岐	qi2		羣開A支平
+窯	yao2		以宵平
+鯽	ji4		精開清入;精開蒸入
+巳	si4		邪之上
+聶	nie4		孃鹽入
+鎧	kai3		溪咍上
+杷	pa2		並二麻平
+枇	pi2		並A脂平
+鰻	man2		明寒平
+遴	lin2	lin4	來開眞去
+蜥	xi1		心開青入
+閾	yu4	xu	曉合蒸入
+鐺	dang1		端開唐平
+鐺	cheng1		初開二庚平
+鄱	po2		並一歌平
+蕓	yun2		云文平
+涓	juan1		見合先平
+蛾	e2		疑開一歌平
+饕	tao1		透豪平
+癬	xuan3	xian3	心開仙上
+唑	zuo4		從合一歌去
+篝	gou1		見侯平
+嗝	ge2		見開耕入
+咋	zha4		莊開二麻去
+咋	zha1	zha4	莊開二麻去
+咋	za3	zha4	莊開二麻去
+稷	ji4		精開蒸入
+侏	zhu1		章虞平
+湮	yan1		影開先平
+湮	yin1		影開A眞平
+幗	guo2		見合耕入
+囔	nang1	nang2	泥開唐平
+衢	qu2		羣虞平
+騾	luo2		來合一歌平
+瘠	ji2		從開清入
+痿	wei3	wei1	影合B支平
+愣	leng4		來開登去
+涪	fu2	fou2	並尤平
+痤	cuo2		從合一歌平
+蹴	cu4		清三東入
+棟	dong4		端一東去
+遨	ao2		疑豪平
+拮	jie2		見開先入
+据	ju1		見魚平
+頷	han4		匣覃上
+朮	zhu2		澄合眞入
+掣	che4		昌開仙入
+瘸	que2		羣合三歌平
+駿	jun4		精合眞去
+兗	yan3	yuan3	以合仙上
+氟	fu2		幫文入
+佇	zhu4		澄魚上
+軾	shi4		書開蒸入
+衩	cha3	chai4	初開佳去
+衩	cha4		初開二麻去
+汝	ru3		日魚上
+竺	zhu2		知三東入
+磅	pang2	pang1	滂唐平
+磅	bang4	pang1	滂唐平
+戎	rong2		日三東平
+箔	bo2		並唐入
+咔	ka1	.	.
+咔	ka3	.	.
+魘	yan3		影A鹽上
+餮	tie4		透開先入
+樁	zhuang1		知江平
+婁	lou2		來侯平
+蚓	yin3		以開眞上
+蚯	qiu1		溪尤平
+緲	miao3		明A宵上
+縹	piao3		滂A宵上
+札	zha2		莊開山入
+倭	wo1		影合一歌平
+茵	yin1		影開A眞平
+嗤	chi1		昌之平
+錨	mao2		明豪平
+玷	dian4	dian3	端添上
+轆	lu4		來一東入
+覦	yu2		以虞平
+覬	ji4		見開B脂去
+蜚	fei1	fei4	並微去
+蜚	fei3		幫微上
+吮	shun3	shun4	船合眞上
+翱	ao2		疑豪平
+毋	wu2		明虞平
+嫡	di2		端開青入
+鈾	you2		以尤平
+磐	pan2		並寒平
+婺	wu4		明虞去
+隋	sui2		邪合支平
+瘁	cui4	zui4	從合脂去
+冉	ran3		日鹽上
+滇	dian1		端開先平
+祉	zhi3	chi3	徹之上
+薏	yi4		影開蒸入
+氂	mao2		明豪平
+蛀	zhu4		章虞去
+紜	yun2		云文平
+嵐	lan2		來覃平
+滷	lu3		來模上
+燼	jin4		從開眞去
+芸	yun2		云文平
+嗣	si4		邪之去
+枚	mei2		明灰平
+蜴	yi4		以開清入
+疽	ju1	qu1	清魚平
+渙	huan4		曉合寒去
+晾	liang4		來開陽去
+噼	pi1	.	.
+嗆	qiang4		清開陽去
+嗆	qiang1		清開陽平
+鋌	ting3	ding4	定開青上
+汀	ting1		透開青平
+熹	xi1		曉之平
+琛	chen1		徹侵平
+薺	ji4		從開齊上
+薺	qi2	ci2	從開脂平
+嶗	lao2		來豪平
+腓	fei2		並微平
+恣	zi4		精開脂去
+拗	niu4	yao3	影肴上
+拗	ao4	yao3	影肴上
+涅	nie4		泥開先入
+蛟	jiao1		見肴平
+犢	du2		定一東入
+蝗	huang2		匣合唐平
+矸	gan1	gan4	見開寒去
+梓	zi3		精之上
+箍	gu1		見模平
+韁	jiang1		見開陽平
+簌	su4		心一東入
+暉	hui1		曉合微平
+駙	fu4		並虞去
+灕	li2		來開支平
+鏖	ao2	ao1	影豪平
+鱉	bie1		幫A仙入
+鏗	keng1		溪開耕平
+裨	bi4	bi1	幫A支平
+齲	qu3		溪虞上
+蠱	gu3		見模上
+笙	sheng1		生開三庚平
+蚤	zao3		精豪上
+鶯	ying1	eng1	影開耕平
+徉	yang2		以開陽平
+徜	chang2		常開陽平
+狄	di2		定開青入
+鵪	an1		影覃平
+鶉	chun2		常合眞平
+涮	shuan4		生合刪去
+鱔	shan4		常開仙上
+狒	fei4		並微去
+搡	sang3		心開唐上
+鏘	qiang1		清開陽平
+蟄	zhe2	zhi2	澄侵入
+斕	lan2		來開山平
+壑	he4		曉開唐入
+溥	pu3		滂模上
+吱	zhi1	qi4	溪開A支去
+吱	zi1	qi4	溪開A支去
+攫	jue2		見合陽入
+煲	bao1		幫豪平
+羹	geng1		見開二庚平
+萵	wo1		影合一歌平
+甕	weng4		影一東去
+莘	shen1		生臻平
+莘	xin1	shen1	生臻平
+顴	quan2		羣合B仙平
+颼	sou1	shou1	生尤平
+忖	cun3		清魂上
+捶	chui2	zhui3	章合支上
+棣	di4		定開齊去
+溧	li4		來開眞入
+蒞	li4		來開脂去
+夙	su4		心三東入
+牒	die2		定添入
+遁	dun4		定魂上;定魂去
+刨	bao4	pao2	並肴平
+刨	pao2		並肴平
+餞	jian4		從開仙上;從開仙去
+佯	yang2		以開陽平
+奘	zang4		從開唐上;從開唐去
+瞑	ming2		明青平
+詡	xu3		曉虞上
+惴	zhui4		章合支去
+潦	liao2	lao3	來豪上
+罈	tan2		定覃平
+嘹	liao2		來蕭平
+漯	luo4		來合一歌去
+蟒	mang3		明唐上
+弋	yi4		以開蒸入
+窈	yao3		影蕭上
+窕	tiao3	diao4	定蕭上
+膾	kuai4	gui4	見合泰去
+謳	ou1		影侯平
+唆	suo1		心合一歌平
+垣	yuan2		云合元平
+閹	yan1		影B鹽平
+跚	shan1	san1	心開寒平
+蹣	pan2		並寒平
+袤	mao4	mou4	明侯去
+骰	tou2		定侯平
+笆	ba1		幫二麻平
+饑	ji1		見開微平
+羌	qiang1		溪開陽平
+糰	tuan2		定合寒平
+腩	nan3		泥覃上
+謔	xue4		曉開陽入
+襠	dang1		端開唐平
+螳	tang2		定開唐平
+鐫	juan1		精合仙平
+醺	xun1		曉文平
+蛔	hui2		匣灰平
+箴	zhen1		章侵平
+菏	he2		匣開一歌平
+嗒	da1		端覃入
+嗒	ta4		透談入
+涇	jing1		見開青平
+酚	fen1		滂文平
+咣	guang1		見合唐平
+鶩	wu4		明虞去
+吒	zha4		知開二麻去
+嘧	mi4		明B眞入
+鍬	qiao1		清宵平
+砥	di3	zhi3	章開支上;章開脂上
+鑣	biao1		幫B宵平
+宕	dang4		定開唐去
+懿	yi4		影開B脂去
+蠣	li4		來開祭去
+啻	chi4	shi4	書開支去
+槳	jiang3		精開陽上
+袞	gun3		見魂上
+鍥	qie4		溪開先入
+浚	jun4	xun4	心合眞去
+浚	xun4		心合眞去
+橇	qiao1		溪B宵平
+劊	gui4		見合泰去
+澗	jian4		見開刪去
+稠	chou2		澄尤平
+瓢	piao2		並A宵平
+躡	nie4		孃鹽入
+偃	yan3		影開元上
+韜	tao1		透豪平
+棠	tang2		定開唐平
+柩	jiu4		羣尤去
+鰍	qiu1		清尤平
+勳	xun1		曉文平
+湍	tuan1		透合寒平
+鬢	bin4		幫A眞去
+苑	yuan4	yuan3	影合元上
+葷	hun1	xun1	曉文平
+葷	xun1		曉文平
+婀	e1		影開一歌平
+匍	pu2		並模平
+匐	fu2		並三東入
+莠	you3		以尤上
+呤	ling4	ling2	來開青平
+嘌	piao4	piao1	滂A宵平
+扈	hu4		匣模上
+癟	bie3	bie2	並先入
+癟	bie1	bie2	並先入
+膺	ying1		影開蒸平
+邇	er3		日開支上
+臾	yu2		以虞平
+蚩	chi1		昌之平
+轂	gu3		見一東入
+轂	gu1		見一東入
+氮	dan4		定談去
+蹶	jue2		見合B仙入;見合元入
+蹶	jue3		見合B仙入;見合元入
+鋅	xin1		心開眞平
+泯	min3		明A眞上
+碾	nian3		孃開仙上
+藿	huo4		曉合唐入
+奐	huan4		曉合寒去
+皎	jiao3		見蕭上
+麝	she4		船開三麻去
+掬	ju1		見三東入
+蕊	rui3		日合支上;日合脂上
+桎	zhi4		章開眞入
+梏	gu4		見冬入
+蕎	qiao2		羣B宵平
+絹	juan4		見合A仙去
+忻	xin1		曉欣平
+岷	min2		明B眞平
+蟎	man3		明寒上
+檜	hui4		匣合泰去
+闔	he2		匣談入
+甌	ou1		影侯平
+汴	bian4		並B仙去
+嵊	sheng4		船開蒸去
+閔	min3		明B眞上
+齶	e4		疑開唐入
+筵	yan2		以開仙平
+梔	zhi1		章開支平
+卹	xu4		心合眞入
+胤	yin4		以開眞去
+礡	bo2		並唐入
+硯	yan4		疑開先去
+惻	ce4	che	初開蒸入
+謁	ye4		影開元入
+徠	lai2		來咍平
+臼	jiu4		羣尤上
+皈	gui1		見合微平
+弔	diao4		端蕭去
+賒	she1		書開三麻平
+諭	yu4		以虞去
+娑	suo1		心開一歌平
+颳	gua1		見合刪入
+徇	xun4		邪合眞去
+烴	ting1		透開青平
+燻	xun1		曉文平
+烊	yang4	yang2	以開陽平
+烊	yang2		以開陽平
+釗	zhao1		章宵平
+茴	hui2		匣灰平
+鄒	zou1	zhou1	莊尤平
+佃	dian4		定開先去
+潸	shan1		生開刪平
+贗	yan4		疑開刪去
+搔	sao1		心豪平
+戟	ji3		見開三庚入
+噶	ga2	ge	見開寒入
+芷	zhi3		章之上
+鄞	yin2		疑欣平;疑開B眞平
+蠔	hao2		匣豪平
+砧	zhen1		知侵平
+麋	mi2		明B脂平
+塾	shu2		常三東入
+餉	xiang3	shang4	書開陽去
+亳	bo2		並唐入
+訌	hong4	hong2	匣一東平
+煦	xu4		曉虞去
+綺	qi3		溪開B支上
+芍	shao2	shuo2	常開陽入
+芍	que4		清開陽入
+粕	po4		滂唐入
+舷	xian2		匣開先平
+陲	chui2	shui2	常合支平
+滁	chu2		澄魚平
+孿	luan2		來合仙平
+瞿	qu1	ju4	見虞去
+瞿	qu2		羣虞平
+嬪	pin2		並A眞平
+盹	dun3	zhun4	章合眞去
+跎	tuo2		定開一歌平
+蹉	cuo1		清開一歌平
+汐	xi1	xi2	邪開清入
+髻	ji4		見開齊去
+愴	chuang4		初開陽去
+覲	jin4		羣開B眞去
+耷	da1		端談入
+痧	sha1		生開二麻平
+髕	bin4		並A眞上
+桔	jie2		見開先入
+桔	ju2	jie	見開先入
+蟠	pan2		並寒平
+糠	kang1		溪開唐平
+氈	zhan1		章開仙平
+蚪	dou3		端侯上
+蝌	ke1	kuo1	溪合一歌平
+佝	gou1	hou4	曉侯去
+佝	kou4	hou4	曉侯去
+僂	lou2		來侯平
+滎	xing2	xiong2	匣合青平
+滎	ying2	xiong2	匣合青平
+緘	jian1		見咸平
+幄	wo4	yue	影江入
+楣	mei2	mi2	明B脂平
+浹	jia1	jie	精添入
+燾	tao1	tao2	定豪平
+燾	dao4		定豪去
+豺	chai2		崇開皆平
+孳	zi1		精之平
+淬	cui4		清灰去
+肱	gong1		見合登平
+豉	chi3	shi4	常開支去
+苜	mu4		明三東入
+痂	jia1		見開二麻平
+鱸	lu2		來模平
+涿	zhuo1		知江入
+筏	fa2		並元入
+峪	yu4		以鍾入
+戾	li4		來開齊去
+郫	pi2		並A支平;並B支平
+孀	shuang1		生開陽平
+袈	jia1		見開二麻平
+裟	sha1		生開二麻平
+氤	yin1		影開A眞平
+氳	yun1		影文平
+榛	zhen1		莊臻平
+掖	ye4	yi4	以開清入
+掖	ye1	yi4	以開清入
+靨	ye4		影A鹽入
+揖	yi1		影A侵入
+檐	yan2		以鹽平
+錳	meng3		明二庚上
+嬗	shan4		常開仙去
+霖	lin2		來侵平
+滕	teng2		定開登平
+鐐	liao4		來蕭去
+蜃	shen4		常開眞上;常開眞去
+醚	mi2		明齊平
+櫱	nie4	ye4	疑開B仙入
+掂	dian1		端添平
+黠	xia2		匣開山入
+赳	jiu1	jiu3	見幽上
+擰	ning3		泥開青上
+擰	ning2	ning3	泥開青上
+蕁	xun2	tan2	定覃平
+蕁	qian2	tan2	定覃平
+泱	yang1		影開陽平
+箋	jian1		精開先平
+荀	xun2	xun1	心合眞平
+熏	xun1		曉文平
+簣	kui4	gui4	羣合B脂去
+攸	you1	you2	以尤平
+驥	ji4		見開B脂去
+蹩	bie2		並先入
+痼	gu4		見模去
+嚀	ning2		泥開青平
+羿	yi4		疑開齊去
+蔻	kou4	hou4	曉侯去
+噥	nong2		泥冬平
+晗	han2		匣覃平
+顳	nie4	re4	日鹽入
+賅	gai1		見咍平
+纓	ying1		影開清平
+薛	xue1	xie	心開仙入
+硼	peng2		並登平
+瀛	ying2		以開清平
+芡	qian4	jian4	羣B鹽上
+帛	bo2		並二庚入
+啕	tao2		定豪平
+閏	run4		日合眞去
+糅	rou2	niu4	孃尤去
+蟀	shuai4		生合眞入
+蟋	xi1		心開眞入
+氰	qing2		從開清平
+妾	qie4		清鹽入
+嫗	yu4		影虞去
+奎	kui2	kui1	溪合齊平
+鏵	hua2		匣合二麻平
+罔	wang3		明陽上
+苧	zhu4		澄魚上
+甬	yong3		以鍾上
+雋	juan4		從合仙上
+雋	jun4	juan4	從合仙上
+蚱	zha4	zhe	莊開二庚入
+蟾	chan2		常鹽平
+擯	bin4		幫A眞去
+呋	fu1		幫虞平
+涌	yong3		以鍾上
+涌	chong1	yong3	以鍾上
+邱	qiu1		溪尤平
+渥	wo4	yue	影江入
+逵	kui2		羣合B脂平
+楹	ying2		以開清平
+軼	yi4		以開眞入
+雯	wen2		明文平
+峒	tong2		定一東平
+峒	dong4		定一東去
+綦	qi2		羣之平
+孑	jie2		見開A仙入
+褓	bao3		幫豪上
+襁	qiang3	jiang3	見開陽上
+薊	ji4		見開齊去
+鑷	nie4		孃鹽入
+褂	gua4		見合佳去
+鰲	ao2		疑豪平
+崆	kong1		溪一東平
+啄	zhuo2		知江入
+銨	an3		影開寒上
+芻	chu2	chu1	初虞平
+濛	meng2		明一東平
+胴	dong4		定一東去
+缽	bo1		幫寒入
+蜍	chu2	shu2	常魚平
+踱	duo2		定開唐入
+吡	bi3	pi3	滂A支上
+畿	ji1	qi2	羣開微平
+顎	e4		疑開唐入
+崽	zai3	shai1	生開佳平;生開皆平
+茁	zhuo2		莊合仙入
+垠	yin2		疑欣平;疑開B眞平
+鰭	qi2		羣開A脂平
+吠	fei4		並廢去
+懣	men4		明魂去
+紕	pi1		滂A脂平
+蛭	zhi4		知開眞入;章開眞入
+巖	yan2		疑銜平
+桅	wei2		疑灰平
+婷	ting2		定開青平
+笠	li4		來侵入
+戍	shu4		書虞去
+奚	xi1	xi2	匣開齊平
+滓	zi3	zhi3	莊之上
+嗩	suo3		心合一歌上
+鈞	jun1		見合A眞平
+皋	gao1		見豪平
+荏	ren3		日侵上
+儋	dan1		端談平
+鞣	rou2		日尤平
+諂	chan3		徹鹽上
+瘴	zhang4		章開陽去
+哩	li1	li3	來之上
+哩	li3		來之上
+旎	ni3		孃開支上
+旖	yi3		影開B支上
+佗	tuo2		定開一歌平
+顰	pin2		並A眞平
+鴇	bao3		幫豪上
+揀	jian3		見開山上
+饃	mo2	mu2	明模平
+櫛	zhi4	zhe	莊臻入
+櫛	jie2	zhe	莊臻入
+舖	pu4		滂模去
+簍	lou3		來侯上
+陂	pi2	bi1	幫B支平
+陂	bei1	bi1	幫B支平
+陂	po1	bi1	幫B支平
+蚜	ya2		疑開二麻平
+螄	si1	shi1	生開脂平
+腴	yu2		以虞平
+彆	bie4	bi4	幫A祭去
+陞	sheng1		書開蒸平
+軻	ke1		溪開一歌平
+軻	ke3		溪開一歌上
+孱	chan2		崇開仙平;崇開山平
+孱	can4	zhan4	崇開山上
+埂	geng3		見開二庚上
+癜	dian4		端開先去
+罄	qing4		溪開青去
+噎	ye1		影開先入
+暹	xian1		心鹽平
+恫	dong4		定一東去
+拴	shuan1	quan1	清合仙平
+湎	mian3		明A仙上
+莧	xian4		匣開山去
+矽	xi1	xi2	邪開清入
+堊	e4		影開唐入
+叵	po3		滂一歌上
+燴	hui4		匣合泰去
+蝨	shi1	she	生臻入
+鑠	shuo4		書開陽入
+胄	zhou4		澄尤去
+淖	nao4		孃肴去
+葺	qi4		清侵入
+掇	duo1		端合寒入
+崍	lai2		來咍平
+邛	qiong2		羣鍾平
+捫	men2		明魂平
+荸	bi2	bo2	並魂入
+浜	bang1	beng1	幫耕平
+颯	sa4		心覃入
+琺	fa4		幫凡入
+幔	man4		明寒去
+囈	yi4		疑開A祭去
+臊	sao4	sao1	心豪平
+臊	sao1		心豪平
+砒	pi1		滂齊平
+隄	di1		端開齊平
+桉	an1		影開寒平
+沅	yuan2		疑合元平
+墒	shang1		書開陽平
+瑋	wei3		云合微上
+鱈	xue3		心合仙入
+鮭	gui1		見合齊平
+獠	liao2		來蕭平
+輥	gun3		見魂上
+茬	cha2	chi2	崇之平
+泔	gan1		見談平
+癩	lai4		來開泰去
+橈	rao2		日宵平
+蜇	zhe2		知開仙入
+浣	huan4		匣合寒上
+旌	jing1		精開清平
+諄	zhun1		章合眞平
+箕	ji1		見之平
+嚅	ru2		日虞平
+囁	nie4	re4	日鹽入
+鄴	ye4		疑嚴入
+揄	yu2		以虞平
+揶	ye2		以開三麻平
+鶻	hu2		匣魂入
+蘚	xian3		心開仙上
+啵	bo1		幫一歌平
+茗	ming2	ming3	明青上
+哧	chi1		昌開清入
+摻	chan1	shan1	生咸平
+迤	yi2		以開支平
+迤	yi3		以開支上
+沱	tuo2		定開一歌平
+礬	fan2		並元平
+瀦	zhu1		知魚平
+灤	luan2		來合寒平
+勿	wu4		明文入
+愾	kai4		溪咍去
+籮	luo2		來開一歌平
+賁	ben1		幫魂平
+賁	bi4		幫B支去
+獁	ma3		明二麻上
+杳	yao3		影蕭上
+丕	pi1		滂B脂平
+鐳	lei2		來灰平
+旮	ga1	jue	見江入
+旯	la2	luo4	來開唐入
+摟	lou3	lou2	來侯平
+摟	lou1	lou2	來侯平
+筐	kuang1		溪合陽平
+矍	jue2		見合陽入
+嗷	ao2		疑豪平
+仆	pu1	fu4	滂虞去
+噤	jin4		羣B侵上;羣B侵去
+弭	mi3		明A支上
+肓	huang1		曉合唐平
+奼	cha4	cha3	徹開二麻上
+郡	jun4		羣文去
+龕	kan1		溪覃平
+淅	xi1		心開青入
+諫	jian4		見開刪去
+畬	she1		書開三麻平
+畬	yu2		以魚平
+儆	jing3		見開三庚上
+嗑	ke1	ge	見談入
+嗑	ke4	ge	見談入
+苒	ran3		日鹽上
+崢	zheng1	cheng2	崇開二庚平;崇開耕平
+嶸	rong2	yong2	云合三庚平
+髂	qia4		溪開二麻去
+珅	shen1		書開眞平
+玟	wen2	min2	明B眞平
+孺	ru2	ru4	日虞去
+寮	liao2		來蕭平
+舫	fang3	fang4	幫陽去
+苣	ju4		羣魚上
+潁	ying3	yong3	以合清上
+俞	yu2		以虞平
+俞	shu4	chou4	徹尤去
+犄	ji1	yi1	影開B支平
+蹙	cu4	zu	精三東入
+胥	xu1		心魚平
+峋	xun2	xun1	心合眞平
+嶙	lin2		來開眞平
+紂	zhou4		澄尤上
+羧	suo1		心合一歌平
+鞅	yang1	yang3	影開陽上
+鞅	yang3		影開陽上
+貅	xiu1		曉尤平
+貔	pi2		並A脂平
+驍	xiao1	jiao1	見蕭平
+聒	guo1		見合寒入
+挲	suo1		心開一歌平
+絀	chu4	zhu	知合眞入
+綣	quan3		溪合元上
+繾	qian3		溪開A仙上
+駒	ju1		見虞平
+椿	chun1		徹合眞平
+掐	qia1		溪咸入
+粑	ba1		幫二麻平
+麩	fu1		滂虞平
+啜	chuo4		昌合仙入
+豢	huan4		匣合刪去
+驪	li2		來開支平
+輓	wan3		明元上
+籼	xian1	.	.
+詰	jie2	qi	溪開A眞入
+儷	li4		來開齊去
+姘	pin1	ping1	滂青平
+妲	da2		端開寒入
+煬	yang2		以開陽平
+跛	bo3		幫一歌上
+蠡	li3		來開齊上
+桀	jie2		羣開B仙入
+驁	ao4		疑豪去
+靄	ai3	ai4	影開泰去
+凇	song1		心鍾平
+牘	du2		定一東入
+歎	tan4		透開寒去
+璞	pu2	po	滂江入
+秭	zi3		精開脂上
+櫞	yuan2		以合仙平
+鼴	yan3		影開元上
+茭	jiao1		見肴平
+蜊	li2		來開脂平
+湟	huang2		匣合唐平
+豇	jiang1		見江平
+梆	bang1		幫江平
+粼	lin2		來開眞平
+鋥	zeng4	zheng4	澄開二庚去
+囹	ling2		來開青平
+圄	yu3		疑魚上
+銑	xi3	xian3	心開先上
+銑	xian3		心開先上
+趄	ju1	qu1	清魚平
+撻	ta4		透開寒入
+諛	yu2		以虞平
+仃	ding1		端開青平
+伉	kang4		溪開唐去
+殫	dan1		端開寒平
+胛	jia3		見銜入
+綬	shou4		常尤上;常尤去
+莨	lang4	lang2	來開唐平
+菪	dang4		定開唐去
+媾	gou4		見侯去
+懨	yan1		影A鹽平
+趔	lie4		來開仙入
+鴣	gu1		見模平
+鷓	zhe4		章開三麻去
+拈	nian1	nian2	泥添平
+娟	juan1	yuan1	影合A仙平
+腈	jing1		精開清平
+耙	pa2	ba4	並二麻去;幫二麻去
+耙	ba4		並二麻去;幫二麻去
+耙	pa1	ba4	並二麻去;幫二麻去
+盥	guan4		見合寒去
+螻	lou2		來侯平
+柘	zhe4		章開三麻去
+譎	jue2		見合先入
+鸝	li2		來開支平
+蓖	bi4	bi1	幫齊平
+擘	bo4		幫耕入
+靼	da2		端開寒入
+韃	da2	ta	透開寒入
+煜	yu4		以三東入
+呃	e4		影開耕入
+噯	ai4		影咍去
+慟	tong4	dong4	定一東去
+耒	lei3		來合脂上
+刎	wen3		明文上
+伕	fu1		幫虞平
+馥	fu4	fu2	並三東入
+揩	kai1	qie1	溪開皆平
+嚙	nie4	.	.
+礄	qiao2		羣B宵平
+炔	que1	gui4	見合齊去
+訶	he1		曉開一歌平
+聵	kui4	wai4	疑合皆去
+仄	ze4	zhe	莊開蒸入
+蘢	long2		來一東平;來鍾平
+鳩	jiu1		見尤平
+琅	lang2		來開唐平
+瘻	lou4		來侯去
+苡	yi3		以之上
+黜	chu4		徹合眞入
+閬	lang2		來開唐平
+閬	lang4		來開唐去
+縊	yi4		影開A支去;影開齊去
+滂	pang1		滂唐平
+盞	zhan3		莊開山上
+睢	sui1		心合脂平
+悱	fei3		滂微上
+盱	xu1		曉虞平
+眙	yi2		以之平
+凈	jing4	cheng1	初開耕平
+歙	she4		書鹽入
+岱	dai4		定咍去
+稞	ke1	kuo1	溪合一歌平
+舢	shan1		生開山平
+崴	wai3	wai1	影合皆平
+祺	qi2		羣之平
+曄	ye4		云鹽入
+隍	huang2		匣合唐平
+佰	bai3	bo	幫二庚入
+佻	tiao1		透蕭平
+痱	fei4		並微去
+漕	cao2		從豪平
+庵	an1		影覃平
+齜	zi1	zhi1	莊開支平
+蒡	bang4	bang3	幫唐上
+鮁	ba4	bo	幫寒入
+莢	jia2	jie	見添入
+鳶	yuan1	yuan2	以合仙平
+痣	zhi4		章之去
+縐	zhou1	chao4	初肴去
+縐	zhou4		莊尤去
+俎	zu3	zhu3	莊魚上
+俚	li3		來之上
+邙	mang2		明唐平
+鍔	e4		疑開唐入
+勐	meng3		明二庚上
+岑	cen2	chen2	崇侵平
+騖	wu4		明虞去
+煅	duan4	.	.
+堯	yao2		疑蕭平
+篪	chi2		澄開支平
+茼	tong2		定一東平
+蒿	hao1		曉豪平
+欒	luan2		來合寒平
+揍	zou4		精侯去
+唳	li4		來開齊去
+幢	chuang2		澄江平
+誰	shei2	shui2	常合脂平
+誰	shui2		常合脂平
+怵	chu4		徹合眞入
+嬴	ying2		以開清平
+汨	mi4		明青入
+沭	shu4	shu2	船合眞入
+紇	he2		匣痕入
+擄	lu3		來模上
+獺	ta3		透開寒入
+俾	bi3		幫A支上
+欞	ling2		來開青平
+淞	song1		心鍾平
+酊	ding3		端開青上
+酊	ding1	ding3	端開青上
+酩	ming3		明青上
+阮	ruan3	yuan3	疑合元上
+掰	bai1	bo	幫耕入
+醴	li3		來開齊上
+鎩	sha1		生開山入
+傈	li4		來開眞入
+僳	su4		心一東入
+皓	hao4		匣豪上
+鵰	diao1		端蕭平
+縉	jin4		精開眞去
+坩	gan1	kan1	溪談平
+堝	guo1		見合一歌平
+齙	bao1	pao2	並肴平
+庖	pao2		並肴平
+鉸	jiao3		見肴上
+軛	e4		影開耕入
+耄	mao4		明豪去
+孃	niang2		孃開陽平
+臻	zhen1		莊臻平
+熨	yun4	yu	影文入
+孬	nao1	nao2	孃肴平
+阡	qian1		清開先平
+羸	lei2		來合支平
+樵	qiao2		從宵平
+訃	fu4		滂虞去
+侗	dong4		定一東去
+侗	tong2		定一東平
+坻	di3		端開齊上
+陘	xing2		匣開青平
+啷	lang1	lang2	來開唐平
+耋	die2		定開先入
+謨	mo2	mu2	明模平
+茱	zhu1	shu2	常虞平
+萸	yu2		以虞平
+愎	bi4	bi2	並蒸入
+鎂	mei3	mi3	明B脂上
+餿	sou1	shou1	生尤平
+紺	gan4		見覃去
+逶	wei1		影合B支平
+剮	gua3		見合二麻上
+吲	yin3		以開眞上
+哚	duo3		端合一歌上
+韙	wei3		云合微上
+溟	ming2		明青平
+澧	li3		來開齊上
+婭	ya4		影開二麻去
+菖	chang1		昌開陽平
+臏	bin4		並A眞上
+菁	jing1		精開清平
+蓑	suo1		心合一歌平
+飴	yi2		以之平
+鐱	qian1	.	.
+鋃	lang2		來開唐平
+楞	leng2		來開登平
+楞	leng4	leng2	來開登平
+遽	ju4		羣魚去
+琿	hun2		匣魂平
+晏	yan4		影開刪去
+砣	tuo2		定開一歌平
+蓓	bei4		並灰上
+灞	ba4		幫二麻去
+紈	wan2	huan2	匣合寒平
+藺	lin4		來開眞去
+糍	ci2		從開脂平
+馗	kui2		羣合B脂平
+槌	chui2		澄合脂平
+囫	hu2		曉魂入
+圇	lun2		來合眞平
+敝	bi4		並A祭去
+絝	ku4		溪模去
+邈	miao3	mo4	明江入
+竽	yu2		云虞平
+擢	zhuo2		澄江入
+軲	gu1	ku1	溪模平
+鰱	lian2		來開仙平
+撅	jue1		見合元入
+簫	xiao1		心蕭平
+苻	fu2		並虞平
+苕	shao2	tiao2	定蕭平
+苕	tiao2		定蕭平
+碚	bei4		並灰上
+戕	qiang1	qiang2	從開陽平
+擷	xie2		匣開先入;曉開先入
+訇	hong1		曉合耕平
+稔	ren3		日侵上
+洮	tao2	tao1	透豪平
+邳	pi1	pi2	並B脂平
+椏	ya1		影開二麻平
+莒	ju3		見魚上
+炳	bing3		幫三庚上
+釵	chai1		初開佳平
+儈	kuai4	gui4	見合泰去
+醃	yan1		影B鹽平;影嚴平
+鱖	gui4		見合B祭去
+碭	dang4		定開唐去
+殆	dai4		定咍上
+絛	tao1		透豪平
+絛	di2	tao1	透豪平
+菟	tu4		透模去
+諢	hun4	wen4	疑魂去
+薌	xiang1		曉開陽平
+魍	wang3		明陽上
+魎	liang3		來開陽上
+夸	kua1		溪合二麻平
+蝮	fu4		滂三東入
+鷲	jiu4		從尤去
+丰	feng1		滂鍾平
+疝	shan4		生開刪去
+窠	ke1	kuo1	溪合一歌平
+騫	qian1		溪開B仙平
+觥	gong1		見合二庚平
+涂	tu2		定模平
+倨	ju4		見魚去
+釉	you4		以尤去
+噔	deng1		端開登平
+詁	gu3		見模上
+胝	zhi1		知開脂平
+胼	pian2		並先平
+渚	zhu3		章魚上
+曜	yao4		以宵去
+么	yao1	mo4	明登入
+謅	zhou1	chou1	初尤平
+玳	dai4		定咍去
+瑁	mao4		明豪去
+剁	duo4		端合一歌去
+菅	jian1		見開刪平
+鄯	shan4		常開仙上;常開仙去
+龔	gong1	jiong1	見鍾平
+鄖	yun2		云文平
+醍	ti2		定開齊平
+醐	hu2		匣模平
+姬	ji1		見之平
+殞	yun3		云合眞上
+鍁	xian1		曉開元平
+瞅	chou3		初尤上
+睨	ni4	yi4	疑開齊去
+蛹	yong3		以鍾上
+頡	jie2	xie2	匣開先入
+骶	di3	di4	端開齊去
+鈦	tai4		透開泰去
+鬮	jiu1		見尤平
+毖	bi4		幫B脂去
+鐧	jian3	jian4	見開刪去
+躚	xian1		心開仙平;心開先平
+笞	chi1		徹之平
+冼	xian3		心開先上
+擀	gan3		見開寒上
+鴆	zhen4		澄侵去
+掮	qian2		羣開B仙平
+佤	wa3		疑合二麻上
+殄	tian3	dian4	定開先上
+淶	lai2		來咍平
+趟	tang4	zheng4	知開二庚去
+薹	tai2		定咍平
+錠	ding4		定開青去;端開青去
+敖	ao2		疑豪平
+珞	luo4		來開唐入
+齟	ju3	zhu4	崇魚上
+齬	yu3		疑魚上
+縟	ru4		日鍾入
+啉	lin2	lan2	來覃平
+慪	ou4		影侯去
+芫	yan2	yuan2	疑合元平
+芫	yuan2		疑合元平
+藁	gao3		見豪上
+楔	xie1		心開先入
+徭	yao2		以宵平
+縴	qian4	qian1	溪開先平
+昀	yun2		以合眞平
+鍘	zha2		崇開刪入
+舛	chuan3		昌合仙上
+忸	niu3	nu4	孃三東入
+怩	ni2		孃開脂平
+鱘	xun2	xin2	邪侵平
+槨	guo3		見合唐入
+沆	hang4		匣開唐上
+瀣	xie4		匣開皆去
+螟	ming2		明青平
+逡	qun1		清合眞平
+炕	kang4		溪開唐去
+痾	ke1	e1	影開一歌平
+蜉	fu2	fou2	並尤平
+忤	wu3	wu4	疑模去
+燧	sui4		邪合脂去
+佞	ning4		泥開青去
+忪	song1		心一東平
+忪	zhong1		章鍾平
+肄	yi4		以開脂去
+樺	hua4		匣合二麻去
+膘	biao1	biao4	並A宵上
+燉	dun4	tun2	定魂平
+鯧	chang1		昌開陽平
+鯪	ling2		來開蒸平
+躉	dun3		端魂上
+妯	zhou2	zhu2	澄三東入
+屐	ji1	ji2	羣開三庚入
+尹	yin3	yun3	以合眞上
+闕	que4		溪合元入
+闕	que1		溪合元入
+翟	zhai2	zhe2	澄開二庚入
+翟	di2		定開青入
+哌	pai4	.	.
+犍	qian2		羣開B仙平
+犍	jian1		見開元平
+傣	dai3		端咍上
+倜	ti4		透開青入
+儻	tang3		透開唐上
+糨	jiang4		羣開陽去
+峴	xian4		匣開先上
+鑾	luan2		來合寒平
+醪	lao2		來豪平
+鬃	zong1		精一東平
+樅	zong1		精鍾平
+樅	cong1		清鍾平
+皖	wan3	huan4	匣合刪上
+敕	chi4		徹開蒸入
+褸	lü3		來虞上
+襤	lan2		來談平
+嬋	chan2		常開仙平
+嘍	lou2		來侯平
+虻	meng2		明二庚平
+鰣	shi2		常之平
+攛	cuan1		清合寒平
+訖	qi4	ji	見欣入
+孌	luan2	luan3 luan4	來合仙上
+呲	zi1		精開支平
+呲	ci1	ci2	從開支平
+聿	yu4		以合眞入
+饈	xiu1		心尤平
+殮	lian4		來鹽去
+贄	zhi4		章開脂去
+耆	qi2		羣開A脂平
+貉	he2		匣開唐入
+貉	hao2	mo4	明二庚入
+桁	heng2		匣開二庚平
+桁	hang2		匣開唐平
+叟	sou3		心侯上
+蕨	jue2		見合元入
+邐	li3		來開支上
+舜	shun4		書合眞去
+諍	zheng4		莊開耕去
+閂	shuan1		生合刪平
+碘	dian3		端開先上
+澠	mian3	min3	明A眞上
+蟊	mao2	mou2	明尤平
+荽	sui1		心合脂平
+錕	kun1	gun1	見魂平
+隅	yu2		疑虞平
+隅	yu4	yu2	疑虞平
+僭	jian4		精添去
+鱒	zun1	zun4	從魂上;從魂去
+娉	ping1	ping4	滂清去
+嶂	zhang4		章開陽去
+魑	chi1		徹開支平
+喹	kui2	kui1	溪合齊平
+晟	cheng2	sheng4	常開清去
+蟥	huang2		匣合唐平
+毽	jian4		見開元去
+儁	jun4		精合眞去
+朐	qu2		羣虞平
+竈	zao4		精豪去
+黷	du2		定一東入
+鯁	geng3		見開二庚上
+擤	xing3	heng3	曉開二庚上
+頊	xu1		曉鍾入
+顓	zhuan1		章合仙平
+伢	ya2		疑開二麻平
+鄆	yun4		云文去
+諳	an1		影覃平
+坂	ban3	fan3	幫元上
+倀	chang1		徹開陽平
+儺	nuo2		泥開一歌平
+訐	jie2		見開B仙入;見開元入
+躅	zhu2		澄鍾入
+躑	zhi2		澄開清入
+胯	kua4		溪合二麻去
+陟	zhi4		知開蒸入
+桫	suo1		心開一歌平
+欏	luo2		來開一歌平
+畚	ben3		幫魂上
+鶿	ci2		從之平
+鸕	lu2		來模平
+娓	wei3		明微上
+疥	jie4		見開皆去
+萋	qi1		清開齊平
+靛	dian4		定開先去
+郯	tan2		定談平
+絳	jiang4		見江去
+笤	tiao2		定蕭平
+謫	zhe2		知開耕入
+淼	miao3		明A宵上
+瓔	ying1		影開清平
+黟	yi1		影開A脂平;影開齊平
+蜢	meng3		明二庚上
+鰥	guan1		見合山平
+癆	lao2	lao4	來豪去
+糌	zan1		精覃平
+昱	yu4		以三東入
+礱	long2		來一東平
+芾	fu2		幫文入
+芾	fei4		幫微去
+璽	xi3	si3	心開支上
+鷯	liao2		來蕭平
+泅	qiu2	xiu2	邪尤平
+洄	hui2		匣灰平
+喑	yin1		影B侵平
+癯	qu2		羣虞平
+潞	lu4		來模去
+噻	sai1		心咍平
+翎	ling2		來開青平
+倌	guan1		見合寒平
+僮	zhuang4		澄江去
+僮	tong2		定一東平
+鵠	hu2		匣冬入
+鵠	gu3	hu2	匣冬入
+蘄	qi2		羣之平
+卟	bu3	ji1	見開齊平
+槁	gao3	kao3	溪豪上
+邡	fang1		幫陽平
+蠹	du4		端模去
+仡	ge1	yi4	疑欣入
+赭	zhe3		章開三麻上
+誚	qiao4	jiao4	從宵去
+浠	xi1		曉開微平
+蕻	hong2	hong4	匣一東去
+褡	da1		端覃入;端談入
+砭	bian1		幫B鹽平
+捻	nian3	nie4	泥添入
+挈	qie4		溪開先入
+銼	cuo4		清合一歌去
+讖	chen4		初侵去
+喟	kui4		溪合B脂去
+氅	chang3		昌開陽上
+艄	shao1		生肴平
+剌	la4		來開寒入
+剌	la2	la4	來開寒入
+悌	ti4	di4	定開齊去
+猗	yi1		影開B支平
+哏	gen2	hen2	匣痕平
+蠊	lian2		來鹽平
+顥	hao4		匣豪上
+觴	shang1		書開陽平
+茜	qian4		清開先去
+茜	xi1	qian4	清開先去
+慍	yun4		影文去
+篾	mie4		明先入
+鯢	ni2	yi2	疑開齊平
+罘	fu2	fou2	並尤平
+雉	zhi4		澄開脂上
+珙	gong3	gong3	見鍾上
+蒗	lang4		來開唐去
+冢	zhong3		知鍾上
+齏	ji1		精開齊平
+桕	jiu4		羣尤上
+廩	lin3		來侵上
+鄢	yan1		影開B仙平
+踽	ju3		見虞上
+祜	hu4		匣模上
+鏃	zu2		精一東入
+謄	teng2		定開登平
+姒	si4		邪之上
+蝣	you2		以尤平
+芮	rui4		日合祭去
+濉	sui1		心合脂平
+臧	zang1		精開唐平
+鯡	fei1	fei4	幫微去
+頦	ke1	hai2	匣咍平
+讕	lan2		來開寒平
+鑫	xin1		曉B侵平
+咻	xiu1		曉尤平
+銖	zhu1	shu2	常虞平
+錙	zi1	zhi1	莊之平
+圜	huan2		匣合刪平
+漵	xu4		邪魚上
+霑	zhan1		知鹽平
+笫	zi3	zhi3	莊之上
+荻	di2		定開青入
+僖	xi1		曉之平
+蕈	xun4	jin4	從侵上
+瓿	bu4	bou4	並侯上
+狍	pao2		並肴平
+淩	ling2		來開蒸平
+秣	mo4		明寒入
+哐	kuang1		溪合陽平
+濯	zhuo2		澄江入
+洵	xun2		邪合眞平
+塋	ying2	yong2	以合清平
+楦	xuan4		曉合元去
+箜	kong1		溪一東平
+篌	hou2		匣侯平
+崮	gu4		見模去
+癔	yi4		影開蒸入
+翕	xi1		曉B侵入
+垛	duo3	duo4	定合一歌上
+踟	chi2		澄開支平
+躕	chu2		澄虞平
+昊	hao4		匣豪上
+鐙	deng4		端開登去
+椽	chuan2		澄合仙平
+哦	e2		疑開一歌平
+郟	jia2		見咸入
+褚	chu3		徹魚上
+蒓	chun2		常合眞平
+邗	han2		匣開寒平
+罅	xia4		曉開二麻去
+鸞	luan2		來合寒平
+嗉	su4		心模去
+妍	yan2		疑開先平
+塹	qian4		清鹽去
+覘	chan1		徹鹽平
+嗥	hao2		匣豪平
+盅	zhong1	zhong1	徹三東平
+嗶	bi4		幫A眞入
+潟	xi4		心開清入
+聃	dan1	tan1	透談平
+痍	yi2		以開脂平
+囟	xin4		心開眞去
+酞	tai4		透開泰去
+孚	fu2	fu1	滂虞平
+啾	jiu1		精尤平
+馱	tuo2		定開一歌平
+馱	duo4		定開一歌去
+晷	gui3		見合B脂上
+揠	ya4		影開山入
+啁	zhou1		知尤平
+堇	jin3		見欣上
+裱	biao3		幫B宵上
+舨	ban3		幫刪上
+漚	ou4		影侯去
+夔	kui2		羣合B脂平
+鱅	yong1	yong2	以鍾平
+万	mo4		明登入
+俟	qi2		羣開微平
+俟	si4	shi4	俟之上
+蚴	you4	you3	影幽上
+壅	yong1		影鍾平
+蚍	pi2		並A脂平
+垓	gai1		見咍平
+鵜	ti2		定開齊平
+鶘	hu2		匣模平
+誑	kuang2	guang4	見合陽去
+鄄	juan4		見合A仙去
+腖	dong4		端一東去
+藪	sou3		心侯上
+蛐	qu1		溪鍾入
+茌	chi2		崇之平
+猢	hu2		匣模平
+猻	sun1		心魂平
+邕	yong1		影鍾平
+鮪	wei3		云合脂上
+适	kuo4		溪合寒入
+哂	shen3		書開眞上
+膈	ge2		見開耕入
+碴	cha2		崇開二麻平
+碴	cha1	zha1	莊開二麻平
+蟯	nao2	rao2	日宵平
+孓	jue2		見合元入
+膂	lü3		來魚上
+愷	kai3		溪咍上
+蚧	jie4		見開皆去
+蜮	yu4		云合蒸入
+夯	hang1		曉開唐平
+夯	ben4		並魂上
+萼	e4		疑開唐入
+纈	xie2		匣開先入
+蕷	yu4		以魚去
+怙	hu4		匣模上
+榘	ju3		見虞上
+趴	pa1		滂山入
+猁	li4		來開脂去
+猞	she1		書開三麻平
+萱	xuan1		曉合元平
+裘	qiu2		羣尤平
+潯	xun2	xin2	邪侵平
+篳	bi4		幫A眞入
+咂	za1		精覃入
+鎣	ying2	yong2	以合清平
+幡	fan1		滂元平
+仵	wu3		疑模上
+葳	wei1		影合微平
+蕤	rui2		日合脂平
+郾	yan3		影開元上
+驊	hua2		匣合二麻平
+卅	sa4		心覃入;心談入
+楝	lian4		來開先去
+柞	zha4	zuo2 zuo	精開唐入
+柞	zuo4		精開唐入
+櫪	li4		來開青入
+譙	qiao2		從宵平
+煢	qiong2		羣合清平
+櫟	li4		來開青入
+螈	yuan2		疑合元平
+蠑	rong2	yong2	云合三庚平
+劄	zha2		知咸入
+蓽	bi4		幫A眞入
+黍	shu3		書魚上
+槃	pan2		並寒平
+仫	mu4		明模去
+尸	shi1		書開脂平
+椋	liang2		來開陽平
+帙	zhi4	zhi2	澄開眞入
+穡	se4	she	生開蒸入
+澹	dan4		定談上;定談去
+鮫	jiao1		見肴平
+汞	gong3	hong4	匣一東上
+鷸	yu4		以合眞入
+煊	xuan1		曉合元平
+廖	liao4	liao2	來蕭平
+嚳	ku4		溪冬入
+筠	yun2		云合眞平
+緙	ke4		溪開耕入
+麴	qu1		溪三東入
+殍	piao3	biao4	並B宵上
+琦	qi2		羣開B支平
+粲	can4		清開寒去
+饊	san3		心開寒上
+籽	zi3		精之上
+衆	zhong4		章三東去
+饗	xiang3		曉開陽上
+俳	pai2		並皆平
+篦	bi4	bi1	幫齊平
+町	ding1	ding4	定開青上
+町	ting3		透開青上
+鱺	li2	li3	來開齊上
+愿	yuan4		疑合元去
+櫝	du2		定一東入
+畹	wan3	yuan3	影合元上
+臬	nie4	ye4	疑開先入
+捅	tong3		透一東上
+悛	quan1		清合仙平
+唿	hu1	.	.
+歃	sha4		生咸入
+鰾	biao4		並A宵上
+耵	ding1	ding3	端開青上
+聹	ning2		泥開青平
+駮	bo2		幫江入
+誆	kuang1	guang4	羣合陽去
+拽	zhuai4	shi4	常開祭去
+拽	ye4		以開仙入
+貳	er4		日開脂去
+岬	jia3		見銜入
+珮	pei4	bei4	並灰去
+痦	wu4		疑模去
+倥	kong3		溪一東上
+倥	kong1		溪一東平
+傯	zong3		精一東上
+櫸	ju3		見魚上
+黧	li2		來開齊平
+檄	xi2		匣開青入
+趿	ta1	sa	心覃入
+釺	qian1		清開先平
+嵬	wei2		疑灰平
+嶷	yi2		疑之平
+讌	yan4		影開先去
+狎	xia2		匣銜入
+怫	fu2		並文入
+虱	shi1	she	生臻入
+嘁	qi1	za	精覃入
+杼	zhu4		澄魚上
+儐	bin1		幫A眞平
+碣	jie2		羣開B仙入;羣開元入
+弼	bi4	bi2	並B眞入
+踺	jian4		羣開元去
+余	yu2		以魚平
+艟	chong1		昌鍾平
+艨	meng2		明一東平
+霪	yin2		以侵平
+榫	sun3	xun3	心合眞上
+憷	chu4	chu3	初魚上
+撣	dan3	dan4	定開寒去
+撣	shan4	chan4	常開仙平
+隰	xi2		邪侵入
+蛺	jia2	jie	見添入
+莜	you2	diao4	定蕭去
+蠖	huo4	wo	影合唐入
+乜	mie1	mie3	明三麻上
+笊	zhao4		莊肴去
+鴰	gua1		見合刪入
+賚	lai4		來咍去
+蛄	gu1		見模平
+蛄	gu3	gu1	見模平
+殽	yao2	xiao2	匣肴平
+蹼	pu3	bu	幫一東入
+趺	fu1		幫虞平
+囌	su1		心模平
+螬	cao2		從豪平
+蠐	qi2		從開齊平
+佚	yi4		以開眞入
+楸	qiu1		清尤平
+溘	ke4		溪覃入
+拊	fu3		滂虞上
+慳	qian1		溪開山平
+幛	zhang4		章開陽去
+埇	yong3		以鍾上
+獾	huan1		曉合寒平
+蒴	shuo4		生江入
+縞	gao3		見豪上
+岫	xiu4		邪尤去
+褫	chi3		徹之上;徹開支上
+奩	lian2		來鹽平
+畦	qi2	hui2	匣合齊平
+杈	cha4	chai4	初開佳去
+茛	gen4		見痕去
+豕	shi3		書開支上
+髫	tiao2		定蕭平
+磴	deng4		端開登去
+寤	wu4		疑模去
+皴	cun1	qun1	清合眞平
+槲	hu2		匣一東入
+鬩	xi4		曉開青入
+橐	tuo2		透開唐入
+蛸	xiao1		心宵平
+蛸	shao1		生肴平
+螵	piao1		滂A宵平
+抻	chen1	shen4	書開眞去
+鈺	yu4		疑鍾入
+圻	qi2		羣開微平
+鎢	wu1		影模平
+檗	bo4		幫耕入
+搦	nuo4		孃江入
+飭	chi4		徹開蒸入
+酢	zuo4	zuo2	從開唐入
+酢	cu4		清模去
+豸	zhi4		澄開支上
+酃	ling2		來開青平
+槭	qi4	zu	精三東入
+愆	qian1		溪開B仙平
+轡	pei4	bi4	幫B脂去
+鰓	sai1		心咍平
+癘	li4		來開祭去
+糲	li4		來開祭去
+岢	ke3		溪開一歌上
+瘊	hou2		匣侯平
+磬	qing4		溪開青去
+犟	jiang4	.	.
+懞	meng2	.	.
+荇	xing4	heng4	匣開二庚上
+樑	liang2		來開陽平
+鼬	you4		以尤去
+蜣	qiang1		溪開陽平
+蕹	weng4		影一東去
+閶	chang1		昌開陽平
+駢	pian2		並先平
+蔫	nian1	yan1	影開B仙平;影開元平
+鼯	wu2		疑模平
+冪	mi4		明青入
+揹	bei1		幫灰平
+嫪	lao4		來豪去
+毐	ai3		影咍上
+鷦	jiao1		精宵平
+屣	xi3	shi3	生開支上
+慼	qi1		清開青入
+萜	tie1		透添入
+祛	qu1		溪魚平
+嶧	yi4		以開清入
+璐	lu4		來模去
+摳	kou1		溪侯平
+榿	qi1		溪開B支平
+燁	ye4		云鹽入
+瓠	hu4		匣模去
+磙	gun3	.	.
+讒	chan2		崇咸平
+褊	bian3		幫A仙上
+鱧	li3		來開齊上
+昴	mao3		明肴上
+髯	ran2		日鹽平
+噠	da1		端開寒入
+啃	ken3		溪痕上
+俁	yu3		疑虞上
+疣	you2		云尤平
+乩	ji1		見開齊平
+髀	bi4		並齊上
+炆	wen2		明文平
+舐	shi4		船開支上
+犰	qiu2		羣尤平
+狳	yu2		以魚平
+宄	gui3		見合B脂上
+闃	qu4		溪合青入
+濞	bi4	pi4	滂B脂去;滂齊去
+鎦	liu4	liu2	來尤平
+鎦	liu2		來尤平
+撂	liao4		來蕭去
+銓	quan2	quan1	清合仙平
+庄	zhuang1	peng2	並耕平
+庾	yu3		以虞上
+輊	zhi4		知開脂去
+耜	si4		邪之上
+蓼	liao3		來蕭上
+畛	zhen3		章開眞上
+祆	xian1		曉開先平
+窨	yin4		影B侵去
+熳	man4		明刪去;明寒去
+鳧	fu2		並虞平
+鐸	duo2		定開唐入
+簞	dan1		端開寒平
+尥	liao4		來蕭去
+趑	zi1	ci1	清開脂平
+捩	lie4		來開先入
+螅	xi1		心開蒸入
+褙	bei4		幫灰去
+霽	ji4		精開齊去
+妁	shuo4	shuo2	常開陽入
+詈	li4		來開支去
+昵	ni4		孃開眞入
+舔	tian3		透添上
+蚰	you2		以尤平
+磧	qi4		清開清入
+葙	xiang1		心開陽平
+喏	nuo4	re3	日開三麻上
+喏	re3		日開三麻上
+劭	shao4		常宵去
+瑛	ying1		影開三庚平
+蹀	die2		定添入
+躞	xie4		心添入
+鏨	zan4		從談上
+妣	bi3		幫A脂上
+湼	nie4		泥開先入
+蒔	shi2		常之平
+秕	bi3		幫A脂上
+霰	xian4		心開先去
+躥	cuan1		清合寒平
+溮	shi1	.	.
+旰	gan4		見開寒去
+紓	shu1		書魚平
+糝	san3		心覃上
+桄	guang1		見合唐平
+癰	yong1		影鍾平
+錒	a1	e1	影開一歌平
+嫠	li2		來之平
+鑭	lan2	lan4	來開寒去
+秫	shu2		船合眞入
+猇	xiao1		曉肴平
+炻	shi2		常開清入
+鏹	qiang1	jiang3	見開陽上
+坵	qiu1		溪尤平
+籀	zhou4		澄尤去
+弒	shi4		書之去
+舀	yao3		以宵上
+碇	ding4		定開青去
+樽	zun1		精魂平
+蚶	han1		曉談平
+縭	li2		來開支平
+菘	song1		心三東平
+菽	shu1		書三東入
+杵	chu3		昌魚上
+湉	tian2		定添平
+鵓	bo2		並魂入
+衾	qin1		溪B侵平
+牝	pin4	bin4	並A眞上
+諠	xuan1		曉合元平
+稃	fu1		滂虞平
+毓	yu4		以三東入
+塚	zhong3		知鍾上
+矻	ku1		溪魂入
+覃	tan2		定覃平
+麿	mo3	.	.
+瀧	long2		來一東平
+瀧	shuang1		生江平
+紼	fu2		幫文入
+鮒	fu4		並虞去
+眵	chi1		昌開支平
+騍	ke4	kuo4	溪合一歌去
+氘	dao1		端豪平
+羼	chan4		初開刪去
+葆	bao3		幫豪上
+驤	xiang1		心開陽平
+虢	guo2		見合二庚入
+鑞	la4		來談入
+壢	li4		來開青入
+拚	pan4	bian4	並B仙去
+拚	pin1	bian4	並B仙去
+篋	qie4		溪添入
+獐	zhang1		章開陽平
+筌	quan2	quan1	清合仙平
+焓	han2		匣覃平
+瓤	rang2		日開陽平
+礓	jiang1		見開陽平
+溏	tang2		定開唐平
+掄	lun1	lun2	來合眞平;來魂平
+掄	lun2		來合眞平;來魂平
+瀍	chan2		澄開仙平
+郢	ying3		以開清上
+棵	ke1	kuo1	溪合一歌平
+襻	pan4		滂刪去
+儇	xuan1		曉合A仙平
+莰	kan3		溪覃上
+翦	jian3		精開仙上
+赧	nan3		孃開刪上
+桴	fu2	fou2	並尤平
+枘	rui4		日合祭去
+筲	shao1		生肴平
+崦	yan1		影B鹽平
+嵫	zi1		精之平
+佧	ka3	qia3	溪開二麻上
+鯗	xiang3		心開陽上
+湔	jian1		精開仙平;精開先平
+懋	mao4	mou4	明侯去
+蟮	shan4		常開仙上
+觚	gu1		見模平
+鉞	yue4		云合元入
+柢	di3		端開齊上
+斫	zhuo2		章開陽入
+癉	dan4	dan1	端開寒平
+羝	di1		端開齊平
+叶	xie2		匣添入
+猸	mei2	mi2	明B脂平
+惝	chang3		昌開陽上
+袼	ge1		見開唐入
+裴	pei2		並灰平
+饉	jin3	jin4	羣開B眞去
+裒	pou2		並侯平
+鑹	cuan1	cuan4	清合寒去
+埕	cheng2		澄開清平
+檎	qin2		羣B侵平
+箸	zhu4		澄魚去;知魚去
+厝	cuo4		清開唐入
+跣	xian3		心開先上
+蹇	jian3		見開B仙上;見開元上
+硃	zhu1		章虞平
+膻	shan1	dan4	定開寒上
+莩	piao3	biao4	並B宵上
+佟	tong2		定冬平
+眥	zi4		從開支去
+枋	fang1		幫陽平
+憝	dui4		定灰去
+奭	shi4		書開清入
+漼	cui3		清灰上
+旄	mao2		明豪平
+旄	mao4		明豪去
+萁	qi2		羣之平
+杠	gang4	jiang1	見江平
+箐	qing4	jing1	精開清平
+泮	pan4		滂寒去
+噌	ceng1	cheng1	初開耕平
+芏	du4	tu3	透模上
+茳	jiang1		見江平
+駑	nu2		泥模平
+夼	kuang3		溪合唐上
+怍	zuo4	zuo2	從開唐入
+稂	lang2		來開唐平
+黿	yuan2		疑合元平
+乶	fu3	.	.
+亍	chu4		徹鍾入
+亹	wei3		明微上
+仂	le4		來開登入
+仟	qian1		清開先平
+伄	diao4		端蕭去
+伾	pi1		滂B脂平
+佉	qu1	qie1	溪開三歌平
+佉	qia1	qie1	溪開三歌平
+佪	huai2	hui2	匣灰平
+侉	kua3	e4	影開一歌去
+俉	wu2	.	.
+俜	ping1		滂青平
+倻	ye1	ye2	以開三麻平
+偁	cheng1		昌開蒸平
+僨	fen4		幫文去
+僬	jiao1		精宵平
+儂	nong2		泥冬平
+儅	dang1		端開唐平
+儕	chai2		崇開皆平
+兕	si4		邪開脂上
+冏	jiong3	.	.
+冑	zhou4		澄尤去
+凄	qi1		清開齊平
+凼	dang4	.	.
+刈	gua4	yi4	疑開廢去
+刈	yi4		疑開廢去
+剴	kai3	gai1	見咍平
+劼	jie2	qia	溪開山入
+勦	jiao3		精宵上
+勰	xie2		匣添入
+匭	gui3		見合B脂上
+厂	chang3	han3	曉開寒上
+厗	ti2		定開齊平
+厾	du1	diu1	端幽平
+叒	ruo4		日開陽入
+叕	zhuo2		知合仙入
+叻	le4		來開登入
+吖	a1	ya1	影開二麻平
+吥	bu4	.	.
+吽	ou1	hou3	曉侯上
+吽	hong1	hou3	曉侯上
+呔	tai1	dai1	端咍平
+呦	you1		影幽平
+呫	zhan1	tie	透添入
+呫	tie4		透添入
+呶	nao2		孃肴平
+呷	ga1	xia	曉銜入
+咑	da1	.	.
+咭	ji1	xi	曉開A眞入
+咾	lao3	.	.
+哰	lao2		來豪平
+哱	bo1	po	滂魂入
+哳	zha1		知開刪入
+唄	bai4		並夬去
+唅	han1		曉覃平
+唔	wu2		疑模平
+唚	qin4		清侵去
+唣	zao4	.	.
+唵	an3		影覃上
+唷	yo1	yu4	以三東入
+唸	nian4	dian4	端添去;端開先去
+啖	dan4		定談上;定談去
+啫	zhe3	.	.
+喁	yong2		疑鍾平
+喂	wei4		影合微去
+喆	zhe2		知開仙入
+喙	hui4		曉合廢去
+喨	liang4		來開陽去
+喵	miao1	miao2	明B宵平
+喼	jie2	.	.
+嗊	gong4	hong3	曉一東上
+嗟	jie1		精開三麻平
+嗨	hai1		曉咍平
+嗪	qin2		從開眞平
+嗵	tong1		透一東平
+嘚	de1	.	.
+嘚	de4	.	.
+嘜	mai4	mo4	明耕入
+嘢	ye3	.	.
+嘣	beng1		幫登平
+嘸	m2	wu2	明虞平
+嘸	wu3		明虞上
+嘸	fu3	wu3	明虞上
+嘽	chan3		昌開仙上
+嘽	tan1		透開寒平
+噍	jiao4		從宵去
+噏	xi1		曉B侵入
+噗	pu1		滂一東入
+噘	jue1		見合元入
+噝	si1		心之平
+噢	o1	yu3	影虞上
+噦	hui4		曉合泰去
+噦	yue3		影合B仙入;影合元入
+嚐	chang2		常開陽平
+囀	zhuan4		知合仙去
+囒	lan2	.	.
+囝	jian3		見開B仙上
+囿	you4		云尤去
+圉	yu3		疑魚上
+圐	ku1	.	.
+圙	lüe4	.	.
+圪	ge1	yi4	疑欣入;疑開B眞入
+圮	pi3	bi4	並B脂上
+坋	ben4	fen4	並文上;並文去
+坨	tuo2		定開一歌平
+坫	dian4		端添去
+坳	ao4	yao1	影肴平
+垝	gui3		見合B支上
+埗	bu4	.	.
+埡	ya1	ya4	影開二麻去
+埤	pi2		並A支平
+埲	beng3	beng4	並一東上
+埵	duo3		端合一歌上
+埼	qi2		羣開B支平
+堃	kun1		溪魂平
+塍	cheng2	sheng2	船開蒸平
+塕	weng3		影一東上
+塬	yuan2	.	.
+墉	yong1	yong2	以鍾平
+墻	qiang2		從開陽平
+壈	lan3		來覃上
+壹	yi1		影開A眞入
+夤	yin2		以開眞平
+夥	huo3	huo4	匣合一歌上
+妗	jin4		羣B侵去
+姫	ji1	.	.
+姮	heng2	.	.
+娣	di4		定開齊上;定開齊去
+娭	ai1	xi1	曉之平
+媕	an1		影覃平
+媵	ying4		以開蒸去
+嫏	lang2	.	.
+嫘	lei2		來合脂平
+嬛	xuan1		曉合A仙平
+嬛	huan2	xuan1	曉合A仙平
+孛	bei4		並灰去
+孰	shu2		常三東入
+宥	you4		云尤去
+寳	bao3	.	.
+尕	ga3	jia3	見開二麻上
+尜	ga2	jia	見開刪入
+尻	kao1		溪豪平
+屄	bi1		幫A脂平
+屌	diao3		端蕭上
+屙	e1		影開一歌平
+屭	xi4	.	.
+峇	ba1	ke	溪覃入
+峚	mi4	.	.
+崁	kan3	kan4	溪覃去
+嵋	mei2	mi2	明B脂平
+嵛	yu2	.	.
+嵞	tu2		定模平
+嵴	ji3	.	.
+嶌	dao3	.	.
+嶪	ye4		疑嚴入
+巆	ying2	.	.
+巹	jin3		見欣上
+巽	xun4	sun4	心魂去
+帑	tang3		透開唐上
+帘	lian2		來鹽平
+帡	ping2	.	.
+帹	sha4		生銜入
+幃	wei2		云合微平
+幪	meng2		明一東平
+廄	jiu4		見尤去
+廌	zhi4		澄開支上
+廑	qin2	jin4	羣開B眞去
+廡	wu3		明虞上
+廡	wu2	wu3	明虞上
+廥	kuai4	gui4	見合泰去
+廿	nian4	ri4	日侵入
+弳	jing4		見開青去
+彀	gou4		見侯去
+彖	tuan4		透合寒去
+彘	zhi4		澄開祭去
+彠	huo4	huo2	匣合耕入
+彧	yu4		影三東入
+彳	chi4		徹開清入
+彸	zhong1		章鍾平
+很	hen3	hen4	匣痕上
+徯	xi1	xi4 xi2	匣開齊平
+徼	jiao3	jiao4 jiao1	見蕭去
+忒	te4		透開登入
+忞	min2		明B眞平
+怛	da2		端開寒入
+恁	ren4	ren3 ren2	日侵上
+恓	xi1	.	.
+悒	yi4		影B侵入
+悝	kui1		溪灰平
+悧	li4	.	.
+您	nin2	nin3	孃侵上
+惓	quan2	.	.
+惙	chuo4	zhuo	知合仙入
+惛	hun1		曉魂平
+憹	nao2		泥豪平
+懟	dui3	zhui4	澄合脂去
+懟	dui4	zhui4	澄合脂去
+懤	chou2		澄尤平
+懮	you1	you3	影尤上
+戇	gang4	zhuang4	知江去
+戔	jian1	can2	從開寒平
+戧	qiang4		清開陽去
+戧	qiang1	chuang1	初開陽平
+戽	hu4		曉模去
+扂	dian4		定添上
+扑	pu1		滂一東入
+扛	kang2	xiang2	匣江平
+扦	qian1		清開仙平
+抃	bian4		並B仙去
+抏	wan2		疑合寒平
+抿	min3		明A眞上
+拶	zan3	za	精開寒入
+挹	yi4		影A侵入
+捂	wu3	wu4	疑模去
+捋	luo1	luo4	來合寒入
+捎	shao1		生肴平
+捱	ai2	ya2	疑開佳平
+揆	kui2	gui4	羣合A脂上
+揎	xuan1		心合仙平
+揘	yong2		云合三庚平
+揦	la2	.	.
+搋	chuai1	chai1	徹開皆平
+搳	hua2	.	.
+搴	qian1	jian3	見開B仙上
+搵	wen4		影魂去
+摁	en4		影痕去
+摑	guai1	guo	見合耕入
+摞	luo4		來合一歌去
+摶	tuan2		定合寒平
+撝	hui1		曉合B支平
+撿	jian3	lian3	來鹽上
+擧	ju3	yu2	以魚平
+擼	lu1	lu2	來模平
+攆	nian3	lian3	來開仙上
+攉	huo1		曉合唐入
+攥	zuan4	zuo	精合寒入
+敪	duo1	.	.
+斝	jia3		見開二麻上
+旃	zhan1		章開仙平
+旆	pei4	bei4	並泰去
+昉	fang3		幫陽上
+昫	xu4		曉虞去
+晬	zui4		精灰去
+暆	yi2		以開支平
+暡	weng3		影一東上
+暾	tun1		透魂平
+曚	meng2	meng3	明一東上
+曱	yue1	.	.
+朊	ruan3	yuan3	疑合元上
+朕	zhen4		澄侵上
+杌	wu4		疑魂入
+杓	shao2	shuo2	常開陽入
+杪	miao3		明A宵上
+枒	ya1	ya2	疑開二麻平
+枓	dou3		端侯上
+枳	zhi3		章開支上
+柊	zhong1		章三東平
+柝	tuo4		透開唐入
+栝	kuo4	kuo4	見合寒入
+栱	gong3	jiong3	見鍾上
+栲	kao3		溪豪上
+栳	lao3		來豪上
+栴	zhan1		章開仙平
+桷	jue2		見江入
+梜	jia1		見銜入
+梣	chen2		崇侵平
+棰	chui2	zhui3	章合支上
+棱	leng2		來開登平
+棶	lai2		來咍平
+棻	fen1		滂文平
+椆	zhou4		章尤去
+椆	chou2		澄尤平
+椆	diao4	zhou4	章尤去
+椥	zhi1	.	.
+椪	peng4		滂耕去
+椴	duan4		定合寒去
+楮	chu3		徹魚上
+榧	fei3		幫微上
+榭	xie4		邪開三麻去
+榲	wen1	.	.
+槔	gao1		見豪平
+槜	zui4	.	.
+槤	lian2		來開仙平
+槵	huan4		匣合刪去
+槺	kang1		溪開唐平
+槿	jin3		見欣上
+檃	yin3	.	.
+檮	tao2		定豪平
+檵	ji4		見開齊去
+櫆	kui2	.	.
+櫓	lu3		來模上
+櫫	zhu1		知魚平
+欷	xi1		曉開微平
+欿	kan3	han4	匣覃上
+歔	xu1		曉魚平
+殂	cu2		從模平
+殗	ye4		影嚴入
+殜	die2	zhe2	澄鹽入
+殤	shang1		書開陽平
+氪	ke4		溪開登入
+氹	dang4	dan4	定談上
+氽	tun3		透魂上
+汙	wu1	yu2	云虞平
+汫	jing3	jing4	從開青上
+泆	yi4		以開眞入
+泓	hong2	weng1	影合耕平
+泝	su4		心模去
+洇	yin1		影開A眞平
+洙	zhu1	shu2	常虞平
+洣	mi3		明齊上
+洧	wei3		云合脂上
+洨	xiao2		匣肴平
+浽	sui1		心合脂平
+淥	lu4		來一東入;來鍾入
+淯	yu4		以三東入
+渫	xie4		心開仙入
+湣	min3		明B眞上
+溦	wei1	.	.
+溲	sou1	shou1	生尤平
+溴	xiu4		曉尤去
+溷	hun4		匣魂去
+滻	chan3	shan3	生開山上
+漊	lou2	lou3	來侯上
+漭	mang3		明唐上
+潽	pu3	pu1	滂模平
+澥	xie4	xia4	匣開佳上
+濂	lian2		來添平
+濊	hui4		曉合泰去
+濙	ying2	yong3	影合青上
+濠	hao2		匣豪平
+灃	feng1		滂三東平
+灢	nang3		泥開唐上
+炷	zhu4		章虞去
+烜	xuan3		曉合元上
+烝	zheng1		章開蒸平
+焌	qu1		清合眞入
+焌	jun4		精合眞去
+焗	ju2		羣鍾入
+焢	kong4	hong1	曉一東平
+煸	bian1		幫先平
+熵	shang1		書開陽平
+燐	lin2		來開眞平
+燜	men4		明魂去
+燮	xie4		心添入
+爌	kong4	kuang4	溪合唐去
+爨	cuan4		清合寒去
+牖	you3		以尤上
+牤	mang1	.	.
+牴	di3		端開齊上
+牸	zi4		從之去
+牻	mang2		明江平
+牾	wu3	wu4 wu2	疑模去
+犂	li2		來開脂平;來開齊平
+犎	feng1		幫鍾平
+犏	pian1		滂A仙平
+犪	kui2		羣合B脂平
+狁	yun3		以合眞上
+狉	pi1	.	.
+狓	pi1		滂B支平
+猳	jia1		見開二麻平
+猵	pian4	bian1	幫先平
+獃	dai1	ai2	疑咍平
+獕	cui1	.	.
+獙	bi4	.	.
+獫	xian3		曉B鹽上
+獬	xie4	xia4	匣開佳上
+獮	xian3		心開仙上
+獯	xun1		曉文平
+獴	meng3	.	.
+玃	jue2		見合陽入
+玎	ding1		端開青平
+玓	di4		端開青入
+玗	yu2		云虞平
+玢	fen1	bin1	幫B眞平
+玦	jue2		見合先入
+珂	ke1		溪開一歌平
+珈	jia1		見開二麻平
+珉	min2		明B眞平
+珓	jiao4		見肴去
+珣	xun2	xun1	心合眞平
+珥	er3	er4	日之去
+琊	ya2	ye2	以開三麻平
+瑄	xuan1		心合仙平
+瑾	jin3	jin4	羣開B眞去
+璜	huang2		匣合唐平
+璣	ji1		見開微平
+璦	ai4		影咍去
+璺	wen4		明文去
+瓅	li4		來開青入
+瓴	ling2		來開青平
+甍	meng2		明耕平
+甪	lu4		來一東入
+甴	zha2	.	.
+甾	zai1	zhi1	莊之平
+畋	tian2		定開先平
+畑	tian2	.	.
+疎	shu1		生魚平
+疔	ding1		端開青平
+痲	ma2		明二麻平
+瘛	chi4		昌開祭去
+瘜	xi1		心開蒸入
+瘰	luo3		來合一歌上
+瘲	zong4		精鍾去
+癀	huang2		匣合唐平
+癃	long2		來三東平
+癧	li4		來開青入
+皀	bi1		幫B侵入;幫蒸入
+皌	mo4	.	.
+皒	e2	.	.
+盃	bei1		幫灰平
+眄	mian3		明先上
+眄	mian4		明先去
+眇	miao3		明A宵上
+眦	zi4	zhai4	崇開佳去
+眳	ming2	ming3	明清上;明青上
+眽	mo4		明耕入
+睃	suo1	jun4	精合眞去
+睇	di4		定開齊去
+睚	ya2	ya4	疑開佳去
+睥	bi4	pi4	滂齊去
+睪	gao1	ẋ	.
+睺	hou2		匣侯平
+瞀	mao4	mo4	明江入
+瞇	mi1	mi3	明A支上
+瞈	weng3	.	.
+瞋	chen1		昌開眞平
+瞓	fen4	.	.
+瞘	kou1		溪侯平
+瞤	run2		日合眞平
+瞤	shun4	run2	日合眞平
+瞽	gu3		見模上
+矓	long2		來一東平
+矣	yi3		云之上
+砢	ke1	luo3	來開一歌上
+砬	la2	li4	來侵入
+砷	shen1		書開眞平
+硇	nao2		孃肴平
+硐	dong4		定一東上
+硨	che1		昌開三麻平
+硪	wo4	e2	疑開一歌平
+碁	qi2		羣之平
+磑	ai2	wei2	疑灰平
+磑	wei2		疑灰平
+磡	kan4		溪覃去
+磲	qu2		羣魚平
+礆	jian3	.	.
+礌	lei4	.	.
+礜	yu4		以魚去
+礤	ca3		清開寒入
+祇	qi2		羣開A支平
+祐	you4		云尤去
+祓	fu2		滂文入
+祚	zuo4	zu4	從模去
+禊	xi4		匣開齊去
+禛	zhen1		章開眞平
+禳	rang2		日開陽平
+离	li2		來開支平
+稙	zhi2		知開蒸入
+稨	bian3	.	.
+穰	rang2		日開陽平
+穸	xi1	xi2	邪開清入
+窀	zhun1		知合眞平
+窅	yao3		影蕭上
+窣	su4		心魂入
+窳	yu3		以虞上
+窸	xi1		心開眞入
+窾	kuan3		溪合寒上
+笄	ji1		見開齊平
+笈	ji2		羣B侵入
+笥	si4		心之去
+筀	gui4		見合齊去
+筅	xian3		心開先上
+筊	jiao3		見肴上
+筑	zhu4		知三東入
+筕	hang2		匣開唐平
+筮	shi4		常開祭去
+篔	yun2		云文平
+篖	tang2		定開唐平
+篙	gao1		見豪平
+篥	li4		來開眞入
+簉	zao4	chou4	初尤去
+簪	zan1		精覃平
+簹	dang1		端開唐平
+籙	lu4		來鍾入
+糗	qiu3		溪尤上
+糢	mo2	.	.
+糬	shu3	shu4	常魚去
+紝	ren4	ren2	日侵平
+絍	ren4		日侵去
+絎	hang2	heng4	匣開二庚去
+絘	ci4		清開脂去
+絜	xie2		匣開先入
+綵	cai3		清咍上
+綷	cui4	zui4	精灰去
+綹	liu3		來尤上
+緄	gun3		見魂上
+緑	lü4	lu4	來鍾入
+縧	tao1	.	.
+縩	cai4	.	.
+縵	man4		明刪去;明寒去
+繇	you2		以尤平
+繇	yao2		以宵平
+繯	huan2	huan4	匣合刪去
+纍	lei2		來合脂平
+纔	cai2		從咍平
+缶	fou3		幫尤上
+罍	lei2		來灰平
+罟	gu3		見模上
+罡	gang1		見開唐平
+罾	zeng1		精開登平
+羆	pi2	bi1	幫B支平
+羱	yuan2		疑合元平
+翥	zhu4		章魚去
+翮	he2		匣開耕入
+翳	yi4		影開齊去
+肈	zhao4		澄宵上
+肏	cao4		清豪去
+肭	na4		孃合山入
+胂	shen4	shen1	書開眞平
+胠	qu1		溪魚平
+胬	nu3		泥模上
+脣	chun2	shun2	船合眞平
+脩	xiu1		心尤平
+脬	pao1		滂肴平
+脲	niao4		泥蕭去
+脷	li4	.	.
+腚	ding4		定開青去
+腧	shu4		書虞去
+膃	wa4	wu	影魂入
+膕	guo2		見合耕入
+膪	chuai4	zhai4	知開佳去
+膲	jiao1		精宵平
+臌	gu3		見模上
+臚	lu2	lü2	來魚平
+臠	luan2		來合寒平
+臢	za1	zan1	精開寒平
+臲	nie4	ye4	疑開先入
+舂	chong1	shong1	書鍾平
+舄	xi4		心開清入
+舲	ling2		來開青平
+舺	jia3	xia2	匣銜入
+艅	yu2		以魚平
+艋	meng3		明二庚上
+艎	huang2		匣合唐平
+艏	shou3		書尤上
+艮	gen4		見痕去
+艮	gen3	gen4	見痕去
+艻	le4		來開登入
+艽	jiao1		見肴平
+芊	qian1		清開先平
+芑	qi3		溪之上
+苄	bian4		並B仙去
+苘	qing3	qiong3	溪合清上;溪合青上
+苤	pie3	pi1	滂B脂平
+苫	shan1		書鹽平
+苲	zha3	.	.
+苴	ju1		精魚平
+茀	fu2		滂文入
+茈	ci2		從開支平
+茚	yin4		影開A眞去
+荃	quan2	quan1	清合仙平
+莪	e2		疑開一歌平
+莿	ci4		清開支去
+菀	wan3	yuan3	影合元上
+菔	fu2		並三東入
+菥	xi1		心開青入
+菰	gu1		見模平
+菴	an1		影覃平
+菸	yan1		影開先平
+菹	zu1	zhu1	莊魚平
+菾	tian2		定添平
+萇	chang2		澄開陽平
+萘	nai4		泥開泰去
+萣	ding4		定開青去
+萮	yu2		以虞平
+萰	lian4		來開先去
+萹	bian1		幫先平
+萹	bian3		幫先上
+葄	zuo4	.	.
+葚	shen4		船侵上
+蒐	sou1	shou1	生尤平
+蒟	ju3		見虞上
+蒭	chu2	.	.
+蒻	ruo4		日開陽入
+蒽	en1		影痕平
+蓂	mi4		明青入
+蓊	weng3		影一東上
+蓐	ru4		日鍾入
+蓴	chun2		常合眞平
+蔟	cu4		清一東入
+蕒	mai3		明佳上
+蕕	you2		以尤平
+蕘	rao2		日宵平
+蕙	hui4		匣合齊去
+蕠	ru2		日魚平
+蕺	ji2	zhe	莊侵入
+藊	bian3		幫先上
+藒	qie4		溪開B仙入
+藘	lü2		來魚平
+藜	li2		來開齊平
+藠	jiao4		見蕭去
+藨	biao1		幫B宵平
+藭	qiong2		羣三東平
+蘅	heng2		匣開二庚平
+蘘	rang2		日開陽平
+蘞	lian3		來鹽上
+蘧	qu2		羣虞平;羣魚平
+蘵	zhi2	.	.
+蘸	zhan4		莊咸去
+蘺	li2		來開支平
+蘼	mi2		明B支平
+虉	yi4		疑開青入
+虰	ding1		端開青平
+虺	hui3		曉合微上
+虼	ge4		見痕入
+蚖	yuan2		疑合元平
+蚵	ke1	ke4	溪開一歌去
+蚵	e2	he2	匣開一歌平
+蚺	ran2		日鹽平
+蛆	qu1		清魚平
+蛉	ling2		來開青平
+蛜	yi1		影開A脂平
+蛞	kuo4		溪合寒入
+蛵	xing2	xing1	曉開青平
+蜐	jie2		見嚴入
+蜑	dan4		定開寒上
+蜱	pi2		並A支平
+蜽	liang3		來開陽上
+蝀	dong1		端一東平
+蝃	zhuo1		章合仙入
+蝄	wang3	.	.
+蝐	mao4	.	.
+蝓	yu2		以虞平
+蝛	wei1		影合微平
+蝥	mao2		明肴平
+蝰	kui2	kui1	溪合齊平
+蝲	la4		來開寒入
+蝳	dai4	du2	定冬入
+蝽	chun1		昌合眞平
+螉	weng1		影一東平
+螋	sou1	shou1	生尤平
+螫	zhe1	shi	書開清入
+螭	chi1		徹開支平
+螮	di4		端開齊去
+螯	ao2		疑豪平
+螽	zhong1		章三東平
+蟟	liao2		來蕭平
+蟢	xi3		曉之上
+蟣	ji3		見開微上
+蟪	hui4		匣合齊去
+蟭	jiao1		精宵平
+蠓	meng3		明一東上
+蠛	mie4		明先入
+蠨	xiao1		心蕭平
+蠮	ye1		影開先入
+蠲	juan1		見合先平
+蠵	xi1	hui2	匣合齊平
+蠼	qu2		羣虞平
+衕	tong4	dong4	定一東去
+衕	tong2		定一東平
+衚	hu2		匣模平
+衽	ren4		日侵去
+袴	ku4		溪模去
+袷	jia2		見咸入
+裇	xu1	.	.
+裎	cheng2		澄開清平
+裰	duo1		端合寒入
+裼	xi1		心開青入
+褟	ta1	.	.
+褵	li2		來開支平
+襏	bo2		幫寒入
+襝	lian3	lian2	來鹽平
+襫	shi4		書開清入
+覎	yan4		影嚴去
+覡	xi2		匣開青入
+觜	zi1		精開支平
+觜	zui3		精合支上
+觱	bi4		幫A眞入
+觽	xi1	.	.
+訢	xin1		曉欣平
+訾	zi3		精開支上
+詒	yi2		以之平
+詝	zhu3		知魚上
+詬	gou4	gou3	見侯上
+誒	ei1	xi1	曉之平
+諡	shi4		船開脂去
+諤	e4		疑開唐入
+諮	zi1		精開脂平
+譁	hua2		匣合二麻平
+譖	zen4	zhen4	莊侵去
+譫	zhan1	zhe	章鹽入
+譭	hui3		曉合B支上
+讞	yan4	yan3	疑開B仙上
+谿	xi1	qi1	溪開齊平
+豞	hou4		曉侯去
+豱	wen1		影魂平
+貊	mo4		明二庚入
+貲	zi1		精開支平
+賙	zhou1		章尤平
+賧	dan3	tan4	透談去
+贔	bi4		並B脂去
+赸	shan4	.	.
+趦	zi1	.	.
+趼	jian3		見開先上
+跂	qi4		溪開A支去
+跂	qi3		溪開A支上
+跂	qi2		羣開A支平
+跂	zhi1	ẋ	.
+跏	jia1		見開二麻平
+跩	zhuai3	.	.
+踅	xue2		邪合仙入
+踔	chuo1		徹江入
+踘	ju1		見三東入
+踣	bo2		並登入
+踥	qie4		清鹽入
+踮	dian3		端添上
+踶	di4		定開齊去
+蹚	tang1	.	.
+蹡	qiang4		清開陽去
+蹧	zao1		精豪平
+蹬	deng1	deng4	定開登去
+蹬	deng4		定開登去
+蹻	qiao1		溪A宵平
+躓	zhi4		知開脂去
+躔	chan2		澄開仙平
+軃	duo3	.	.
+軔	ren4		日開眞去
+軫	zhen3		章開眞上
+輂	ju2		見鍾入
+輦	nian3	lian3	來開仙上
+輬	liang2		來開陽平
+轀	wen1	.	.
+轗	kan3		溪覃上
+轘	huan4		匣合刪去
+迕	wu3	wu4	疑模去
+迮	ze2	zhe	莊開二庚入
+迹	ji4		精開清入
+迺	nai3		泥咍上
+逋	bu1		幫模平
+逕	jing4		見開青去
+遄	chuan2		常合仙平
+遑	huang2		匣合唐平
+遒	qiu2		從尤平
+遝	ta4	da2	定覃入
+邨	cun1	tun2	定魂平
+邷	wa3		疑合二麻上
+郅	zhi4		章開眞入
+郇	xun2	xun1	心合眞平
+郛	fu2	fu1	滂虞平
+郤	xi4	qi	溪開三庚入
+鄋	sou1	shou1	生尤平
+酆	feng1		滂三東平
+酕	mao2		明豪平
+酲	cheng2		澄開清平
+醄	tao2	.	.
+醌	kun1	gun1	見魂平
+醢	hai3		曉咍上
+醣	tang2		定開唐平
+醮	jiao4		精宵去
+醱	fa1	.	.
+釕	liao4	diao3	端蕭上
+釩	fan2	fan3	滂凡上
+釳	xi4		曉欣入
+鈀	ba3	ba1	幫二麻平
+鈎	gou1		見侯平
+鈷	gu3		見模上
+鉅	ju4		羣魚上
+鉧	mu3	.	.
+鉻	ge4		見開二庚入
+鉾	mou2	.	.
+銃	chong4		昌三東去
+銱	diao4		端蕭去
+鋇	bei4		幫泰去
+鋏	jia2	jie	見添入
+鋦	ju1		見鍾入
+鋩	mang2	wang2	明陽平
+鋯	gao4		見豪去
+錚	zheng1	cheng1	初開耕平
+鍪	mou2		明尤平
+鍰	huan2		匣合刪平
+鎏	liu2		來尤平
+鎛	bo2		幫唐入
+鎳	nie4	ye4	疑開先入
+鎵	jia1		見開二麻平
+鏇	xuan4		邪合仙去
+鏊	ao4		疑豪去
+鏰	beng4		幫登去
+鑊	huo4	huo2	匣合唐入
+鑔	cha3		初開山入
+閎	hong2		匣合耕平
+閦	chu4	.	.
+閫	kun3		溪魂上
+閭	lü2		來魚平
+閼	yan1		影開先平
+閼	e4		影開寒入
+闈	wei2		云合微平
+闍	she2		常開三麻平
+闐	tian2		定開先平
+阢	wu4		疑魂入
+陜	xia2		匣咸入
+陴	pi2		並A支平
+隉	nie4	ye4	疑開先入
+隼	sun3	xun3	心合眞上
+雚	huan2		匣合寒平
+雰	fen1		滂文平
+霂	mu4		明一東入
+霏	fei1		滂微平
+霢	mai4	mo4	明耕入
+靆	dai4		定咍去
+靉	ai4		影咍去
+靬	jian1		見開元平;見開山平
+鞝	shang4	.	.
+鞲	gou1		見侯平
+鞴	bei4	bi4	並B脂去
+顗	yi3		疑開微上
+顙	sang3		心開唐上
+顬	ru2		日虞平
+颭	zhan3		章鹽上
+颻	yao2		以宵平
+飧	sun1		心魂平
+飫	yu4		影魚去
+餄	he2	jia	見咸入
+餔	bu4		並模去
+餕	jun4		精合眞去
+餬	hu2		匣模平
+餳	xing2		邪開清平
+餼	xi4		曉開微去
+饌	zhuan4		崇合仙去;崇合刪上
+饔	yong1		影鍾平
+饜	yan4		影A鹽去
+饢	nang3	nang2	泥開唐平
+駟	si4		心開脂去
+騃	ai2	ye3	疑開皆上
+騏	qi2		羣之平
+騭	zhi4		章開眞入
+騮	liu2		來尤平
+騶	zou1	zhou1	莊尤平
+驌	su4		心三東入
+驎	lin2		來開眞平
+驦	shuang1		生開陽平
+骺	hou2		匣侯平
+髝	lao2		來豪平
+髞	sao4		心豪去
+髭	zi1		精開支平
+鬒	zhen3		章開眞上
+鬣	lie4		來鹽入
+鬭	dou4		端侯去
+鬻	yu4		以三東入
+魃	ba2	bo2	並寒入
+魆	xu4	.	.
+魆	xu1	.	.
+魖	xu1		曉魚平
+魟	hong2		匣一東平
+魠	tuo1		透開唐入
+魣	yu2	.	.
+鮃	ping2		並三庚平
+鮍	pi2	pi1	滂B支平
+鮐	tai2	tai1	透咍平
+鮟	an1		影開寒平
+鮨	qi2		羣開A脂平
+鯇	huan4		匣合刪上
+鯔	zi1	zhi1	莊之平
+鯕	qi2		羣之平
+鯖	qing1		清開青平
+鯛	diao1		端蕭平
+鯤	kun1	gun1	見魂平
+鯰	nian2		泥添平
+鯷	ti2		定開齊平
+鰂	zei2	ze2	從開登入
+鰆	chun1	.	.
+鰈	die2		定添入
+鰟	pang2	.	.
+鰹	jian1		見開先平
+鱀	ji4		羣之去;羣開B脂去
+鱆	zhang1	.	.
+鱇	kang1		溪開唐平
+鱝	fen4		並文上
+鱟	hou4		匣侯去
+鱠	kuai4	gui4	見合泰去
+鱥	gui4	.	.
+鳯	feng4	.	.
+鳽	yan2		疑開先平
+鳽	jian1		見開先平
+鳾	shi1	.	.
+鴂	jue2		見合先入
+鴃	jue2		見合先入
+鴒	ling2		來開青平
+鴔	fu2	.	.
+鴝	qu2		羣虞平
+鴞	xiao1	yao2	云宵平
+鴟	chi1		昌開脂平
+鴯	er2		日之平
+鴴	heng2	.	.
+鴷	lie4		來開仙入
+鵂	xiu1		曉尤平
+鵐	wu2		明虞平
+鵒	yu4		以鍾入
+鵖	bi1		幫B侵入
+鵟	kuang2		羣合陽平
+鵯	bei1	bi1	幫A支平
+鵾	kun1	gun1	見魂平
+鶇	dong1		端一東平
+鶊	geng1		見開二庚平
+鶒	chi4	.	.
+鶓	miao2		明B宵平
+鶖	qiu1		清尤平
+鶗	ti2	.	.
+鶚	e4		疑開唐入
+鶥	mei2	mi2	明B脂平
+鶪	ju2		見合青入
+鶬	cang1		清開唐平
+鶲	weng1		影一東平
+鶹	liu2		來尤平
+鶺	ji2		精開清入
+鶼	jian1		見添平
+鷂	yao4		以宵去
+鷈	ti1		透開齊平
+鷉	ti1	.	.
+鷙	zhi4		章開脂去
+鷚	liu4		來尤去
+鷫	su4		心三東入
+鷳	xian2		匣開山平
+鷿	pi4	bi2	並青入
+鸂	xi1	qi1	溪開齊平
+鸊	pi4	bi2	並青入
+鸌	hu4	wo	影合唐入
+鸏	meng2		明一東平
+鸘	shuang1		生開陽平
+鸛	guan4		見合寒去
+麂	ji3		見開B脂上
+麇	qun2	jun1	見合B眞平
+麈	zhu3		章虞上
+黇	tian1		透添平
+黐	chi1		徹開支平
+黢	qu1		清合眞入
+鼉	tuo2		定開一歌平
+鼢	fen2		並文平
+鼩	qu2		羣虞平
+鼱	jing1		精開清平
+鼷	xi1	xi2	匣開齊平
+齌	ji4		從開齊去
+齎	ji1		精開齊平
+齧	nie4	ye4	疑開先入
+齱	zou1	zhou1	莊尤平
+齵	yu2		疑虞平
+龠	yue4		以開陽入
+㐖	xie2	.	.
+㚻	ji1	.	.
+㞎	ba3	.	.
+㹢	jia1	.	.
+㹴	geng3	.	.
+㺢	huo4	.	.
+䗥	zong1		精一東平
+䰾	ba1	.	.
+䳭	ji2	.	.
+䴉	huan2	.	.
+黽	min3		明A眞上
+趵	bao4		.
+澶	chan2		常開仙平
+棹	zhao4		澄肴去
+荑	yi2		以開脂平
+瘥	chai4		初開佳去
