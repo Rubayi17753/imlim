@@ -1,9 +1,9 @@
-A table comparing and integrating Qieyun 'glosses' from the databases powering the Autoderiver (https://nk2028.shn.hk/tshet-uinh-autoderiver/) before and after September 2024,
-i.e. before and after the tool migrated from https://nk2028.shn.hk/qieyun-autoderiver/
+A table comparing and integrating Qieyun 'glosses' from the databases powering the Autoderiver (<https://nk2028.shn.hk/tshet-uinh-autoderiver/>) before and after September 2024,
+i.e. before and after the tool migrated from <https://nk2028.shn.hk/qieyun-autoderiver/>
 
 The columns, from left to right, contain:
 - Unicode codepoints, the characters, and a column reserved for miscellanous annotations (按) concerning the characters and/or readings.
-	- The only annotation in the table as of 06.11.2004 is 少: a marker indicating readings that are relatively 'marginal' in attestation and use, e.g. for 三:心開一談去 ( > san4, saam3 ) of the collocations 三復 and 三思, vis-à-vis 心開一談去 ( > san1, saam1 ), the much more common reading. This category is based on a) frequencies approximated from frequency lists + a multicharacter Qieyun gloss table from the former database; b) Wiktionary glosses; and c) subjective judgement. This category is provisional and would be polished in the future with a more methodological approach; additional markers could be added to indicate if a reading is extinct in modern Sinitic, attested in some modern topolects but not others, hapax or dis only attested in one or two words, etc. 
+	- The only annotation in the table as of 06.11.2004 is 少: a marker indicating readings that are relatively 'marginal' in attestation and use, e.g. for 三:心開一談去 ( > san4, saam3 ) of the collocations 三復 and 三思, vis-à-vis 心開一談去 ( > san1, saam1 ), the much more common reading. This category is based on a) frequencies approximated from frequency lists + a multicharacter Qieyun gloss table from the former database <sup>1</sup> ; b) Wiktionary glosses; and c) subjective judgement. This category is provisional and would be polished in the future with a more methodological approach; additional markers could be added to indicate if a reading is extinct in modern Sinitic, attested in some modern topolects but not others, hapax or dis only attested in one or two words, etc. 
 - First 遺現 ('legacy'/'current') pair: Readings in the orthography/syntax of each database. 
 	- A checkmark ✓ to the right indicates that the character-reading pair is actually attested in each of the database. 'Missing' Qieyun 'glosses' are supplied from homophonic characters with attested glosses in both databases, or, in cases where the *syllable* in question is completely absent from any one of the databases (indicated by ! or !!), constructed based on similar glosses in the database (in most cases this only involves a substitution in tone and initial).
 - Second 遺現: Cantonese Jyutping romanisations generated from current (gwongzau.js/'推導廣州音') and legacy ('推導廣州音') algorithms, the latter provided only when differing from the former. The differences are scant enough in number (140) and type so as to allow for a brief summary of different Jyutping syllables resulting between the two algorithms:
@@ -30,3 +30,5 @@ The readings 冷 laang and 打 daang result from line 145 of gwongzau.js:
 Miscellanous notes:
 - !! 怎 is glossed 精一侵上 (ts im 上) in the former database, the only entry in the database with the final 一侵.
 This final and the reading are no doubt fictious; 怎 derives from contraction and/or lenition of 作物 /tsɑk mut/.
+
+<sup>1</sup> in all likelihood either forked from, or a parent of, <https://github.com/biopolyhedron/rime-middle-chinese/blob/master/zyenpheng.dict.yaml> . The data I worked with uses Qieyun glosses but contains the same set of characters and readings.
