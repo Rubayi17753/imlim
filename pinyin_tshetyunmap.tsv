@@ -1,5 +1,6 @@
 ﻿# Database that maps pinyin readings to their closest Tshet'hyun (Qieyun) equivalents.
-# Pinyin readings tabulated from CEDict. Tshet'hyun (Qieyun) phonetic glosses sourced from multiple databases; syntax follows earlier versions of nk2028.
+# Pinyin readings tabulated from CEDict. Tshet'hyun phonetic glosses sourced from multiple databases; syntax follows earlier versions of nk2028.
+# All Tshet'hyun syllables corresponding to a Standard Mandarin syllable delimited by semicolons.
 # No tone: Standard Mandarin unpredictable (入); 
 # not to be confused with syllables with neutral tone ('Tone 5'), which are not assigned expected_readings.
 # character counts are from CC-CEDICT (https://www.mdbg.net/chinese/dictionary?page=cedict). CEDICT is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
@@ -1802,7 +1803,7 @@ character	attested_reading	expected_reading	QY	singchar_ count	multchar_ count	c
 晶	jing1		精開清平	1	60	61
 涼	liang2		來開陽平	2	58	61
 涼	liang4		來開陽去	1	0	61
-災	zai1	zai1; zai1	精咍平; 精咍平	1	60	61
+災	zai1		精咍平; 精咍平	1	60	61
 燃	ran2		日開仙平	1	60	61
 粗	cu1	zu4	從模上	1	60	61
 糊	hu2		匣模平	1	31	61
@@ -2269,7 +2270,7 @@ character	attested_reading	expected_reading	QY	singchar_ count	multchar_ count	c
 剪	jian3		精開仙上	2	40	42
 咬	yao3		疑肴上	1	41	42
 售	shou4		常尤去	1	41	42
-姬	ji1	ji1; ji1	見之平; 見之平	2	40	42
+姬	ji1		見之平; 見之平	2	40	42
 孜	zi1		精之平	1	41	42
 寸	cun4		清魂去	1	38	42
 寸	cun5			0	3	42
@@ -5555,7 +5556,7 @@ character	attested_reading	expected_reading	QY	singchar_ count	multchar_ count	c
 琶	pa2		並二麻平	1	1	5
 瓏	long2		來一東平	1	4	5
 甾	zai1			1	4	5
-甾	zi1	zhi1; zhi1	莊之平; 莊之平	0	0	5
+甾	zi1	zhi1	莊之平; 莊之平	0	0	5
 畝	mu3	mou3	明侯上	1	4	5
 痣	zhi4		章之去	1	4	5
 痧	sha1		生開二麻平	1	4	5
