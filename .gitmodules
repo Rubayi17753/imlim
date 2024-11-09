@@ -1,0 +1,3 @@
+[submodule "rime-middle-chinese-phonetics"]
+	path = rime-middle-chinese-phonetics
+	url = https://github.com/rime-aca/rime-middle-chinese-phonetics.git
