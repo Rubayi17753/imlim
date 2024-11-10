@@ -1,3 +1,6 @@
 [submodule "rime-middle-chinese-phonetics"]
 	path = rime-middle-chinese-phonetics
 	url = https://github.com/rime-aca/rime-middle-chinese-phonetics.git
+[submodule "RIME_OC_collections"]
+	path = RIME_OC_collections
+	url = https://github.com/Hulenkius/RIME_OC_collections.git
