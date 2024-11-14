@@ -7,7 +7,7 @@ The columns, from left to right, contain:
 - First 遺現 ('legacy'/'current') pair: Readings in the orthography/syntax of each database. 
 	- A checkmark ✓ to the right indicates that the character-reading pair is actually attested in each of the database. 'Missing' Qieyun 'glosses' are supplied from homophonic characters with attested glosses in both databases, or, in cases where the *syllable* in question is completely absent from any one of the databases (indicated by ! or !!), constructed based on similar glosses in the database (in most cases this only involves a substitution in tone and initial).
 - UPDATES:
-	- An expanded, six-character representation of the glosses for use in parsing, find and replace algorithms, etc.
+	- An expanded, six-character representation of the glosses for use in parsing, conversion, etc.
 	- TUPA and Baxter's typeable romanisations.
 - Second 遺現: Cantonese Jyutping and Mandarin Pinyin romanisations generated from current (gwongzau.js/'推導廣州音') and legacy ('推導廣州音') algorithms, the latter provided only when differing from the former. The differences are scant enough in number (140) and type so as to allow for a brief summary of different Jyutping syllables resulting between the two algorithms:
 
