@@ -6,7 +6,10 @@ The columns, from left to right, contain:
 	- The only annotation in the table as of 06.11.2004 is 少: a marker indicating readings that are relatively 'marginal' in attestation and use, e.g. for 三:心開一談去 ( > san4, saam3 ) of the collocations 三復 and 三思, vis-à-vis 心開一談去 ( > san1, saam1 ), the much more common reading. This category is based on a) frequencies approximated from frequency lists + a multicharacter Qieyun gloss table from the former database<sup>1</sup> ; b) Wiktionary glosses; and c) subjective judgement. This category is provisional and would be polished in the future with a more methodological approach; additional markers could be added to indicate if a reading is extinct in modern Sinitic, attested in some modern topolects but not others, hapax or dis only attested in one or two words, etc. 
 - First 遺現 ('legacy'/'current') pair: Readings in the orthography/syntax of each database. 
 	- A checkmark ✓ to the right indicates that the character-reading pair is actually attested in each of the database. 'Missing' Qieyun 'glosses' are supplied from homophonic characters with attested glosses in both databases, or, in cases where the *syllable* in question is completely absent from any one of the databases (indicated by ! or !!), constructed based on similar glosses in the database (in most cases this only involves a substitution in tone and initial).
-- Second 遺現: Cantonese Jyutping romanisations generated from current (gwongzau.js/'推導廣州音') and legacy ('推導廣州音') algorithms, the latter provided only when differing from the former. The differences are scant enough in number (140) and type so as to allow for a brief summary of different Jyutping syllables resulting between the two algorithms:
+- UPDATES:
+	- An expanded, six-character representation of the glosses for use in parsing, find and replace algorithms, etc.
+	- TUPA and Baxter's typeable romanisations.
+- Second 遺現: Cantonese Jyutping and Mandarin Pinyin romanisations generated from current (gwongzau.js/'推導廣州音') and legacy ('推導廣州音') algorithms, the latter provided only when differing from the former. The differences are scant enough in number (140) and type so as to allow for a brief summary of different Jyutping syllables resulting between the two algorithms:
 
 |字|遺|現|數|
 |------|------|------|------|
